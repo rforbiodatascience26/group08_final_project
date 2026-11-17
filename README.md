@@ -76,7 +76,7 @@ per country, per year, the income and wealth in share of national GDP of
 the poorer "bottom" 50% and of the richer "top" 1%
 
 ?? rows x ?? columns (free to build)
-Data from 1931 to 2025
+Data from 1983 to 2025 (but free to choose, sometimes empty)
 Variables of interest:
 1. Country
 2. Bottom 50% income
@@ -85,6 +85,10 @@ Variables of interest:
 5. Top 1% wealth 
 6. GDP
 
+Data wrangling steps:
+1. Dropping the variables that we don’t need and empty cells
+2. Transform the 4 variables in 2 by taking the ratio of top / bottom
+3. Join on Country to match the other datasets
 
 
 Under 5 mortality rate: https://www.who.int/data/gho/data/indicators/indicator-
