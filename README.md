@@ -17,7 +17,8 @@ lm ( mortality rate ~ vaccination coverage + stunting prevalence )
 
 ### Considered datasets : 
 
-#### 1) Measles immunization dataset: per country, per year, tracks the percentage of 1-year
+#### 1) Measles immunization dataset: 
+per country, per year, tracks the percentage of 1-year
 olds that have received their first dose of the measles vaccine.
 4,856 rows x 34 columns
 Data from 2000 - 2024
@@ -48,13 +49,13 @@ Data wrangling steps:
 actual percentage of interest and the CI (e.g. “1.3 [0.6 - 2.8]”). Using the stringr
 library we can extract just the first part as numeric.
 
-#### 2) Stunting prevalence dataset: per country, per survey year, what percentage of
-children under 5 are stunted (their height is 2 standard deviations below the WHO
-growth reference median)
+#### 2) Stunting prevalence dataset: 
+per country, per survey year, what percentage of children under 5 are stunted (their height 
+is 2 standard deviations below the WHOgrowth reference median)
 ~ This is a potential marker for chronic undernutrition.
 
 967 rows x 34 columns
-Data from 1983 ti 2023
+Data from 1983 to 2023
 Variables of interest:
 1. SpatialDimValueCode: ISO3 country code
 2. Location / Parent Location: country name and WHO region
@@ -69,11 +70,32 @@ Data wrangling steps:
 with the CI in brackets, so we will only extract the first parts as numeric.
 
 
-#### 3) Under 5 mortality rate: hhps://www.who.int/data/gho/data/indicators/indicator-
+
+#### 3) (optional) Inequality based on income and wealth of bottom 50% vs top 1% 
+per country, per year, the income and wealth in share of national GDP of 
+the poorer "bottom" 50% and of the richer "top" 1%
+
+?? rows x ?? columns (free to build)
+Data from 1931 to 2025
+Variables of interest:
+1. Country
+2. Bottom 50% income
+3. Bottom 50% wealth
+4. Top 1% income
+5. Top 1% wealth 
+6. GDP
+
+
+
+Under 5 mortality rate: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-
 births)
-Measles vaccine: hhps://www.who.int/data/gho/data/indicators/indicator-
+
+Measles vaccine: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/measles-containing-vaccine-first-dose-(mcv1)-immuniza-on-coverage-
 among-1-year-olds-(-)
-Stunting prevalence: hhps://www.who.int/data/gho/data/indicators/indicator-
+
+Stunting prevalence: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/gho-jme-country-children-aged-5-years-stunted-(-height-for-age--2-sd)
+
+Wealth and income inequality: https://wid.world/data/
