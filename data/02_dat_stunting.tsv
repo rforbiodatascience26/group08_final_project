@@ -1,0 +1,968 @@
+country_code	country	region	year	stunting_prevalence	FactComments
+LKA	Sri Lanka	South-East Asia	2023	10.3	Sri Lanka 2023 Nutrition Month Survey
+ECU	Ecuador	Americas	2023	17.5	Encuesta Nacional de Desnutrición Infantil - ENDI, Ecuador 2022-2023
+BDI	Burundi	Africa	2023	58	Enquête ménage pour le suivi et l’évaluation de l’impact de l’appui au système de remboursement du Paquet Minimum des Services de santé, édition 2023 (PMS 2023)
+LTU	Lithuania	Europe	2022	0.9	Lithuania Child Health Monitoring Information System 2022 Reduced age range; Height/length modality (standing/lying) was not collected
+BLR	Belarus	Europe	2022	1.2	Child Malnutrition Data from State Statistical Reporting Form, Belarus 2022
+FIN	Finland	Europe	2022	1.8	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2022
+PER	Peru	Americas	2022	11.7	Encuesta Demográfica y de Salud Familiar-ENDES 2022 Nacional y Departamental
+VNM	Viet Nam	Western Pacific	2022	18.9	Viet Nam National Nutrition Surveillance Network, 2022
+IDN	Indonesia	Western Pacific	2022	21.6	Survei Status Gizi Indonesia – SSGI 2022 Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	2022	21.8	Enquête Nutritionnelle Anthropometrique et de Mortalite Retrospective en Septembre 2022 - 12e Edition Au Mali
+KWT	Kuwait	Eastern Mediterranean	2022	4.6	Kuwait Nutrition Surveillance System [KNSS] 2022. Kuwait city, Kuwait: Food & Nutrition Administration Weighted analyses to adjust for unbalanced age distribution using UNPD WPP; Height/length modality (standing/lying) was not collected
+BDI	Burundi	Africa	2022	55.8	Enquete Nationale sur la Situation Nutritrionnelle et de Mortalite Au Burundi (ENSNMB 2022) basée sur la méthodologie SMART, mars 2022
+QAT	Qatar	Eastern Mediterranean	2022	6.3	Health Center Data from Primary Health Care Corporation Qatar [2022 Extract] Reduced age range; Height/length modality (standing/lying) was not collected
+LKA	Sri Lanka	South-East Asia	2022	9.2	Sri Lanka 2022 Nutrition Month Survey
+LTU	Lithuania	Europe	2021	0.7	Lithuania Child Health Monitoring Information System 2021 Reduced age range; Height/length modality (standing/lying) was not collected
+BLR	Belarus	Europe	2021	1.2	Child Malnutrition Data from State Statistical Reporting Form, Belarus 2021
+FIN	Finland	Europe	2021	1.3	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2021
+PER	Peru	Americas	2021	11.5	Encuesta Demográfica y de Salud Familiar-ENDES 2021 Nacional y Departamental
+MEX	Mexico	Americas	2021	12.8	Encuesta Nacional de Salud y Nutrición Continua, Mexico 2021 Height/length modality (standing/lying) was not collected
+MRT	Mauritania	Africa	2021	17.4	Enquête nutritionnelle nationale SMART, Mauritanie 2021 Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	2021	22.1	Rapport Finale de l'Enquete Nutritionnelle Anthropometrique et de Mortality Retrospective 11e Edition au Mali
+IDN	Indonesia	Western Pacific	2021	24.4	Survei Status Gizi Indonesia – SSGI 2021 Height/length modality (standing/lying) was not collected
+TCD	Chad	Africa	2021	31.1	Enquete Nationale de Nutrition SMART 2021, Chad
+TZA	United Republic of Tanzania	Africa	2021	32.7	Tanzania 2020-2022 National Panel Survey, Wave 5 Age calculated using alternate methods
+KWT	Kuwait	Eastern Mediterranean	2021	4.3	Kuwait Nutrition Surveillance System [KNSS] 2021. Kuwait city, Kuwait: Food & Nutrition Administration, Weighted analyses to adjust for unbalanced age distribution using UNPD WPP; Height/length modality (standing/lying) was not collected
+NER	Niger	Africa	2021	44.4	Enquête Nutritionnelle et de Mortalite Retrospective au Niger, Decembre 2021
+YEM	Yemen	Eastern Mediterranean	2021	45.1	The Report of Nutrition and Mortality Surveys conducted between August 2021 and January 2022 following SMART Methodology Reduced age range
+QAT	Qatar	Eastern Mediterranean	2021	5.4	Health Center Data from Primary Health Care Corporation Qatar [2021 Extract] Reduced age range; Height/length modality (standing/lying) was not collected
+LBN	Lebanon	Eastern Mediterranean	2021	7	Lebanon 2021 National Nutrition SMART Survey
+LKA	Sri Lanka	South-East Asia	2021	7.4	Sri Lanka 2021 Nutrition Month Survey
+KGZ	Kyrgyzstan	Europe	2021	8.6	National Integrated Micronutrient and Anthropometry Survey 2021. Bishkek,  Kyrgyz Republic; 2022 Reduced age range
+BLR	Belarus	Europe	2020	1.2	Child Malnutrition Data from State Statistical Reporting Form, Belarus 2020
+FIN	Finland	Europe	2020	1.3	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2020
+PER	Peru	Americas	2020	11.4	Encuesta Demográfica y de Salud Familiar-ENDES 2020 Nacional y Departamental
+MEX	Mexico	Americas	2020	13.9	Encuesta Nacional de Salud y Nutrición Continua COVID-19, Mexico 2020 Height/length modality (standing/lying) was not collected
+BFA	Burkina Faso	Africa	2020	17.5	Enquete Nutritionnelle Nationale, Burkina Faso 2020
+VNM	Viet Nam	Western Pacific	2020	19.5	Viet Nam National Nutrition Surveillance Network, 2020
+MLI	Mali	Africa	2020	23	10ème Enquête Nutritionnelle Anthropométrique et de Mortalité Rétrospective basée sur la méthodologie SMART au Mali (SMART-2020 Mali)
+UGA	Uganda	Africa	2020	25.4	Uganda National Panel Survey 2019-2020
+MRT	Mauritania	Africa	2020	25.8	Enquête Démographique et  de Santé en Mauritanie 2019-2021. Nouakchott, Mauritanie et Rockville, Maryland, USA : ONS, MS, et ICF.
+KWT	Kuwait	Eastern Mediterranean	2020	3.8	Kuwait Nutrition Surveillance System [KNSS] 2020. Kuwait city, Kuwait: Food & Nutrition Administration Weighted analyses to adjust for unbalanced age distribution using UNPD WPP; Height/length modality (standing/lying) was not collected
+TCD	Chad	Africa	2020	30.5	Rapport final de l’enquête nationale de nutrition 2020 réalisée par la méthodologie SMART
+NGA	Nigeria	Africa	2020	31.5	Nigeria National Nutrition and Health Survey 2019
+MOZ	Mozambique	Africa	2020	37.5	Relatório final do Inquérito ao Orçamento Familiar - IOF, 2019/20
+NER	Niger	Africa	2020	45.3	Enquête nationale de nutrition avec la méthodologie SMART, Niger Septembre/Octobre 2020 Height/length modality (standing/lying) was not collected
+BDI	Burundi	Africa	2020	50.9	Enquete Nationale sur la Situation Nutritionnelle et Mortalite au Burundi (ENSNMB), Edition 2020 Height/length modality (standing/lying) was not collected
+LKA	Sri Lanka	South-East Asia	2020	8.2	Sri Lanka 2020 Nutrition Month Survey
+BLR	Belarus	Europe	2019	1.1	Child Malnutrition Data from State Statistical Reporting Form, Belarus 2019
+FIN	Finland	Europe	2019	1.3	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2019
+PER	Peru	Americas	2019	13.1	Vigilancia Alimentaria y Nutricional por etapas de vida – VIANEV 2019
+SAU	Saudi Arabia	Eastern Mediterranean	2019	13.2	Saudi Arabia Ministry of Health Primary Healthcare Centers sited nutritional Surveillance Program [2019 Extract] Reduced age range; Height/length modality (standing/lying) was not collected
+THA	Thailand	South-East Asia	2019	13.4	Thailand Multiple Indicator Cluster Survey 2019, Survey Findings Report. Bangkok, Thailand: National Statistical Office of Thailand.
+MEX	Mexico	Americas	2019	14.1	Encuesta nacional de salud y nutrición 2018. Cuernavaca, México: Instituto Nacional de Salud Pública, 2019 Height/length modality (standing/lying) was not collected
+SEN	Senegal	Africa	2019	17.9	Sénégal : Enquête Démographique et de Santé Continue (EDS-Continue 2019). Rockville, Maryland, USA : ANSD et ICF
+MRT	Mauritania	Africa	2019	19.4	Rapport de l’enquête nutritionnelle nationale SMART, Mauritanie Juillet 2019 Height/length modality (standing/lying) was not collected
+DJI	Djibouti	Eastern Mediterranean	2019	20.9	Enquête sur l’état nutritionnel avec la Méthodologie SMART, Djibouti Avril 2019 Reduced age range
+VNM	Viet Nam	Western Pacific	2019	22.4	Viet Nam National Nutrition Surveillance Network, 2019
+ZWE	Zimbabwe	Africa	2019	23.5	Zimbabwe Multiple Indicator  Cluster Survey 2019, Survey Findings Report. Harare, Zimbabwe: ZIMSTAT and UNICEF
+BFA	Burkina Faso	Africa	2019	23.8	Enquete Nutritionnelle Nationale, Burkina Faso 2019
+MYS	Malaysia	Western Pacific	2019	25.5	Malaysia National Health and Morbidity Survey (NHMS) 2019 Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	2019	26.4	Enquête Nationale Nutritionnelle Anthropométrique et de Mortalité rétrospective suivant la méthodologie SMART, Mali 2019 Reduced age range
+IDN	Indonesia	Western Pacific	2019	26.6	Survei Status Gizi Indonesia – SSGI 2019
+BGD	Bangladesh	South-East Asia	2019	28	Bangladesh Multiple Indicator Cluster Survey 2019, Survey Findings Report. Dhaka, Bangladesh: Bangladesh Bureau of Statistics (BBS)
+PHL	Philippines	Western Pacific	2019	28.7	Philippines 2019 Expanded National Nutrition Survey (ENNS) Height/length modality (standing/lying) was not collected
+SLE	Sierra Leone	Africa	2019	29.5	Sierra Leone Demographic and Health Survey 2019. Freetown, Sierra Leone, and Rockville, Maryland, USA: Stats SL and ICF
+NPL	Nepal	South-East Asia	2019	31.5	Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.
+MWI	Malawi	Africa	2019	34	Malawi Fifth Integrated Household Survey 2019-2020 Age calculated using alternate methods
+TCD	Chad	Africa	2019	37.8	MICS6-Tchad, 2019, Rapport final. N’Djamena, Tchad.
+KWT	Kuwait	Eastern Mediterranean	2019	4.6	Kuwait Nutrition Surveillance System [KNSS] 2019. Kuwait city, Kuwait: Food & Nutrition Administration Weighted analyses to adjust for unbalanced age distribution using UNPD WPP; Height/length modality (standing/lying) was not collected
+CAF	Central African Republic	Africa	2019	40.2	Enquete Nationale sur la Situation Nutritionnelle et la Mortalite en Republique Centrafricaine, 2019 Height/length modality (standing/lying) was not collected
+NER	Niger	Africa	2019	47.1	Enquête nationale de nutrition avec la méthodologie SMART - 2019, Niger
+BDI	Burundi	Africa	2019	54	Enquete Nationale sur la Situation Nutritionnelle et la Securite Alimentaire au Burundi (ENSNSAB), Decembre 2018
+JOR	Jordan	Eastern Mediterranean	2019	7.4	Jordan National Micronutrient and Nutritional Survey 2019. Amman, Jordan; 2021.
+LKA	Sri Lanka	South-East Asia	2019	8.4	Sri Lanka 2019 Nutrition Month Survey
+FIN	Finland	Europe	2018	1.3	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2018
+SAU	Saudi Arabia	Eastern Mediterranean	2018	11.6	Saudi Arabia Ministry of Health Primary Healthcare Centers sited nutritional Surveillance Program [2018 Extract] Reduced age range; Height/length modality (standing/lying) was not collected
+KGZ	Kyrgyzstan	Europe	2018	11.8	Kyrgyzstan Multiple Indicator Cluster Survey 2018, Survey Findings Report. Bishkek, Kyrgyzstan: National Statistical Committee of the Kyrgyz Republic and UNICEF.
+PER	Peru	Americas	2018	12.2	Encuesta Demográfica y de Salud Familiar-ENDES 2018 Nacional y Departamental
+SEN	Senegal	Africa	2018	18.8	Sénégal : Enquête Démographique et de Santé Continue (EDS-Continue 2018). Rockville, Maryland, USA : ANSD et ICF.
+GMB	Gambia	Africa	2018	19	The Gambia Multiple Indicator Cluster Survey 2018, Survey Findings Report. Banjul, The Gambia: The Gambia Bureau of Statistics
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2018	2	National Child Measurement Programme, England - 2017/18 School Year [PAS] Reduced age range; Height/length modality (standing/lying) was not collected
+MRT	Mauritania	Africa	2018	22.8	Rapport de l’enquête nutritionnelle nationale SMART Aout 2018 Height/length modality (standing/lying) was not collected
+VNM	Viet Nam	Western Pacific	2018	23.2	Viet Nam National Nutrition Surveillance Network, 2018
+UGA	Uganda	Africa	2018	23.9	Uganda National Panel Survey 2018-2019
+BFA	Burkina Faso	Africa	2018	24.9	Enquete Nutritionnelle Nationale, Burkina Faso 2018 Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	2018	26.9	Enquête Démographique et de Santé au Mali 2018. Bamako, Mali et Rockville, Maryland, USA : INSTAT, CPS/SS-DS-PF et ICF
+PHL	Philippines	Western Pacific	2018	29.9	Philippine Nutrition Facts and Figures: 2018 Expanded National Nutrition Survey (ENNS). FNRI Bldg., DOST Compound, Gen. Santos Avenue, Bicutan, Taguig City, Metro Manila, Philippines. Height/length modality (standing/lying) was not collected
+USA	United States of America	Americas	2018	3.4	United States National Health and Nutrition Examination Survey 2017-2018. Hyattsville, United States: National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC)
+IDN	Indonesia	Western Pacific	2018	30	National report on basic health research, RISKESDAS, 2018. Jakarta, Indonesia, 2019. Height/length modality (standing/lying) was not collected
+GIN	Guinea	Africa	2018	30.3	Enquête Démographique et de Santé en Guinée 2018. Conakry, Guinée, et Rockville, Maryland, USA : INS et ICF
+BGD	Bangladesh	South-East Asia	2018	30.9	Bangladesh Demographic and Health Survey 2017-18. Dhaka, Bangladesh, and Rockville, Maryland, USA: NIPORT and ICF
+TZA	United Republic of Tanzania	Africa	2018	31.8	Tanzania National Nutrition Survey using SMART Methodology (TNNS) 2018. Dar es Salaam, Tanzania: MoHCDGEC, MoH, TFNC, NBS, OCGS, and UNICEF.
+TCD	Chad	Africa	2018	31.9	Enquete Nationale De Nutrition et de Mortalite Retrospecive chez les Enfants et la Population Generale selon la Méthodologie SMART 2018
+BEN	Benin	Africa	2018	32.2	Enquête Démographique et de Santé au Bénin, 2017-2018. Cotonou, Bénin et Rockville, Maryland, USA : INSAE et ICF
+LSO	Lesotho	Africa	2018	34.6	Lesotho Multiple Indicator Cluster Survey 2018, Survey Findings Report. Maseru, Lesotho: Bureau of Statistics.
+RWA	Rwanda	Africa	2018	34.8	Comprehensive Food Security and Vulnerability Analysis, Rwanda 2018 Reduced age range; Height/length modality (standing/lying) was not collected
+NGA	Nigeria	Africa	2018	36.8	Nigeria Demographic and Health Survey 2018. Abuja, Nigeria, and Rockville, Maryland, USA: NPC and ICF. 2019
+CAF	Central African Republic	Africa	2018	37.5	Enquete Nationale sur la Situation Nutritionnelle et la Mortalite en Republique Centrafricaine, 2018 Height/length modality (standing/lying) was not collected
+AFG	Afghanistan	Eastern Mediterranean	2018	38.2	Afghanistan Health Survey 2018 Height/length modality (standing/lying) was not collected
+MWI	Malawi	Africa	2018	39	Report of the Seven Nutrition Surveys Conducted in Flood Affected Livelihood Zones of Malawi - Assessment Period January - February 2018 Reduced age range; Age calculated using alternate methods
+MDG	Madagascar	Africa	2018	41.6	Enquête par grappes à indicateurs multiples-MICS Madagascar 2018, Rapport final. Antananarivo, Madagascar : INSTAT et UNICEF 2019
+NER	Niger	Africa	2018	48.5	Rapport final de l'enquête nationale de nutrition avec la méthodologie SMART, 2018 Height/length modality (standing/lying) was not collected
+BDI	Burundi	Africa	2018	56.6	Enquete Nationale sur la Situation Nutritionnelle et la Mortalite sur la Mortalite Basee Sur La Methodologie SMART, Burundi; Rapport Principal Height/length modality (standing/lying) was not collected
+KWT	Kuwait	Eastern Mediterranean	2018	7	Kuwait Nutrition Surveillance System [KNSS] 2018. Kuwait city, Kuwait: Food & Nutrition Administration Weighted analyses to adjust for unbalanced age distribution using UNPD WPP; Height/length modality (standing/lying) was not collected
+MNG	Mongolia	Western Pacific	2018	9.4	Social Indicator Sample Survey-2018, Survey Findings Report. Ulaanbaatar, Mongolia: National Statistical Office of Mongolia
+FIN	Finland	Europe	2017	1.3	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2017
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2017	1.9	National Child Measurement Programme - England, 2016-17 Reduced age range; Height/length modality (standing/lying) was not collected
+UZB	Uzbekistan	Europe	2017	10.8	Uzbekistan 2017 Nutrition Survey, Tashkent, Uzbekistan, UNICEF 2019
+PER	Peru	Americas	2017	12.8	Encuesta Demográfica y de Salud Familiar-ENDES 2017 Nacional y Departamental
+MAR	Morocco	Eastern Mediterranean	2017	15.1	Enquête Nationale sur la Population et la Santé Familiale (ENPSF) -2017-2018
+SEN	Senegal	Africa	2017	16.5	Enquête Continue du Sénégal, Cinquième Phase 2017 : Rapport de synthèse. Rockville, Maryland, USA : ANSD et ICF
+SAU	Saudi Arabia	Eastern Mediterranean	2017	17.2	Saudi Arabia Ministry of Health Primary Healthcare Centers sited nutritional Surveillance Program [2017 Extract] Reduced age range; Height/length modality (standing/lying) was not collected
+GHA	Ghana	Africa	2017	17.5	Multiple Indicator Cluster Survey (MICS2017/18), Survey Findings Report. Accra, Ghana: GSS
+TJK	Tajikistan	Europe	2017	17.5	Tajikistan Demographic and Health Survey 2017. Dushanbe, Republic of Tajikistan, and Rockville, Maryland, USA: Statistical Agency under the President of the Republic of Tajikistan (SA)
+KOR	Republic of Korea	Western Pacific	2017	2.3	South Korea National Health and Nutrition Examination Survey, 2016-2018 Reduced age range; Height/length modality (standing/lying) was not collected
+BFA	Burkina Faso	Africa	2017	21.1	Enquête Nutritionnelle Nationale, Burkina Faso 2017 Height/length modality (standing/lying) was not collected
+HTI	Haiti	Americas	2017	21.9	Enquête Mortalité, Morbidité et Utilisation des Services (EMMUS-VI 2016-2017) Pétion-Ville, Haïti, et Rockville, Maryland, USA : IHE et ICF
+VNM	Viet Nam	Western Pacific	2017	23.8	Viet Nam National Nutrition Surveillance Network, 2017
+MLI	Mali	Africa	2017	24.6	Enquête Nationale Nutritionnelle Anthropométrique et de Mortalité rétrospective suivant la méthodologie SMART, Mali 2017
+SLE	Sierra Leone	Africa	2017	31	Sierra Leone Multiple Indicator Cluster Survey 2017, Survey Findings Report. Freetown, Sierra Leone: Statistics Sierra Leone
+TCD	Chad	Africa	2017	32.1	Enquete Nationale de Nutrition chez les Enfants de 0  à 59 mois, Periode: Juillet - Août, 2017 Height/length modality (standing/lying) was not collected
+LAO	Lao People's Democratic Republic	Western Pacific	2017	33.1	Lao Social Indicator Survey II 2017, Survey Findings Report. Vientiane, Lao PDR: Lao Statistics Bureau and UNICEF
+IND	India	South-East Asia	2017	36.1	Comprehensive National Nutrition Survey (CNNS) National Report. New Delhi
+MWI	Malawi	Africa	2017	39.3	Report of the Seven Nutrition Surveys Conducted in Flood Affected Livelihood Zones of Malawi - Assessment Period May 2017 Reduced age range
+COD	Democratic Republic of the Congo	Africa	2017	41.8	Enquête par grappes à indicateurs multiples, 2017-2018, rapport de résultats de l’enquête. Kinshasa, République Démocratique du Congo
+KWT	Kuwait	Eastern Mediterranean	2017	5.8	Kuwait Nutrition Surveillance System [KNSS] 2017. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+FIN	Finland	Europe	2016	1.7	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2016
+MEX	Mexico	Americas	2016	10	Encuesta Nacional de Salud y Nutrición de Medio Camino ENSANUT MC 2016. Cuernavaca, México: Instituto Nacional de Salud Pública, 2016 Height/length modality (standing/lying) was not collected
+THA	Thailand	South-East Asia	2016	10.5	Thailand Multiple Indicator Cluster Survey 2015- 2016, Final Report, NSO and UNICEF, Bangkok, 2016
+URY	Uruguay	Americas	2016	10.8	Encuesta de Nutrición, Desarrollo Infantil y Salud 2015-2016, Informe de la Segunda ronda  Mayo de 2018 Reduced age range; Height/length modality (standing/lying) was not collected
+PER	Peru	Americas	2016	13.1	Encuesta Demográfica y de Salud Familiar-ENDES 2016 Nacional y Departamental
+SAU	Saudi Arabia	Eastern Mediterranean	2016	17.1	Saudi Arabia Ministry of Health Primary Healthcare Centers sited nutritional Surveillance Program [2016 Extract] Reduced age range
+SEN	Senegal	Africa	2016	17.1	Senegal : Enquête Démographique et de Santé Continue (EDS-Continue 2016). Rockville, Maryland, USA : ANSD et ICF
+LKA	Sri Lanka	South-East Asia	2016	17.3	Sri Lanka Demographic and Health Survey 2016
+TJK	Tajikistan	Europe	2016	19.6	National Micronutrient Status Survey in Tajikistan 2016 Height/length modality (standing/lying) was not collected
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2016	2	National Child Measurement Programme - England, 2015-16 Reduced age range; Height/length modality (standing/lying) was not collected
+MYS	Malaysia	Western Pacific	2016	20.8	Malaysia National Health and Morbidity Survey 2016 Height/length modality (standing/lying) was not collected
+CIV	Cote d'Ivoire	Africa	2016	21.6	Enquête par grappes à indicateurs multiples - Côte d’Ivoire 2016, Rapport Final, Septembre 2017
+VNM	Viet Nam	Western Pacific	2016	24.3	Viet Nam National Nutrition Surveillance Network, 2016
+MLI	Mali	Africa	2016	26.4	Enquête Nutritionnelle et de Mortalité Rétrospective, Mali, 2016
+BFA	Burkina Faso	Africa	2016	26.8	Enquete Nutritionnelle Nationale 2016, Rapport Final, Decembre 2016, Burkina Faso Height/length modality (standing/lying) was not collected
+ZAF	South Africa	Africa	2016	27.4	South Africa Demographic and Health Survey 2016. Pretoria, South Africa, and Rockville, Maryland, USA: NDoH, Stats SA, SAMRC, and ICF
+KEN	Kenya	Africa	2016	28.6	Kenya 2015-16 Integrated Household Budget Survey (KIHBS)
+UGA	Uganda	Africa	2016	28.9	Uganda Demographic and Health Survey 2016. Kampala, Uganda and Rockville, Maryland, USA: UBOS and ICF. 2018
+MMR	Myanmar	South-East Asia	2016	29.4	Myanmar Demographic and Health Survey 2015-16: Final Report. 2016
+USA	United States of America	Americas	2016	3.5	United States National Health and Nutrition Examination Survey 2015-2016. Hyattsville, United States: National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC).
+LBR	Liberia	Africa	2016	30.1	Liberia 2016 National Nutrition and Mortality Survey Height/length modality (standing/lying) was not collected
+GIN	Guinea	Africa	2016	32.4	Enquête par grappes à indicateurs multiples (MICS, 2016), Rapport final, Conakry, Guinée. 2017
+NPL	Nepal	South-East Asia	2016	35.8	Nepal Demographic and Health Survey 2016. Kathmandu, Nepal: Ministry of Health, Nepal. 2017
+MWI	Malawi	Africa	2016	38.3	Report of the Seven Nutrition Surveys Conducted in Flood Affected Livelihood Zones of Malawi - Assessment Period November - December 2016 Reduced age range; Age calculated using alternate methods
+ETH	Ethiopia	Africa	2016	38.3	Ethiopia Demographic and Health Survey 2016. Addis Ababa, Ethiopia, and Rockville, Maryland, USA: CSA and ICF.
+NER	Niger	Africa	2016	41.3	Evaluation Nationale De La Situation Nutritionnelle par la Methodologie SMART Au Niger 2016 Height/length modality (standing/lying) was not collected
+NGA	Nigeria	Africa	2016	43.6	Multiple Indicator Cluster Survey 2016-17, Final Report. Abuja, Nigeria: National Bureau of Statistics and United Nations Children’s Fund. 2017
+BDI	Burundi	Africa	2016	55.9	Troisième Enquête Démographique et de Santé. Bujumbura, Burundi : ISTEEBU, MSPLS, et ICF
+KWT	Kuwait	Eastern Mediterranean	2016	6.3	Kuwait Nutrition Surveillance System [KNSS] 2016. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+MNG	Mongolia	Western Pacific	2016	7.3	Nutrition Status of the Population of Mongolia: Fifth National Nutrition Survey Report Height/length modality (standing/lying) was not collected
+JAM	Jamaica	Americas	2016	9.3	Jamaica survey of living conditions 2016. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2019
+FIN	Finland	Europe	2015	1.7	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2015
+TKM	Turkmenistan	Europe	2015	11.5	Turkmenistan 2015-16 Multiple Indicator Cluster Survey
+MEX	Mexico	Americas	2015	12.4	Encuesta Nacional de Niños, Niñas y Mujeres en México 2015 - Encuesta de Indicadores Múltiples por Conglomerados 2015, Resultados Principales, 2016
+SAU	Saudi Arabia	Eastern Mediterranean	2015	13.7	Saudi Arabia Ministry of Health Primary Healthcare Centers sited nutritional Surveillance Program [2015 Extract] Reduced age range
+PER	Peru	Americas	2015	14.7	Encuesta Demográfica y de Salud Familiar-ENDES 2015 Nacional y Departamental
+SEN	Senegal	Africa	2015	17.5	Enquête nutritionnelle Nationale utilisant la methodologie SMART, Senegal 2015
+MYS	Malaysia	Western Pacific	2015	17.8	National Health and Morbidity Survey 2015 (NHMS 2015), Kuala Lumpur, Malaysia: IPH, 2015. Height/length modality (standing/lying) was not collected
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2015	2	National Child Measurement Programme - England, 2014-15 Reduced age range; Height/length modality (standing/lying) was not collected
+ZAF	South Africa	Africa	2015	21.2	South Africa National Income Dynamics Study 2014-15, Wave 4 Reduced age range; Height/length modality (standing/lying) was not collected
+VNM	Viet Nam	Western Pacific	2015	24.6	Viet Nam 2015 Nutrition Surveillance Profiles.  Hanoi, Viet Nam, 2017
+ZWE	Zimbabwe	Africa	2015	27.1	Zimbabwe Demographic and Health Survey 2015: Final Report. Rockville, Maryland, USA: Zimbabwe National Statistics Agency (ZIMSTAT) and ICF International.
+MRT	Mauritania	Africa	2015	27.9	Mauritanie Enquête par Grappes à Indicateurs Multiples (MICS) 2015 - Rapport Final, Mars 2017
+BFA	Burkina Faso	Africa	2015	30.1	Rapport Enquête Nutritionnelle Nationale SMART 2015 Height/length modality (standing/lying) was not collected
+UGA	Uganda	Africa	2015	30.4	Uganda National Panel Survey 2015-16 Reduced age range
+MLI	Mali	Africa	2015	30.4	Enquête par Grappes à Indicateurs Multiples au Mali (MICS-Mali), 2015, Résultats clés. Bamako, Mali, INSTAT
+TCD	Chad	Africa	2015	31.9	Evaluation Nationale de la Situation Nutritionnelle par la Methodologie SMART au Tchad: Rapport Finale
+NGA	Nigeria	Africa	2015	33	National Nutrition and Health Surveys (NNHS) - Report on The Nutrition and Health Situation of Nigeria, November 2015
+PHL	Philippines	Western Pacific	2015	33.1	Philippines 2015 National Nutrition Survey - Updating Survey Results Height/length modality (standing/lying) was not collected
+TZA	United Republic of Tanzania	Africa	2015	34.5	Tanzania demographic and health survey  2015-16. Demographic and Health Surveys. Dar es Salaam, Tanzania: NBS and ICF International, 2016
+BGD	Bangladesh	South-East Asia	2015	35	State of food security and nutrition in Bangladesh 2015. Dhaka, Bangladesh: James P Grant School of Public Health and National Nutrition Services.
+LAO	Lao People's Democratic Republic	Western Pacific	2015	35.5	Lao Child Anthropometry Assessment Survey: Add-On to the 2015 National Immunization Survey, Final Report, February 2016
+MWI	Malawi	Africa	2015	37.4	Malawi Demographic and Health Survey 2015-16. Zomba, Malawi, and Rockville, Maryland, USA. NSO and ICF.
+IND	India	South-East Asia	2015	37.9	National Family Health Survey (NFHS-4), 2015-16: India. Mumbai: IIPS. 2017
+RWA	Rwanda	Africa	2015	38.3	Rwanda Demographic and Health Survey 2014-15. Kigali, Rwanda: National Institute of Statistics of Rwanda, Ministry of Finance and Economic Planning/Rwanda, Ministry of Health/Rwanda, and ICF International
+MOZ	Mozambique	Africa	2015	42.3	Relatório final do Inquérito ao Orçamento Familiar - IOF, 2014/15
+NER	Niger	Africa	2015	46.4	Etude nationale d’evaluation d’indicateurs socio-economiques et demographiques (ENISED) Height/length modality (standing/lying) was not collected
+GTM	Guatemala	Americas	2015	46.7	Encuesta Nacional de Salud Materno Infantil 2014-2015. Ciudad de Guatemala, Guatemala, 2015.
+KWT	Kuwait	Eastern Mediterranean	2015	5.2	The Kuwait Nutrition Surveillance System [KNSS] 2015 Annual Report. Kuwait City. Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+BEL	Belgium	Europe	2014	1.6	Enquete de la Consummation Alimentaire 2014-15 Reduced age range; Height/length modality (standing/lying) was not collected
+KOR	Republic of Korea	Western Pacific	2014	1.6	South Korea National Health and Nutrition Examination Survey 2013-2015 Reduced age range; Height/length modality (standing/lying) was not collected
+FIN	Finland	Europe	2014	1.8	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2014
+GUY	Guyana	Americas	2014	11.3	Guyana Multiple Indicator Cluster Survey 2014, Final Report. Georgetown, Guyana: Bureau of Statistics, Ministry of Public Health and UNICEF
+KGZ	Kyrgyzstan	Europe	2014	12.9	Kyrgyzstan multiple indicator cluster survey 2014: Final Report (MICS). Bishkek, Kyrgyzstan: National Statistical Committee of the Kyrgyz Republic and UNICEF, 2014.
+SLV	El Salvador	Americas	2014	13.6	Encuesta nacional de salud 2014 - Encuesta de indicadores multiples por conglomerados 2014, Resultados principales. San Salvador, El Salvador: Ministerio de Salud e Instituto Nacional de Salud.
+OMN	Oman	Eastern Mediterranean	2014	14.1	Multiple Indicator Cluster Survey 2014, Final Report. Muscat, Oman, 2016.
+SEN	Senegal	Africa	2014	14.2	Analyse de la situation nutritionnelle du Sénégal, Rapport Final 2014
+PER	Peru	Americas	2014	14.8	Perú Encuesta Demográfica y de Salud Familiar - ENDES 2014. Lima, Perú: INEI/Perú.
+STP	Sao Tome and Principe	Africa	2014	17.2	Sao Tome and Principe Multiple Indicator Cluster Survey 2014, Final Report. São Tomé, Sao Tome and Principe, 2016.
+GHA	Ghana	Africa	2014	18.8	Ghana Demographic and Health Survey 2014. Rockville, Maryland, USA: GSS, GHS, and ICF International.
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2014	2	National Child Measurement Programme - England, 2013-14 Reduced age range; Height/length modality (standing/lying) was not collected
+USA	United States of America	Americas	2014	2.4	National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, CDC, [2013-14]
+POL	Poland	Europe	2014	2.6	Poland 2014 European Health Interview Survey
+EGY	Egypt	Eastern Mediterranean	2014	22.3	Egypt demographic and health survey 2014. Demographic and Health Surveys. Cairo, Egypt and Rockville, Maryland, USA: Ministry of Health and Population and ICF International, 2015.
+ECU	Ecuador	Americas	2014	23.9	Informe de Resultados Encuesta de Condiciones de Vida (ECV) 2013-2014, Instituto Nacional de Estadística Y Censos, 2015
+VNM	Viet Nam	Western Pacific	2014	24.9	Nutrition surveillance profiles 2014. Hanoi, Viet Nam, 2016.
+SWZ	Eswatini	Africa	2014	25.5	Swaziland Multiple Indicator Cluster Survey 2014. Final Report. Mbabane, Swaziland, Central Statistical Office and UNICEF
+KEN	Kenya	Africa	2014	26.2	Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015
+TGO	Togo	Africa	2014	27.6	Enquête démographique et de santé au Togo 2013-2014. Demographic and Health Surveys. Rockville, Maryland, USA : MPDAT, MS et ICF International, 2015.
+GNB	Guinea-Bissau	Africa	2014	27.6	Inquérito aos Indicadores Múltiplos (MICS5) 2014, Relatório Final. Bissau, Guiné-Bissau: Ministério da Economia e Finanças e Direcção Geral do Plano/ Instituto Nacional de Estatística (INE)
+ZWE	Zimbabwe	Africa	2014	27.6	Zimbabwe Multiple Indicator Cluster Survey 2014, Final Report. Harare, Zimbabwe
+MLI	Mali	Africa	2014	28.1	Enquête Nutritionnelle et de Mortalité, Rétrospective, Mali, 2014
+BFA	Burkina Faso	Africa	2014	29	Enquete Nutritionnelle Nationale - Rapport final, Burkina Faso, Décembre 2014 Height/length modality (standing/lying) was not collected
+SLE	Sierra Leone	Africa	2014	29.1	Sierra Leone National Nutrition Survey 2014, Freetown, Sierra Leone. Height/length modality (standing/lying) was not collected
+CMR	Cameroon	Africa	2014	31.7	Enquête par grappes à indicateurs multiples (MICS5), 2014, Rapport Final. Yaoundé, Cameroun, Institut National de la Statistique
+KHM	Cambodia	Western Pacific	2014	32.4	Cambodia Demographic and Health Survey 2014. Phnom Penh, Cambodia, and Rockville, Maryland, USA: National Institute of Statistics, Directorate General for Health, and ICF International.
+LSO	Lesotho	Africa	2014	33.4	Lesotho demographic and health survey (2014 LDHS): Key indicators. Demographic and Health Surveys. Maseru, Lesotho: Ministry of Health and ICF International, 2015
+NGA	Nigeria	Africa	2014	33.6	Summary findings of national nutrition and health survey, 9th feb to 5th May 2014, Nigeria: SMART methods
+UGA	Uganda	Africa	2014	34	The Uganda National Panel Survey (UNPS) 2013/14
+BEN	Benin	Africa	2014	34	Enquête par grappes à indicateurs multiples 2014, Rapport  final , Cotonou, Bénin : Institut national de la statistique et de l’analyse économique
+TZA	United Republic of Tanzania	Africa	2014	34.7	Tanzania national nutrition survey 2014: Final report. United Republic of Tanzania, December 2014.
+BGD	Bangladesh	South-East Asia	2014	36.2	Bangladesh Demographic and Health Survey 2014. Dhaka, Bangladesh, and Rockville, Maryland, USA: NIPORT, Mitra and Associates, and ICF International. 2016
+NPL	Nepal	South-East Asia	2014	37.1	Nepal Multiple Indicator Cluster Survey 2014: Final Report
+CAF	Central African Republic	Africa	2014	38	Enquete Nationale sur la Situation Nutritionnelle et la Mortalite en Republique Centrafricaine, 2014 Height/length modality (standing/lying) was not collected
+LBY	Libya	Eastern Mediterranean	2014	38.1	Libya 2014 National Family Health Survey
+IND	India	South-East Asia	2014	38.7	Rapid survey on children 2013-2014. Final Report
+WSM	Samoa	Western Pacific	2014	4.9	Samoa Demographic and Health Survey 2014
+ETH	Ethiopia	Africa	2014	40.4	Ethiopia mini demographic and health survey 2014. Addis Ababa, Ethiopia, 2014.
+NER	Niger	Africa	2014	42.2	Rapport d’enquête nationale, Nutrition, Niger, Juin/juillet 2014, Rapport Final septembre 2014 Height/length modality (standing/lying) was not collected
+MWI	Malawi	Africa	2014	42.4	Malawi MDG endline survey 2014. Final Report. Zomba, Malawi: National Statistical Office, 2014.
+TLS	Timor-Leste	South-East Asia	2014	49.2	Poverty in Timor-Leste: results from the Timor-Leste 2014 Survey of Living Standards. Washington, D.C. : World Bank Group.
+KWT	Kuwait	Eastern Mediterranean	2014	5.9	Kuwait Nutrition Surveillance System [KNSS] 2014. Kuwait city, Kuwait: Food & Nutrition Administration, 2015 Height/length modality (standing/lying) was not collected
+JAM	Jamaica	Americas	2014	6	Jamaica survey of living conditions 2014. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2017
+SRB	Serbia	Europe	2014	6	2014 Serbia multiple indicator cluster survey and 2014 Serbia Roma Settlements multiple indicator cluster survey (MICS). Final Report. Belgrade, Serbia: Statistical Office of the Republic of Serbia and UNICEF, 2014.
+FJI	Fiji	Western Pacific	2014	6.2	2014-2015 Fiji national nutrition survey: Summary Report. Suva, Fiji,
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2014	7.4	Palestinian Multiple Indicator Cluster Survey 2014,  Final Report, Ramallah, Palestine
+CHL	Chile	Americas	2013	1.8	Nutrición en el Sistema Público de Salud, Diciembre 2013 Alternate age range
+FIN	Finland	Europe	2013	1.8	Terveystarkastukset lastenneuvolassa & kouluterveydenhuollossa, 2013
+TUR	Türkiye	Europe	2013	10	2013 Turkey Demographic and Health Survey Ankara, Turkey: Hacettepe University Institute of Population Studies, T.R. Ministry of Development and TÜBYTAK, 2014.
+MNG	Mongolia	Western Pacific	2013	10.8	Social indicator sample survey 2013 (MICS). Final Report.Ulaanbaatar, Mongolia: National Statistical Office, 2014.
+SEN	Senegal	Africa	2013	16.5	Sénégal Enquête nationale sur la sécurité alimentaire et nutritionnelle (2013), SMART Height/length modality (standing/lying) was not collected
+PER	Peru	Americas	2013	17.6	Encuesta demografica y de salud familiar - ENDES continua 2013. Demographic and Health Surveys. Lima, Peru: INEI, 2014.
+AZE	Azerbaijan	Europe	2013	17.8	Azerbaijan nutrition survey  (AzNS), 2013. Baku, Republic of Azerbaijan, 2014. Height/length modality (standing/lying) was not collected
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2013	2.1	National Child Measurement Programme, 2012-2013. [data collection]. UK Data Service. SN: 7567, DOI: http://doi.org/10.5255/UKDA-SN-7567-1 Reduced age range; Height/length modality (standing/lying) was not collected
+HTI	Haiti	Americas	2013	21.9	Haiti Enquête de Suivi de la Sécurité alimentaire et nutritionnelle (ESSAN 2013) Reduced age range
+GMB	Gambia	Africa	2013	24.6	The Gambia Demographic and Health Survey 2013. Banjul, The Gambia, and Rockville, Maryland, USA: GBOS and ICF International, 2014.
+VNM	Viet Nam	Western Pacific	2013	25.9	Nutrition surveillance profiles 2013. Hanoi, Viet Nam, 2014.
+DJI	Djibouti	Eastern Mediterranean	2013	28	Enquête Nutritionnelle Nationale avec la Methodologie SMART, Rapport, Decembre 2013
+PHL	Philippines	Western Pacific	2013	30	8th National nutrition survey Philippines 2013. Manila: FNRI - DOST Height/length modality (standing/lying) was not collected
+BFA	Burkina Faso	Africa	2013	31.3	Enquete Nutritionnelle Nationale, Burkina Faso 2013 Height/length modality (standing/lying) was not collected
+LBR	Liberia	Africa	2013	32.1	Demographic and health survey 2013. Demographic and Health Surveys. Monrovia, Liberia: Liberia Institute of Statistics and Geo-Information Services (LISGIS) and ICF International, 2014
+IDN	Indonesia	Western Pacific	2013	36.4	National report on basic health research, RISKESDAS, 2013. Jakarta, Indonesia, 2014
+TZA	United Republic of Tanzania	Africa	2013	37.4	Tanzania National Panel Survey Report (NPS) - Wave 3, 2012 - 2013. Dar es Salaam, Tanzania: NBS, 2014 Age calculated using alternate methods
+ZMB	Zambia	Africa	2013	40	Zambia demographic and health Survey 2013-14. Demographic and Health Surveys. Rockville, Maryland, USA: Central Statistical Office, Ministry of Health, and ICF International, 2014.
+AFG	Afghanistan	Eastern Mediterranean	2013	40.4	Afghanistan National Nutrition Survey 2013 Height/length modality (standing/lying) was not collected
+BGD	Bangladesh	South-East Asia	2013	42	Bangladesh 2012-13 multiple indicator cluster survey. Final Report. Dhaka, Bangladesh: Bangladesh Bureau of Statistics and UNICEF Bangladesh, 2014.
+NER	Niger	Africa	2013	42.5	Rapport d’enquête nationale, Nutrition, Niger, Mai/juin 2013, Rapport final Septembre 2013 Height/length modality (standing/lying) was not collected
+COD	Democratic Republic of the Congo	Africa	2013	42.7	Enquête démographique et de santé en République Démocratique du Congo 2013-2014. Demographic and Health Surveys. Rockville, Maryland, USA : MPSMRM, MSP et ICF International, 2014
+PAK	Pakistan	Eastern Mediterranean	2013	45	Pakistan demographic and health survey 2012-13. Demographic and Health Surveys. Islamabad, Pakistan, and Calverton, Maryland, USA: NIPS and ICF International, 2013
+YEM	Yemen	Eastern Mediterranean	2013	46.4	Yemen National Health and Demographic Survey 2013. Rockville, Maryland, USA: MOPHP, CSO, PAPFAM, and ICF International, 2014.
+URY	Uruguay	Americas	2013	5	Salud, Nutrición y Desarrollo en la Primera Infancia en Uruguay Primeros Resultados de la ENDIS Reduced age range; Height/length modality (standing/lying) was not collected
+KWT	Kuwait	Eastern Mediterranean	2013	5.6	Kuwait Nutrition Surveillance System [KNSS] 2013. Kuwait city, Kuwait: Food & Nutrition Administration, 2015 Height/length modality (standing/lying) was not collected
+TLS	Timor-Leste	South-East Asia	2013	51.7	Timor-Leste food and nutrition survey, Final report 2015. Dili, Timor Leste: Ministry of Health, 2015.
+DOM	Dominican Republic	Americas	2013	7.1	Encuesta demográfica y de salud 2013. Demographic and Health Surveys. Santo Domingo, República Dominicana: CESDEM y ICF International, 2014
+CHN	China	Western Pacific	2013	8.1	China National Nutrition and Health Survey, 2013
+MNE	Montenegro	Europe	2013	9.4	2013 Montenegro multiple indicator cluster survey: Final report. Podgorica, Montenegro: MONSTAT and UNICEF, 2014.
+TUN	Tunisia	Eastern Mediterranean	2012	10.1	Suivi de la situation des enfants et des femmes en Tunisie- Enquête par grappes à indicateurs multiples 2011-2012: Rapport Final. MICS. Tunis, Tunisie: MDCI, INS, UNICEF, 2013.
+PRY	Paraguay	Americas	2012	10.7	Encuesta de Ingresos y Gastos y de Condiciones de Vida EIGCV 2011/2012
+DZA	Algeria	Africa	2012	11.7	République Algérienne Démocratiqe et Populaire enquête par grappes à indicateurs mulitples (MICS) 2012-2013. Rapport final. Ministère de la Santé, de la Population et de la Réforme Hospitalière, 2015.
+MEX	Mexico	Americas	2012	13.6	Encuesta nacional de salud y nutrición 2012. Resultados nacionales. Cuernavaca, México: Instituto Nacional de Salud Pública, 2012 Height/length modality (standing/lying) was not collected
+LKA	Sri Lanka	South-East Asia	2012	14.6	Sri Lanka National Nutrition and Micronutrient Survey 2012
+SEN	Senegal	Africa	2012	15.5	Enqeute SMART Nationale SMART 2012. Dakar, Senegal: CLM, 2013 Height/length modality (standing/lying) was not collected
+THA	Thailand	South-East Asia	2012	16.4	Thailand multiple indicator cluster survey 2012.  MICS. Bangkok, Thailand: NSO, UNICEF, MOPH, NHSO, THPF, IHPP, 2013.
+GAB	Gabon	Africa	2012	17	Enquête démographique et de santé du Gabon 2012. Demographic and Health Surveys. Calverton, Maryland, et Libreville, Gabon : DGS et ICF International, 2013
+KGZ	Kyrgyzstan	Europe	2012	17.9	Kyrgyz Republic demographic and health survey 2012. Demographic and Health Surveys. Bishkek, Kyrgyz Republic, and Calverton, Maryland, USA: NSC, MOH, and ICF International, 2013
+BOL	Bolivia (Plurinational State of)	Americas	2012	18.2	Encuesta de Evaluación de Salud y Nutrición 2012: Informe de Resultados
+PER	Peru	Americas	2012	18.4	Encuesta demografica y de salud familiar - ENDES continua 2012. Demographic and Health Surveys. Lima, Peru: INEI, USAID y ORC Macro, 2013
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2012	2.1	National Child Measurement Programme, 2011-2012. [data collection]. UK Data Service. SN: 7395, DOI: http://doi.org/10.5255/UKDA-SN-7395-1 Reduced age range; Height/length modality (standing/lying) was not collected
+USA	United States of America	Americas	2012	2.2	National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, CDC, [2011-12]
+GMB	Gambia	Africa	2012	21.1	National Nutrition Survey in the Gambia using the Standardised Monitoring and Assessment of Relief Transition (SMART) methods
+HTI	Haiti	Americas	2012	22	Enquête mortalité, morbidité et utilisation des services, Haïti, 2012. Demographic and Health Surveys. Calverton, Maryland, USA : MSPP, IHE et ICF International, 2012
+HND	Honduras	Americas	2012	22.6	Encuesta nacional de salud y demografía 2011-2012. Demographic and Health Surveys. Tegucigalpa, Honduras: SS, INE e ICF International, 2013
+MRT	Mauritania	Africa	2012	23.2	Enquête nutritionnelle nationale utilisant la méthodologie SMART: Rapport Final. Nouakchott, Mauritanie, Juillet 2012 Height/length modality (standing/lying) was not collected
+ECU	Ecuador	Americas	2012	25.4	Encuesta Nacional de Salud y Nutrición (ENSANUT-ECU) 2011-2013
+TGO	Togo	Africa	2012	26.2	Enquette Nutritionnelle Nationale Utilisant la Methodologie SMART, Togo 20 Juin-7 Juillet 2012 Height/length modality (standing/lying) was not collected
+GNB	Guinea-Bissau	Africa	2012	26.4	Deuxieme Enquete Nationale Sur L’etat Nutritionnel Des Enfants De Moins De 5 Ans Et Des Femmes En Age De Procreer  (15 A 49 Ans) En Republique De Guinee-Bissau, Novembre-Decembre 2012
+VNM	Viet Nam	Western Pacific	2012	26.7	Nutrition Surveillance Profiles 2012. Ha Noi, Viet Nam, 2014.
+TJK	Tajikistan	Europe	2012	26.9	Tajikistan demographic and health survey 2012. Demographic and Health Surveys. Dushanbe, Tajikistan, and Calverton, Maryland, USA: SA, MOH, and ICF International, 2013
+PRK	Democratic People's Republic of Korea	South-East Asia	2012	27.9	Final report of the national nutrition survey 2012, September 17th to October 17th 2012. Pyongyang, Democratic People's Republic of Korea, 2013.
+CIV	Cote d'Ivoire	Africa	2012	29.9	Enquête démographique et de santé et à indicateurs multiples de Côte d'Ivoire 2011-2012. Demographic and Health Surveys and MICS. Calverton, Maryland, USA : INS et ICF International, 2012
+ZWE	Zimbabwe	Africa	2012	30.5	Zimbabwe Micronutrient Survey 2012 Results, 2012. Harare, Zimbabwe: MOHCC
+COM	Comoros	Africa	2012	31.1	Enquête démographique et de santé et à indicateurs multiples aux Comores 2012. Demograohic and Health Surveys and MICS. Rockville, MD 20850, USA : DGSP et ICF International, 2014
+GIN	Guinea	Africa	2012	31.1	L’Enquête Démographique et de Santé et à Indicateurs Multiples en Guinée de 2012 : Rapport de synthèse. Calverton, Maryland, USA : INS et ICF International
+BFA	Burkina Faso	Africa	2012	32.8	Enquête nutritionnelle nationale 2012. Rapport final. Ouagadougou, Burkina Faso, 2012. Height/length modality (standing/lying) was not collected
+UGA	Uganda	Africa	2012	33.7	Uganda National Panel Survey (UNPS) - Wave III. Kampala, Uganda: UBOS, 2013
+BGD	Bangladesh	South-East Asia	2012	37	State of food security and nutrition in Bangladesh: 2012. Dhaka, BD: HKI and BIGH
+CAF	Central African Republic	Africa	2012	39.7	Enquete Nationale Sur La Situation Nutritionnele et la Mortalite en Republique Centrafricaine, Rapport Finale Du 30 Mai au 15 Juillet 2012
+NER	Niger	Africa	2012	39.9	Rapport d’enquête nationale Nutrition Niger, Juin/Juillet 2012 Height/length modality (standing/lying) was not collected
+KWT	Kuwait	Eastern Mediterranean	2012	4.3	Kuwait Nutrition Surveillance System [KNSS] 2012. Kuwait city, Kuwait: Food & Nutrition Administration, 2013 Height/length modality (standing/lying) was not collected
+RWA	Rwanda	Africa	2012	43.8	Rwanda 2012 Comprehensive Food Security and Vulnerability Analysis Reduced age range
+MDG	Madagascar	Africa	2012	48.9	Enquête Nationale Sur le Suivi des Objectifs du Millènaire pour le Dèveloppement de Madagascar, (ENSOMD) 2012-2013
+BDI	Burundi	Africa	2012	52	Enquête ménages pour le suivi et l’évaluation de l’impact de l’appui au système de remboursement du Paquet Minimum des Services de santé (Edition 2012) Reduced age range
+JAM	Jamaica	Americas	2012	6.8	Jamaica survey of living conditions 2012. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2015
+JOR	Jordan	Eastern Mediterranean	2012	7.8	Jordan population and family health survey 2012. Demographic and Health Surveys. Calverton, Maryland, USA: Department of Statistics and ICF International, 2013
+TON	Tonga	Western Pacific	2012	8.1	Tonga demographic and health survey 2012. Noumea, New Caledonia: Secretariat of the Pacific Community, 2013.
+POL	Poland	Europe	2011	0.8	The prevalence of overweight and obesity among polish pre-school-aged children. Developmental Period Medicine,2016:XX,2 Reduced age range; Height/length modality (standing/lying) was not collected
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2011	0.9	Diet and Nutrition Survey of Infants and Young Children, 2011. [data collection]. 2nd Edition. UK Data Service. SN: 7263, http://doi.org/10.5255/UKDA-SN-7263-2 Reduced age range
+KOR	Republic of Korea	Western Pacific	2011	1.3	South Korea National Health and Nutrition Examination Survey, 2010-2012 Reduced age range; Height/length modality (standing/lying) was not collected
+URY	Uruguay	Americas	2011	11.7	Encuesta nacional sobre estado nutricional, prácticas de alimentación y anemia. Montevideo, Uruguay 2011 Reduced age range; Height/length modality (standing/lying) was not collected
+MAR	Morocco	Eastern Mediterranean	2011	14.9	Enquête nationale sur la population et la santé familiale (ENPSF) 2010-2011. Rabat, Royaume de Maroc: Ministère de la Santé, 2012
+AZE	Azerbaijan	Europe	2011	16.4	Demographic and Health Survey, Azerbaijan 2011. Ministry of Health (MoH) [Azerbaijan], Baku, Azerbaijan
+BLZ	Belize	Americas	2011	19.3	Belize multiple indicator cluster survey 2011 (MICS). Belize city, Belize: SIB and UNICEF, 2012
+PER	Peru	Americas	2011	19.5	Encuesta demografica y de salud familiar - ENDES continua 2011. Demographic and Health Surveys. Lima, Peru: INEI, USAID y ORC Macro, 2012
+IRQ	Iraq	Eastern Mediterranean	2011	22.1	Iraq multiple indicator cluster survey (MICS) 2011: Final report. Baghdad, Iraq: The Central Statistics Organization and the Kurdistan Regional Statistics Office, 2012
+GHA	Ghana	Africa	2011	22.8	Ghana multiple indicator cluster survey (MICS) with an enhanced malaria module and biomarker 2011: Final report. Accra, Ghana, 2012
+COG	Congo	Africa	2011	24.4	Enquête démographique et de santé du Congo (EDSC-II) 2011-2012. Demographic and Health Surveys. Calverton, Maryland, USA : CNSEE et ICF International, 2013
+KEN	Kenya	Africa	2011	26.3	Kenya 2011 National Micronutrient Survey Reduced age range
+SEN	Senegal	Africa	2011	26.7	Enquête démographique et de santé à indicateurs multiples au Sénégal (EDS-MICS) 2010-2011. Demographic and Health Surveys and MICS. Calverton, Maryland, USA: ANSD et ICF International, 2012
+CIV	Cote d'Ivoire	Africa	2011	27.2	Enquête nutritionnelle nationale basée sur la méthodologie SMART - Rapport final Height/length modality (standing/lying) was not collected
+VNM	Viet Nam	Western Pacific	2011	27.5	Nutrition surveillance profile 2011, Ha Noi, Viet Nam.
+MLI	Mali	Africa	2011	27.9	Enquête Nationale Nutritionnelle Anthropométrique et de Mortalité Rétrospective, Mali 2011 Height/length modality (standing/lying) was not collected
+MRT	Mauritania	Africa	2011	29.7	Suivi de la situation des femmes et des enfants. Enquête par grappes à indicateurs multiples (MICS) 2011: Rapport final. Nouakchott, Mauritanie: ONS, 2012.
+DJI	Djibouti	Eastern Mediterranean	2011	31	Enquête Nutritionnelle SMART, Évaluation de  la Situation Nutritionnelle, Rapport Final, Djibouti, Avril 2011 Reduced age range
+CMR	Cameroon	Africa	2011	32.6	Enquête démographique et de santé et à indicateurs multiples du Cameroun 2011. Demographic and Health Surveys and MICS. Calverton, Maryland, USA : INS et ICF International, 2012
+PHL	Philippines	Western Pacific	2011	33.4	Philippines Updating of Nutritional Status of Filipino Children and Other Population Groups 2011. Height/length modality (standing/lying) was not collected
+UGA	Uganda	Africa	2011	33.5	Uganda demographic and health survey 2011. Demographic and Health Surveys. Kampala, Uganda: UBOS and Calverton, Maryland: ICF International Inc., 2012
+BFA	Burkina Faso	Africa	2011	34.6	Rapport enquête nutritionnelle nationale 2011. Ouagadougou, Burkona Faso, 2012. Height/length modality (standing/lying) was not collected
+TZA	United Republic of Tanzania	Africa	2011	35	Tanzania National Panel Survey Report (NPS) - Wave 2, 2010 - 2011. Dar es Salaam, Tanzania: NBS, 2012. Age calculated using alternate methods
+NGA	Nigeria	Africa	2011	35.8	Nigeria multiple indicator cluster survey 2011 (MICS): Monitoring the situation of children and women. Abuja, Nigeria, 2011
+KWT	Kuwait	Eastern Mediterranean	2011	4.1	Kuwait Nutrition Surveillance System [KNSS] 2011. Kuwait city, Kuwait: Food & Nutrition Administration, 2013 Height/length modality (standing/lying) was not collected
+MKD	North Macedonia	Europe	2011	4.9	Multiple indicator cluster survey 2011 (MICS). Skopje, North Macedonia: Ministry of Health, Ministry of Education and Science,  Ministry of Labour and Social Policy, 2012.
+NPL	Nepal	South-East Asia	2011	40.1	Nepal demographic and health survey 2011. Demographic and Health Surveys. Kathmandu, Nepal: Ministry of Health and Population, New ERA, and ICF International, Calverton, Maryland 2012
+BGD	Bangladesh	South-East Asia	2011	41.3	Bangladesh demographic and health survey 2011. Demographic and Health Surveys. Dhaka, Bangladesh and Calverton, Maryland, USA: NIPORT, Mitra and Associates, and ICF International, 2013
+MOZ	Mozambique	Africa	2011	42.9	Moçambique inquérito demográfico e de Saúde 2011. Demographic and Health Surveys. Calverton, Maryland, USA: MISAU, INE e ICFI, 2013
+PAK	Pakistan	Eastern Mediterranean	2011	43.6	National nutrition survey Pakistan, 2011. Islamabad, Pakistan: Aga Khan University, PMRC, Government of Pakistan and UNICEF, 2012 Height/length modality (standing/lying) was not collected
+LAO	Lao People's Democratic Republic	Western Pacific	2011	44.2	Lao social indicator survey LSIS (MICS/DHS). Vientiane, Lao PDR: MoH and LSB, 2012
+ETH	Ethiopia	Africa	2011	44.4	Ethiopia demographic and health survey 2011. Demographic and Health Surveys. Addis Ababa, Ethiopia and Calverton, Maryland, USA: Central Statistical Agency and ICF International, 2012
+YEM	Yemen	Eastern Mediterranean	2011	46.6	The state of food security and nutrition in Yemen. Comprehensive food security survey 2011. Sana'a, Republic of Yemen, 2013
+MDG	Madagascar	Africa	2011	49.9	Enquête Anthropométrique et Développement de l'Enfant Madagascar 2011, Round 3
+NER	Niger	Africa	2011	50.9	Rapport d’enquête nationale, Nutrition, Niger, Mai/Juin 2011, Rapport final juillet 2011 Reduced age range; Height/length modality (standing/lying) was not collected
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2010	10.9	Final report of the Palestinian family survey 2010 (MICS). Ramallah, State of Palestine: Palestinian Central Bureau of Statistics, 2013.
+COL	Colombia	Americas	2010	12.6	Encuesta Nacional de la Situacion Nutricional en Colombia 2010
+KAZ	Kazakhstan	Europe	2010	13.1	Multiple indicator cluster survey (MICS) in the Republic of Kazakhstan (RK), 2010-2011. Final report. Astana, Kazakhstan: the Agency of Statistics, RK and the Republican State Enterprise Information Computing Center, 2012
+MNG	Mongolia	Western Pacific	2010	15.3	2010 Child Development Survey MICS-4 Final Report
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2010	2.1	National Child Measurement Programme, 2009-2010. [data collection]. 2nd Edition. UK Data Service. SN: 6789, DOI: http://doi.org/10.5255/UKDA-SN-6789-2 Reduced age range; Height/length modality (standing/lying) was not collected
+USA	United States of America	Americas	2010	2.8	National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, CDC, [2009-10]
+ARM	Armenia	Europe	2010	20.9	Armenia demographic and health survey 2010. Demographic and Health Surveys. Calverton, Maryland: National Statistical Service, Ministry of Health, and ICF International, 2012
+VNM	Viet Nam	Western Pacific	2010	22.7	Viet Nam multiple indicator cluster survey 2011 (MICS), final report. Ha Noi, Viet Nam, 2011
+PER	Peru	Americas	2010	23.3	Encuesta demografica y de salud familiar - ENDES continua 2010.  Demographic and Health Surveys. Lima, Peru: INEI, USAID y ORC Macro, 2011
+GMB	Gambia	Africa	2010	23.4	The Gambia multiple indicator cluster survey 2010 (MICS): Final report. Banjul, The Gambia: GBOS, 2012
+TGO	Togo	Africa	2010	27	Enquete Nutritionnelle Nationale Utilisant la Methodologie SMART, Togo 12 au 30 Decembre 2010 Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	2010	27.8	Enquête par Grappes à Indicateurs Multiples 2009 - 2010, Rapport final, Bamako Mali, 2011
+SWZ	Eswatini	Africa	2010	30.9	Swaziland multiple indicator cluster survey 2010 (MICS): Final report. Mbabane, Swaziland, Central Statistical Office and UNICEF, 2011
+GNB	Guinea-Bissau	Africa	2010	32	Inquérito aos indicadores múltiplos (MICS), inquérito demográfico de saúde reprodutiva - Guiné-Bissau, 2010: Relatório final. Bissau, Guiné-Bissau, 2011.
+ZWE	Zimbabwe	Africa	2010	32.2	Zimbabwe demographic and health survey 2010-11. Demographic and Health Surveys. Calverton, Maryland: ZIMSTAT and ICF International Inc., 2012
+SLE	Sierra Leone	Africa	2010	32.7	Report on The National Situation of Sierra Leone: Nutrition Survey using SMART Methods
+BTN	Bhutan	South-East Asia	2010	33.5	Bhutan multiple indicator cluster survey (BMIS) 2010. Thimphu, Bhutan: NSB, May 2011
+SDN	Sudan	Eastern Mediterranean	2010	34.1	Sudan household health survey, second round 2010.
+BFA	Burkina Faso	Africa	2010	34.9	Enquete Nutritionnelle Nationale 2010: Rapport Definitif Height/length modality (standing/lying) was not collected
+TCD	Chad	Africa	2010	38.7	Enquête par grappes à indicateurs multiples (MICS), Tchad 2010: Rapport final. N'Djamena, République du Tchad, 2011
+LBR	Liberia	Africa	2010	39	Liberia Comprehensive Food Security & Nutrition Survey 2010 Height/length modality (standing/lying) was not collected
+IDN	Indonesia	Western Pacific	2010	39.2	National report on basic health research, Riskesdas, 2010. Jakarta, Indonesia, 2012
+KHM	Cambodia	Western Pacific	2010	39.8	Cambodia demographic and health survey 2010. Demographic and Health Surveys. Phnom Penh, Cambodia and Calverton, Maryland, USA: National Institute of Statistics, Directorate General for Health, and ICF Macro, 2011
+KWT	Kuwait	Eastern Mediterranean	2010	4	Kuwait Nutrition Surveillance System [KNSS] 2010. Kuwait city, Kuwait: Food & Nutrition Administration, 2013 Height/length modality (standing/lying) was not collected
+CAF	Central African Republic	Africa	2010	40.7	Suivi de la situation des enfants, des femmes et des hommes. Enquête par grappes à indicateurs multiples - MICS couplée avec la sérologie VIH, RCA, 2010: Rapport final. Bangui, RCA: ICASEES, 2012.
+NPL	Nepal	South-East Asia	2010	41.5	Nepal Living Standards Survey 2010-2011, NLSS Third
+TZA	United Republic of Tanzania	Africa	2010	42.1	Tanzania demographic and health survey  2010. Demographic and Health Surveys. Dar es Salaam, Tanzania: NBS and ICF Macro, 2011
+COD	Democratic Republic of the Congo	Africa	2010	43.4	Enquête par grappes à indicateurs multiples en République Démocratique du Congo (MICS-RDC 2010). Rapport final, mai 2011. Kinshasa, République Démocratique du Congo, 2011
+RWA	Rwanda	Africa	2010	44.3	Rwanda demographic and health survey 2010. Demographic and Health Surveys. Calverton, Maryland, USA: NISR, MOH, and ICF International, 2012
+MWI	Malawi	Africa	2010	47.3	Malawi demographic and health survey 2010. Demographic and Health Surveys. Zomba, Malawi, and Calverton, Maryland, USA: NSO and ICF Macro. 2011
+NER	Niger	Africa	2010	47.4	Enquête nationale, Nutrition, Niger (Octobre-Novembre 2010) Height/length modality (standing/lying) was not collected
+BDI	Burundi	Africa	2010	57.6	Enquête démographique et de santé Burundi 2010. Demographic and Health Surveys. Bujumbura, Burundi : ISTEEBU, MSPLS, et ICF International, 2012
+JAM	Jamaica	Americas	2010	6	Jamaica survey of living conditions 2010. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2013
+SRB	Serbia	Europe	2010	6.6	Serbia multiple indicator cluster survey 2010 (MICS). Belgrade, Republic of Serbia: Statistical Office of the Republic of Serbia, 2011
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2010	6.8	Iran's Multiple Indicator Demographic and Health Survey - 2010.
+SUR	Suriname	Americas	2010	8.8	Suriname multiple indicator cluster survey 2010, Final Report (MICS). Paramaribo, Suriname, 2012
+CHN	China	Western Pacific	2010	9.4	China 2010 Food and Nutrition Surveillance System (CFNSS)
+GEO	Georgia	Europe	2009	11.8	Report of the Georgia national nutrition survey (GNNS) 2009. Tbilisi, Georgia: NCDC&PH and UNICEF, 2010. Height/length modality (standing/lying) was not collected
+MDV	Maldives	South-East Asia	2009	19	Maldives demographic and health survey 2009. Demographic and Health Surveys. Calverton, Maryland: MOHF and ICF Macro, 2010
+LKA	Sri Lanka	South-East Asia	2009	19.2	Nutrition and food security survey 2009. Colombo, Sri Lanka: Medical Research Institute, 2010.
+GUY	Guyana	Americas	2009	19.3	Guyana demographic and health survey 2009. Demographic and Health Surveys. Georgetown, Guyana: MOH, BOS, and ICF Macro, 2010
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2009	2	National Child Measurement Programme, 2008-2009. [data collection]. 3rd Edition. UK Data Service. SN: 6577, DOI: http://doi.org/10.5255/UKDA-SN-6577-2 Reduced age range; Height/length modality (standing/lying) was not collected
+POL	Poland	Europe	2009	2.9	Poland 2009 European Health Interview Survey
+KGZ	Kyrgyzstan	Europe	2009	22.6	National survey of the nutritional status of children 6-59 months of age and their mothers, Kyrgyzstan 2009. Bishkek: Ministry of Health, National Statistical Committee, UNICEF, Kyrgyz-Swiss-Swedish Health Project, US CDC, 2010. Reduced age range
+ALB	Albania	Europe	2009	23.2	Albania demographic and health survey 2008-09. Demographic and Health Surveys. Tirana, Albania: Institute of Statistics, Institute of Public Health and ICF Macro, 2010
+PER	Peru	Americas	2009	23.9	Encuesta demografica y de salud familiar - ENDES continua 2009.  Demographic and Health Surveys. Lima, Peru: INEI, USAID y ORC Macro, 2010
+TGO	Togo	Africa	2009	27	Enquete Nutritionnelle Nationale Utilisant la Methodologie SMART, Togo 2009 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+TJK	Tajikistan	Europe	2009	28.8	Micronutrient status survey in Tajikistan, 2009. Dushanbe, Republic of Tajikistan: Ministry of Health and UNICEF, 2010 Reduced age range; Height/length modality (standing/lying) was not collected
+VNM	Viet Nam	Western Pacific	2009	29.3	General nutrition survey 2009-2010. Hanoi, Viet Nam: Medical Publishing House, 2010.
+KWT	Kuwait	Eastern Mediterranean	2009	3.8	Kuwait Nutrition Surveillance System [KNSS] 2009. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+PRK	Democratic People's Republic of Korea	South-East Asia	2009	32.4	The Democratic People's Republic of Korea (DPR Korea) multiple indicator cluster survey 2009 (MICS4). Final Report. Pyongyang, DPR Korea: CBS and UNICEF, 2010.
+MMR	Myanmar	South-East Asia	2009	35.1	Myanmar multiple indicator cluster survey 2009 - 2010: Final Report (MICS3). Nay Pyi Taw, Myanmar: Ministry of National Planning and Economic Development and Ministry of Health, 2011.
+ZWE	Zimbabwe	Africa	2009	35.1	Zimbabwe multiple indicator monitoring survey (MIMS), 2009. Report August 2010. Harare, Zimbabwe: ZIMSTAT, 2010
+BFA	Burkina Faso	Africa	2009	35.1	Enquête nutritionnelle nationale 2009. Ouagadougou, Burkina Faso: Direction de la Nutrition, 2009
+UGA	Uganda	Africa	2009	38.2	The Uganda National Panel Survey (UNPS) 2009/10
+LSO	Lesotho	Africa	2009	39.3	Lesotho demographic and health survey 2009. Demographic and Health Surveys. Maseru, Lesotho: MOHSW and ICF Macro, 2010
+TZA	United Republic of Tanzania	Africa	2009	43.2	Tanzania National Panel Survey Report (NPS) - Wave 2, 2008 - 2009. Dar es Salaam, Tanzania: NBS Age calculated using alternate methods
+NER	Niger	Africa	2009	45.5	Rapport d’enquête nationale Nutrition et Survie de l’Enfant, Niger, mai/juin 2009, Rapport final, octobre 2009 Height/length modality (standing/lying) was not collected
+RWA	Rwanda	Africa	2009	46.6	Rwanda Comprehensive Food Security and Vulnerability Analysis 2009 Age-adjusted; Adjusted National-Rural to National
+MWI	Malawi	Africa	2009	48.8	The national micronutrient survey 2009. Lilongwe, Malawi: Ministry of Health, UNICEF, Irish Aid and CDC, 2011. Reduced age range
+MDG	Madagascar	Africa	2009	49.4	Enquête démographique et de santé de Madagascar 2008-2009. Demographic and Health Surveys. Antananarivo, Madagascar: INSTAT et ICF Macro, 2010
+GTM	Guatemala	Americas	2009	51.5	Encuesta nacional de salud materno infantil 2008 (ENSMI-2008/09). Ciudad de Guatemala, Guatemala: Ministerio de Salud Pública, MSPAS, INE y CDC, 2010
+TLS	Timor-Leste	South-East Asia	2009	57.5	Timor-Leste demographic and health survey 2009-10. Demographic and Health Surveys. Dili, Timor-Leste: NSD [Timor-Leste] and ICF Macro, 2010
+JOR	Jordan	Eastern Mediterranean	2009	8.2	Jordan population and family health survey 2009. Demographic and Health Surveys. Calverton, Maryland, USA: Department of Statistics and ICF Macro, 2010
+CHN	China	Western Pacific	2009	9	Nutrition and rapid economic development - 2010 research report on nutrition policy in China. Beijing, China: Chinese Center for Disease Control and Prevention, 2010 Adjusted National-Rural to National
+OMN	Oman	Eastern Mediterranean	2009	9.8	Second National Health Survey for Protein Energy Malnutrition In Children below Five Years of Age In the Sultanate of Oman
+TUR	Türkiye	Europe	2008	12.5	Turkey Demographic and Health Survey 2008. Ankara, Turkey: Institute of Population Studies, Hacettepe University.
+VEN	Venezuela (Bolivarian Republic of)	Americas	2008	14.6	Evaluación nutricional antropométrica en el primer nivel de atención en salud 2008 Converted estimate
+PAN	Panama	Americas	2008	19	Encuesta de niveles de vida, 2008. Panama City, Republica de Panama, 2009. Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+CHL	Chile	Americas	2008	2	Nutrición en el Sistema Público de Salud, Diciembre 2008 Alternate age range
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2008	2.1	National Child Measurement Programme, 2007-2008. [data collection]. 2nd Edition. UK Data Service. SN: 6788, DOI: http://doi.org/10.5255/UKDA-SN-6788-2 Reduced age range; Height/length modality (standing/lying) was not collected
+USA	United States of America	Americas	2008	2.3	National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, CDC, [2007-08]
+SLV	El Salvador	Americas	2008	20.8	Encuesta nacional de salud familiar, FESAL 2008. Informe resumido.  San Salvador, El Salvador: ADS, 2009
+MRT	Mauritania	Africa	2008	23.6	Enquête rapide nationale sur la nutrition et survie de l'enfant en Mauritanie: Rapport final. Nouakchott, Mauritanie: ANED, ONS et UNICEF, Octobre-Novembre 2008 Height/length modality (standing/lying) was not collected
+ZAF	South Africa	Africa	2008	25	South Africa 2008 National Income Dynamics Survey Reduced age range; Height/length modality (standing/lying) was not collected
+VUT	Vanuatu	Western Pacific	2008	25.7	Vanuatu multiple indicator cluster survey 2007 (MICS). Final Report. Port Vila, Vanuatu: Ministry of Health, Government of Vanuatu, 2008
+TGO	Togo	Africa	2008	26.9	Rapport d'enquête nationale nutrition et survie des enfants de 0 à 59 mois, pratique d'alimentation de nourrisson et du jeune enfants. SMART. Togo, décembre 2008.
+BOL	Bolivia (Plurinational State of)	Americas	2008	27.1	Encuesta nacional de demografía y salud ENDSA 2008. Demographic and Health Surveys. La Paz, Bolivia: MSD, PRS, INE y Macro International, 2009
+GNB	Guinea-Bissau	Africa	2008	27.6	Enquête nutritionnel SMART. Evaluation de la situation nutritionnelle en Guinée Bissau: Rapport final, décembre 2008 Age calculated using alternate methods
+GHA	Ghana	Africa	2008	28.4	Ghana demographic and health survey 2008. Demographic and Health Surveys. Accra, Ghana: GSS, GHS, and ICF Macro, 2009
+EGY	Egypt	Eastern Mediterranean	2008	30.7	Egypt demographic and health survey 2008. Demographic and Health Surveys. Cairo, Egypt: Ministry of Health, 2009
+VNM	Viet Nam	Western Pacific	2008	30.8	2008 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+PHL	Philippines	Western Pacific	2008	32	7th national nutrition survey. Manila, Philippines: FNRI-DOST, 2010 Height/length modality (standing/lying) was not collected
+BTN	Bhutan	South-East Asia	2008	34.9	National Nutrition, Infant & Young Child Feeding Survey 2008. Thimphu, Bhutan: Ministry of Health and UN. Height/length modality (standing/lying) was not collected
+KEN	Kenya	Africa	2008	35.5	Kenya demographic and health survey 2008-09. Demographic and Health Surveys. Calverton, Maryland: KNBS and ICF Macro, 2010
+LBR	Liberia	Africa	2008	36.1	The 2008 State of Food and Nutrition Security in Liberia. Reduced age range
+BEN	Benin	Africa	2008	37.4	Analyse Globale de la Vulnérabilité, de la Sécurité Alimentaire et de la Nutrition (AGVSAN) 2008 Reduced age range
+KHM	Cambodia	Western Pacific	2008	39.5	Cambodia anthropometrics survey 2008. Phnom Penh, Cambodia: National Institute of Statistics, Ministry of Planning and UNICEF Cambodia, 2009 Height/length modality (standing/lying) was not collected
+IDN	Indonesia	Western Pacific	2008	40.1	Indonesia Basic Health Survey, Riskesdas, 2007-2008, Ministry of Health.
+SWZ	Eswatini	Africa	2008	40.4	Swaziland national nutrition survey report (November 2008). Mbabane, Swaziland: Ministry of Health, 2009.
+MOZ	Mozambique	Africa	2008	43.5	Mozambique multiple indicator cluster survey 2008 (MICS). Maputo, Mozambique: INE, 2009
+NER	Niger	Africa	2008	43.8	Rapport d’enquête nationale Nutrition et Survie de l’Enfant Niger, juin/juillet 2008 Rapport final, Height/length modality (standing/lying) was not collected
+KWT	Kuwait	Eastern Mediterranean	2008	5.1	Kuwait Nutrition Surveillance System [KNSS] 2008. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+CRI	Costa Rica	Americas	2008	5.6	Encuesta nacional de nutricion 2008-2009. San Jose, Costa Rica, 2011. Reduced age range
+JAM	Jamaica	Americas	2008	6.9	Jamaica survey of living conditions 2008. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2013
+CHN	China	Western Pacific	2008	9.8	China 2008 Food and Nutrition Surveillance System (CFNSS) Adjusted National-Rural to National
+TUV	Tuvalu	Western Pacific	2007	10	Tuvalu demographic and health survey. DHS. Noumea, New Caledonia: TCSD, SPC and Macro International Inc, 2007
+DOM	Dominican Republic	Americas	2007	10.1	Encuesta demográfica y de salud 2007. Demographic and Health Surveys. Santo Domingo, República Dominicana: CESDEM y Macro International Inc., 2008
+URY	Uruguay	Americas	2007	11.8	Encuesta nacional sobre estado nutricional, prácticas de alimentación y anemia. Montevideo, Uruguay 2007 Reduced age range; Height/length modality (standing/lying) was not collected
+VEN	Venezuela (Bolivarian Republic of)	Americas	2007	15.6	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2007 Converted estimate
+LKA	Sri Lanka	South-East Asia	2007	18.1	Sri Lanka Demographic and Health Survey 2006-07. Colombo, Sri Lanka: DCS and MOH, 2009
+CHL	Chile	Americas	2007	2.1	Nutrición en el Sistema Público de Salud, Diciembre 2007 Alternate age range
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2007	2.3	National Child Measurement Programme, 2006-2007. [data collection]. 2nd Edition. UK Data Service. SN: 6787, DOI: http://doi.org/10.5255/UKDA-SN-6787-2 Reduced age range; Height/length modality (standing/lying) was not collected
+LBY	Libya	Eastern Mediterranean	2007	21	National Libyan family health survey. PAPFAM surveys. Cairo: The league of Arab States, 2008
+NIC	Nicaragua	Americas	2007	23.1	Encuesta nicaragüense de demografía y salud ENDESA 2006/07, informe final. Managua, Nicaragua: INIDE y CDC, 2008
+NRU	Naoero	Western Pacific	2007	24	Nauru 2007 demographic and health survey. Demographic and Health Surveys. Auckland, New Zealand: NBS, SPC and Macro, 2009
+PER	Peru	Americas	2007	28	Encuesta demografica y de salud familiar. Informe principal: ENDES continua 2007-2008.  Demographic and Health Surveys. Lima, Peru: INEI, USAID y ORC Macro, 2009
+AGO	Angola	Africa	2007	29.2	Relatório do Inquérito Alimentar em Angola. Luanda, 2007 Reduced age range
+NAM	Namibia	Africa	2007	29.2	Namibia demographic and health survey 2006-07. Demographic and Health Surveys. Windhoek, Namibia and Calverton, Maryland, USA: MoHSS and Macro International Inc., 2008
+MRT	Mauritania	Africa	2007	31.5	Enquête par grappes à indicateurs multiples, Mauritanie 2007. Nouakchott, Mauritania: ONS and UNICEF, 2008
+VNM	Viet Nam	Western Pacific	2007	31.7	2007 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+SLB	Solomon Islands	Western Pacific	2007	32.8	Solomon Islands 2006-2007 demographic and health survey. DHS. Noumea, New Caledonia: SISO, SPC and Macro International Inc., 2007
+GIN	Guinea	Africa	2007	34	Enquête nationale sur l'état nutritionnel et le suivi des principaux indicateurs de survie de l'enfant. Rapport provisoire, Mai 2008 Height/length modality (standing/lying) was not collected
+CIV	Cote d'Ivoire	Africa	2007	39	Evaluation des carences en vitamine A et fer en Côte d'Ivoire (Rapport final). Ministère de la Santé et de l'Hygiène Publique et Helen Keller Int., Abidjan, Côte d'Ivoire, 2009 Reduced age range
+TJK	Tajikistan	Europe	2007	39.3	Tajikistan living standards measurement survey 2007 (TLSS): Indicators at a glance. Dushanbe, Republic of Tajikistan: State Committee on Statistics and UNICEF, 2009
+LBR	Liberia	Africa	2007	39.6	Liberia demographic and health survey 2007. Demographic and Health Surveys. Monrovia, Liberia: Liberia Institute of Statistics and Geo-Information Services (LISGIS) and Macro International Inc., 2008
+BGD	Bangladesh	South-East Asia	2007	43.2	Bangladesh demographic and health survey 2007. DHS. Dhaka, Bangladesh and Calverton, Maryland, USA: National Institute of Population Research and Training, Mitra and Associates, and Macro International, 2009
+COD	Democratic Republic of the Congo	Africa	2007	45.8	Enquête démographique et de santé, République Démocratique du Congo 2007. Demographic and Health Surveys. Calverton, Maryland, U.S.A.: Ministère du Plan et Macro International, 2008
+ZMB	Zambia	Africa	2007	45.8	Zambia demographic and health survey 2007. Demographic and Health Surveys. Calverton, Maryland, USA: CSO and Macro International Inc., 2009
+NER	Niger	Africa	2007	49.2	Rapport d’enquête nationale Nutrition et Survie de l’Enfant Niger, mai/juin 2007 Height/length modality (standing/lying) was not collected
+KWT	Kuwait	Eastern Mediterranean	2007	5.1	Kuwait Nutrition Surveillance System [KNSS] 2007. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+JAM	Jamaica	Americas	2007	5.4	Jamaica survey of living conditions 2007. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2013
+TLS	Timor-Leste	South-East Asia	2007	57.2	Timor-Leste Survey of Living Standards 2007 and Extension 2008
+BRA	Brazil	Americas	2007	7	Pesquisa nacional de demografia e saúde da criança e da mulher - PNDS 2006. Relatório da pesquisa. Sao Paulo: CEBRAP, 2008
+BGR	Bulgaria	Europe	2007	9.2	Nutrition and Nutritional Status of Children aged under 5 years in Bulgaria
+SUR	Suriname	Americas	2006	10.6	Suriname multiple indicator cluster survey 2006, Final Report (MICS3). Paramaribo, Suriname, 2009
+BIH	Bosnia and Herzegovina	Europe	2006	11.8	Bosnia and Herzegovina multiple indicator cluster survey 2006. Sarajevo, Bosnia and Herzegovina: UNICEF, 2007
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2006	13.6	Palestinian family health survey, 2006: Final report. Ramallah, Palestine, 2007
+DZA	Algeria	Africa	2006	15.4	Suivi de la situation des enfant et des femmes. Enquête nationale à indicateurs multiples: Rapport principal. MICS3. République Algérienne Démocratique et Populaire, Décembre 2008
+MEX	Mexico	Americas	2006	15.5	Encuesta nacional de salud y nutrición 2006. Cuernavaca, México: Instituto Nacional de Salud Pública, 2006 Height/length modality (standing/lying) was not collected
+THA	Thailand	South-East Asia	2006	15.7	Thailand Multiple Indicator Cluster Survey December 2005- February 2006, Final Report. Bangkok, Thailand: National Statistical Office.
+VEN	Venezuela (Bolivarian Republic of)	Americas	2006	16.2	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2006 Converted estimate
+KAZ	Kazakhstan	Europe	2006	17.5	Kazakhstan multiple indicator cluster survey 2006. Final report. Astana, Kazakhstan: UNICEF and Agency of the Republic of Kazakhstan on Statistic, 2007
+MYS	Malaysia	Western Pacific	2006	17.5	Malaysia National Health And Morbidity Survey 2006. Kuala Lumpur, Malaysia: Institute for Public Health, Ministry of Health (Malaysia) Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+GUY	Guyana	Americas	2006	17.9	Guyana multiple indicator cluster survey 2006, final report. Georgetown, Guyana: Bureau of Statistics and UNICEF, 2008
+KGZ	Kyrgyzstan	Europe	2006	18.1	Multiple indicator cluster survey 2006, Kyrgyz Republic. Final report. Bishkek, Kyrgyzstan: National Statistical Committee of the Kyrkyz Republic and United Nations Children's Fund, 2007
+TKM	Turkmenistan	Europe	2006	18.9	Turkmenistan multiple indicator cluster survey 2006, Final Report. Ashgabat, Turkmenistan: Turkmenmillihasabat, 2006
+UZB	Uzbekistan	Europe	2006	19.6	Uzbekistan multiple indicator cluster survey 2006, Final report. Tashkent, Uzbekistan: UNICEF, 2007
+CHL	Chile	Americas	2006	2.2	Nutrición en el Sistema Público de Salud, Diciembre 2006 Converted estimate
+BLZ	Belize	Americas	2006	22	Multiple indicator cluster survey Belize, 2006. UNICEF
+ECU	Ecuador	Americas	2006	25.9	Encuesta de Condiciones De Vida, Ecuador 2005-2006, V Ronda
+AZE	Azerbaijan	Europe	2006	26.5	Azerbaijan Demographic and Health Survey 2006. Demographic and Health Surveys. Calverton, Maryland, USA: State Statistical Committee and Macro International Inc., 2008
+IRQ	Iraq	Eastern Mediterranean	2006	27.5	Iraq multiple indicator cluster survey 2006, Final report. Iraq, 2007
+GMB	Gambia	Africa	2006	27.7	The Gambia Multiple Indicator Cluster Survey 2005/2006 Report. Banjul, The Gambia: GBoS, 2007
+GHA	Ghana	Africa	2006	27.9	Monitoring the situation of children, women and men. Ghana Multiple indicator cluster survey 2006.
+SYR	Syrian Arab Republic	Eastern Mediterranean	2006	28.7	Syrian Arab Republic multiple indicator cluster survey 2006. February 2008.
+SWZ	Eswatini	Africa	2006	29.2	Swaziland demographic and health survey 2006-07. Demographic and Health Surveys. Mbabane, Swaziland: Central Statistical Office and Macro International Inc., 2008
+HTI	Haiti	Americas	2006	29.6	Enquête mortalité, morbidité et utilisation des services, Haïti, 2005-2006. DHS. Calverton, Maryland, USA: Ministère de la Santé Publique et de la Population, Institut Haïtien de l'Enfance et Macro International Inc., 2007
+HND	Honduras	Americas	2006	29.8	Encuesta nacional de salud y demografía 2005-2006. Demographic and Health Surveys. Tegucigalpa, Honduras: SS, INE y Macro International, 2006
+TGO	Togo	Africa	2006	29.9	Résultats de l'enquête nationale à indicateurs multiples, Togo 2006. Rapport final, aôut 2007
+USA	United States of America	Americas	2006	3.1	National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, CDC, [2005-06]
+VNM	Viet Nam	Western Pacific	2006	31.7	2006 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+SSD	South Sudan	Africa	2006	36.2	Sudan household health survey (SHHS) - 2006.  Khartoum and Juba: Government of National Unity, Government of Southern Sudan, December 2007 (South Sudan extract)
+CMR	Cameroon	Africa	2006	37.6	Cameroun: Suivi de la situation des enfants et des femmes. Enquête par grappee à indicateurs multiples 2006. Rapport principal. Yaoundé, Cameroun: Institut National de la Statistique et UNICEF, 2008
+MLI	Mali	Africa	2006	37.6	Enquête démographique et de santé du Mali 2006. DHS. Calverton, Maryland, USA: CPS/DNSI et Macro International Inc., 2007
+SDN	Sudan	Eastern Mediterranean	2006	38.3	Sudan household health survey (SHHS) - 2006.  Khartoum and Juba: Government of National Unity, Government of Southern Sudan, December 2007 (Sudan extract)
+UGA	Uganda	Africa	2006	38.4	Uganda demographic and health survey 2006. Demographic and Health Surveys. Calverton, Maryland, USA: UBOS and Macro International Inc., 2007
+KWT	Kuwait	Eastern Mediterranean	2006	4.8	Kuwait Nutrition Surveillance System [KNSS] 2006. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+SOM	Somalia	Eastern Mediterranean	2006	42	Monitoring the situation of women and children. Somalia multiple indicator cluster survey 2006. New York: UNICEF, 2007.
+CAF	Central African Republic	Africa	2006	43.6	Suivi de la situation des enfants et des femmes. MICS-3 Résultats de l'enquête nationale à indicateurs multiples couplée avec la sérologie VIH et enémie en RCA 2006. Bangui, Republique Centrafricaine: ICASEES, 2009
+BGD	Bangladesh	South-East Asia	2006	45.1	Nutritional Surveillance Project 2006: data on rural national data (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008 Adjusted National-Rural to National
+LAO	Lao People's Democratic Republic	Western Pacific	2006	47.7	Lao PDR multiple indicator cluster survey 2006, final report. Vientiane, Lao PDR: Department of Statistics and UNICEF, 2008
+IND	India	South-East Asia	2006	47.8	National family health survey (NFHS-3), 2005-06: India: Demographic and Health Surveys. Mumbai, India: IIPS, 2007
+NPL	Nepal	South-East Asia	2006	49.1	Nepal demographic and health survey 2006. Demographic and Health Surveys. Kathmandu, Nepal: Ministry of Health and Population, New ERA, and Macro International Inc., 2007
+NER	Niger	Africa	2006	51	Rapport d’enquête nationale Nutrition et Survie de l’Enfant, Niger 2006 Height/length modality (standing/lying) was not collected
+MWI	Malawi	Africa	2006	53.1	Malawi multiple indicator cluster survey 2006, Final report. Lilongwe, Malawi: National Statistical Office and UNICEF, 2008.
+JAM	Jamaica	Americas	2006	7.5	Jamaica survey of living conditions 2006. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2013
+DOM	Dominican Republic	Americas	2006	8.4	Encuesta nacional de hogares de proposito multiples (ENHOGAR-MICS 2006): Informe general. Santo Domingo, Republica Dominicana: ONE, 2008 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+TUN	Tunisia	Eastern Mediterranean	2006	9	Enquête sur la santé et le bien être de la mère et l'enfant: MICS 3. Tunis, Tunisia, 2008
+MDA	Republic of Moldova	Europe	2005	10.7	Moldova demographic and health survey 2005. Demographic and Health Surveys. Calverton, Maryland: NCPM of the Ministry of Health and Social Protection and ORC Macro, 2006
+MKD	North Macedonia	Europe	2005	11.3	Republic of North Macedonia - multiple indicator cluster survey 2005-06. Final report. Skopje: State Statistical Office of the Republic of North Macedonia, 2007
+CHN	China	Western Pacific	2005	11.7	China 2005 Food and Nutrition Surveillance System (CFNSS)
+GEO	Georgia	Europe	2005	14.6	Georgia monitoring the situation of children and women. Mulitple indicator cluster survey 2005.
+COL	Colombia	Americas	2005	16	Encuesta Nacional de la Situacion Nutricional en Colombia (ENSIN) 2005
+VEN	Venezuela (Bolivarian Republic of)	Americas	2005	16.2	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2005 Converted estimate
+PRY	Paraguay	Americas	2005	17.1	Encuesta Permanente de Hogares, Paraguay 2005. Asunción, Paraguay: Department of Statistics, Surveys and Censuses (Paraguay).
+ARM	Armenia	Europe	2005	17.9	Armenia demographic and health survey 2005. Demographic and Health Surveys. Calverton, Maryland: National Statistical Service, Ministry of Health, and ORC Macro, 2006
+MEX	Mexico	Americas	2005	19.4	Encuesta Nacional sobre Niveles de Vida de los Hogares (ENNViH), MxFLS-2, 2005-2006
+SEN	Senegal	Africa	2005	19.9	Enquête démographique et de santé au Sénégal 2005. Demographic and Health Surveys. Calverton, Maryland, USA : Centre de Recherche pour le Développement Humain [Sénégal] et ORC Macro, 2006
+NIC	Nicaragua	Americas	2005	21.5	Encuesta Nacional de Hogares sobre Medición de Nivel de Vida (EMNV), Nicaragua 2005
+EGY	Egypt	Eastern Mediterranean	2005	23.9	Egypt demographic and health survey 2005. Demographic and Health Surveys. Caire, Egypt: Ministry of Health and Population, National Population Council, El-Zanaty and Associates, and ORC Macro, 2006
+ALB	Albania	Europe	2005	26.7	Albania multiple indicator cluster survey 2005, final report. Tirana, Albania: Albanian National Institute of Statistics, 2008
+MNG	Mongolia	Western Pacific	2005	27.5	Mongolia Child and Development 2005 survey (MICS-3), final report. Ulaanbaatar, Mongolia, 2007
+PER	Peru	Americas	2005	29.2	Perú Encuesta Demográfica y de Salud Familiar - ENDES Continua 2005. Lima, Perú: INEI/Peru and ORC Macro
+COG	Congo	Africa	2005	31.2	Enquête démographique et de santé du Congo 2005. Demographic and Health Surveys. Calverton, Maryland, USA : CNSEE et ORC Macro, 2006
+TJK	Tajikistan	Europe	2005	33.1	Tajikistan multiple indicator cluster survey 2005, Final Report. Dushanbe, Tajikistan: State Committee on Statistics of the Republic of Tajikistan, 2007
+VNM	Viet Nam	Western Pacific	2005	33.3	2005 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+ZWE	Zimbabwe	Africa	2005	35.3	Zimbabwe demographic and health survey 2005-06. Demographic and Health Surveys. Calverton, Maryland: CSO and Macro International Inc., 2007
+GIN	Guinea	Africa	2005	39.3	Enquête démographique et de santé, Guinée 2005. Demographic and Health Surveys. Direction Nationale de la Statistique. Calverton, Maryland, U.S.A.: DNS et ORC Macro, 2006
+BLR	Belarus	Europe	2005	4.5	Belarus multiple indicator cluster survey 2005, final report. Minsk, Republic of Belarus: Ministry of Statistics and Analysis [Belarus] and Research Institute of Statistics of the MSA [Belarus], 2007
+KWT	Kuwait	Eastern Mediterranean	2005	4.5	Kuwait Nutrition Surveillance System [KNSS] 2005. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+KEN	Kenya	Africa	2005	40.3	Kenya integrated household budget survey (KIHBS), 2005/06: Revised edition, basic report. Nairobi, Kenya 2006
+KHM	Cambodia	Western Pacific	2005	42.8	Cambodia demographic and health survey 2005. Demographic and Health Surveys. Phnom Penh, Cambodia and Calverton, Maryland, USA: National Institute of Public Health, National Institute of Statistics and ORC Macro, 2006
+PNG	Papua New Guinea	Western Pacific	2005	43.9	Papua New Guinea 2005: National Nutrition Survey Final report. Port Moresby, Papua New Guinea, 2009 Reduced age range
+SLE	Sierra Leone	Africa	2005	45	Sierra Leone multiple indicator cluster survey 2005: Final Report. Freetown, Sierra Leone: Statistics Sierra Leone and UNICEF-Sierra Leone, 2007
+BGD	Bangladesh	South-East Asia	2005	46.2	Child and Mother Nutrition Survey of Bangladesh 2005
+ETH	Ethiopia	Africa	2005	50	Ethiopia demographic and health survey 2005. Demographic and Health Surveys. Addis Ababa, Ethiopia and Calverton, Maryland, USA: General Statistical Agency and ORC Macro, 2006
+RWA	Rwanda	Africa	2005	51.4	Rwanda demographic and health survey 2005. Demographic and Health Surveys. Calverton, Maryland, U.S.A.: INSR and ORC Macro, 2006
+YEM	Yemen	Eastern Mediterranean	2005	57	Yemen Household Budget Survey 2005-2006 Height/length modality (standing/lying) was not collected
+BDI	Burundi	Africa	2005	57.7	Rapport de l'enquête nationale de nutrition de la population, 2005. Bujumbura, Burundi, October 2006 Converted estimate
+ARG	Argentina	Americas	2005	7.2	Encuesta Nacional de Nutricion y Salud, Argentina 2004-2005 Reduced age range; Height/length modality (standing/lying) was not collected
+MNE	Montenegro	Europe	2005	7.9	Montenegro multiple indicator cluster survey 2005, Final report. Podgorica, Montenegro: MONSTAT, SMMRI and UNICEF, 2006
+SRB	Serbia	Europe	2005	8.1	Republic of Serbia multiple indicator cluster survey 2005, final report. Belgrade, Republic of Serbia: Statistical Office of the Republic of Serbia and Strategic Marketing Research Agency, 2006
+DEU	Germany	Europe	2004	1.2	German Health Interview and Examination Survey for Children and Adolescents (KiGGS), Baseline Study: 2003-2006
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2004	10.5	Palestine Demographic and health Survey 2004 Age calculated using alternate methods
+URY	Uruguay	Americas	2004	13.9	Sistema de vigilancia del estado nutricional (SISVEN), 2004. Programa Nacional de Nutrición. Montevideo, Uruguay, 2007.
+TUR	Türkiye	Europe	2004	15.2	Demographic and health survey, 2003.  Ankara, Turkey: Hacettepe University Institute of Population Studies, MoH General Directorate of Mother and Child Health and Family Planning, State Planning Organization and the EU, 2004
+LBN	Lebanon	Eastern Mediterranean	2004	16.5	Lebanon family health survey 2004: Principal report. Tutelian M, Khayyat M , Monem AA, eds. The Pan Arab Project for Family Health, 2006
+VEN	Venezuela (Bolivarian Republic of)	Americas	2004	17.1	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2004 Converted estimate
+NIC	Nicaragua	Americas	2004	18.8	Sistema integrado de vigilancia de interventiones nutricionales (SIVIN): Informe de progreso, Nicaragua 2003-05. Managua, Nicaragua 2008 Reduced age range
+CHL	Chile	Americas	2004	2.4	Nutrición en el Sistema Público de Salud, Diciembre 2004 Converted estimate
+USA	United States of America	Americas	2004	2.9	National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, CDC, [2003-04]
+IRQ	Iraq	Eastern Mediterranean	2004	20	Iraq living conditions survey 2004. Baghdad, Iraq: Central Organization for Statistics and Information Technology, Ministry of Planning and Development Cooperation, 2005 Converted estimate
+MNG	Mongolia	Western Pacific	2004	23.5	Nutritional status of Mongolian children and women: 3rd National nutrition survey report. Ulaanbaatar, Mongolia, 2006. Reduced age range; Height/length modality (standing/lying) was not collected
+IDN	Indonesia	Western Pacific	2004	28.6	National Household Health Survey (SKRT) 2004,  Jakarta, Indonesia, 2007 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+ECU	Ecuador	Americas	2004	29.2	Encuesta demografía y de salud materna e infantil, ENDEMAIN 2004: Informe final.  Quito, Ecuador: CEPAR, 2005 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+HND	Honduras	Americas	2004	31.5	Encuesta Nacional de Hogares sobre Condiciones de Vida (ENCOVI) Tegucigalpa, Honduras: National Institute of Statistics (Honduras) Height/length modality (standing/lying) was not collected
+GNQ	Equatorial Guinea	Africa	2004	33	Nutritional status and its correlates in Equatorial Guinean preschool children: Results from a nationally representative survey. Food and Nutrition Bulletin 2008;29:49-58 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+VNM	Viet Nam	Western Pacific	2004	33.7	2004 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+CMR	Cameroon	Africa	2004	35.6	Enquête démographique et de santé du Cameroun 2004. Demographic and Health Surveys. Calverton, Maryland, USA: INS et ORC Macro, 2004
+KWT	Kuwait	Eastern Mediterranean	2004	4.1	Kuwait Nutrition Surveillance System [KNSS] 2004. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+JAM	Jamaica	Americas	2004	4.9	Jamaica survey of living conditions 2004. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2005
+PRK	Democratic People's Republic of Korea	South-East Asia	2004	43.1	DPRK 2004 nutrition assessment, report of survey results. Democratic People's Republic of Korea: Central Bureau of Statistics, 2005. Converted estimate
+TCD	Chad	Africa	2004	44.4	Enquête démographique et de santé Tchad 2004. Demographic and Health Surveys. Calverton, Maryland, U.S.A. : INSEED et ORC Macro, 2005
+TZA	United Republic of Tanzania	Africa	2004	44.4	Tanzania demographic and health survey  2004-05. Demographic and Health Surveys. Dar es Salaam, Tanzania: National Bureau of Statistics and ORC Macro, 2005
+LSO	Lesotho	Africa	2004	44.7	Lesotho demographic and health survey 2004. Demographic and Health Surveys. Calverton, Maryland: MOH, BOS, and ORC Macro, 2005
+BGD	Bangladesh	South-East Asia	2004	50.5	Bangladesh demographic and health survey 2004. Demographic and Health Surveys. Dhaka, Bangladesh and Calverton, Maryland [USA]: NIPORT, Mitra and Associates, and ORC Macro, 2005
+MWI	Malawi	Africa	2004	52.5	Malawi demographic and health survey 2004. Demographic and Health Surveys. Calverton, Maryland: NSO and ORC Macro, 2005
+MDG	Madagascar	Africa	2004	52.7	Enquête Démographique et de Santé de Madagascar 2003-2004. Demographic and Health Surveys. Calverton, Maryland, USA : INSTAT et ORC Macro, 2005
+AFG	Afghanistan	Eastern Mediterranean	2004	59.3	Summary report of the national nutrition survey, 2004. Kabul, Islamic Republic of Afghanistan: Ministry of Public Health and UNICEF, 2005. Reduced age range
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2004	7.1	Iran Anthropometric Nutritional Indicators Survey 2004 Converted estimate
+FJI	Fiji	Western Pacific	2004	7.3	2004 Fiji national nutrition survey: Main report. Suva, Fiji, 2007 Height/length modality (standing/lying) was not collected
+BGR	Bulgaria	Europe	2004	8.8	National survey of dietary intake and nutritional status of Bulgarian population, 2004. Department of Nutrition and Public Health, National Center of Public Health Protection, Sofia, Bulgaria Reduced age range; Height/length modality (standing/lying) was not collected
+SAU	Saudi Arabia	Eastern Mediterranean	2004	9.3	Growth charts for Saudi children and adolescents. Saudi Medical Journal 2007;28:1555-68
+URY	Uruguay	Americas	2003	17.2	Tercera Encuesta Nacional de Lactancia Materna, Uruguay 2003 Reduced age range; Height/length modality (standing/lying) was not collected
+VEN	Venezuela (Bolivarian Republic of)	Americas	2003	17.7	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2003 Converted estimate
+CHL	Chile	Americas	2003	2.5	Nutrición en el Sistema Público de Salud, Diciembre 2003 Converted estimate
+KOR	Republic of Korea	Western Pacific	2003	2.5	Recent growth of children in the two Koreas: a meta-analysis. Economics and Human Biology 2009;7:109-12.
+EGY	Egypt	Eastern Mediterranean	2003	20.2	2003 Egypt interim demographic and health survey. Demographic and Health Survey. Cairo, Egypt: Ministry of Health and Population [Egypt], National Population Council, El-Zanaty and Asociates, and ORC Macro, 2004
+MAR	Morocco	Eastern Mediterranean	2003	23.1	Enquête dur la population et la santé familiale (EPSF) 2003-2004. Demographic and Health Surveys. Calverton, Maryland, USA: Ministère de la Santé et ORC Macro, 2005
+PAN	Panama	Americas	2003	23.7	Segunda encuesta de niveles de vida - 2003. Panama City, Republica de Panama, 2006. Height/length modality (standing/lying) was not collected
+SLV	El Salvador	Americas	2003	24.6	Encuesta nacional de salud familiar (FESAL) 2002/03. Informe final.
+BOL	Bolivia (Plurinational State of)	Americas	2003	32.4	Encuesta nacional de demografia y salud (ENDSA) 2003. Demographic and Health Surveys. La Paz, Bolivia: Instituto Nacional de Estadistica, Ministerio de Salud y Deportes, Programa Measure DHS+/ORC Macro, 2004
+PHL	Philippines	Western Pacific	2003	33.4	Sixth National Nutrition Survey: Philippines, 2003.  Food and Nutrition Research Institute, 2004. Height/length modality (standing/lying) was not collected
+IRQ	Iraq	Eastern Mediterranean	2003	33.7	Baseline food security analysis in Iraq. Baghdad, Iraq: WFP Iraq Country Office, September 2004 Converted estimate
+VNM	Viet Nam	Western Pacific	2003	35.4	2003 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+GHA	Ghana	Africa	2003	35.5	Ghana demographic and health survey 2003. Demographic and Health Surveys. Calverton, Maryland: GSS, NMIMR, and ORC Macro, 2004
+KEN	Kenya	Africa	2003	35.8	Kenya demographic and health survey 2003. Demographic and Health Surveys. Calverton, Maryland: CBS, MOH, and ORC Macro, 2004
+KWT	Kuwait	Eastern Mediterranean	2003	4	Kuwait Nutrition Surveillance System [KNSS] 2003. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+TJK	Tajikistan	Europe	2003	42.4	National nutrition and water & sanitation survey, Tajikistan, October 2003. Dushanbe, Tajikistan: Action Against Hunger (lead agency nutrition) and Mercy Corps (lead agency wat/san), 2004 Converted estimate
+NGA	Nigeria	Africa	2003	42.5	Nigeria demographic and health survey 2003. Demographic and Health Surveys. Calverton, Maryland: National Population Commission and ORC Macro, 2004
+MMR	Myanmar	South-East Asia	2003	42.7	Multiple indicator cluster survey 2003 (MICS). Yangon, Myanmar, 2004 Height/length modality (standing/lying) was not collected
+MOZ	Mozambique	Africa	2003	46.9	Moçambique inquérito demográfico e de saúde 2003. Demographic and Health Surveys. Calverton, Maryland, USA: Instituto Nacional de Estatística, Ministério da Saúde and ORC Macro, 2005
+BGD	Bangladesh	South-East Asia	2003	47.8	Nutritional Surveillance Project 2003: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+TLS	Timor-Leste	South-East Asia	2003	54.8	Timor Leste 2003 demographic and health survey. Newcastle, NSW, Australia: MOH and University of Newcastle, 2003 Converted estimate
+YEM	Yemen	Eastern Mediterranean	2003	57.3	The Yemen family health survey: Principal report. Pan Arab Project for Family Health. Cairo, Egypt: The Republic of Yemen Ministry of Health & Population, Central Statistical Organization an League of Arab States, 2004 Age calculated using alternate methods
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2002	11.4	Palestine Nutrition Survey 2002. Ramallah, Palestine: Palestinian Central Bureau of Statistics. Reduced age range
+DOM	Dominican Republic	Americas	2002	11.6	Encuesta demografica y de salud, ENDESA 2002. Demographic and Health Surveys. Santo Domingo, Republica Dominicana: Centro de Estudios Sociales y Demograficos, 2003
+JOR	Jordan	Eastern Mediterranean	2002	11.7	Jordan population and family health survey 2002. Demographic and Health Surveys. Calverton, Maryland, USA: Department of Statistics and ORC Macro, 2003
+URY	Uruguay	Americas	2002	14.7	Sistema de vigilancia del estado nutricional (SISVEN), 2002. Programa Nacional de Nutrición. Montevideo, Uruguay, 2007.
+VEN	Venezuela (Bolivarian Republic of)	Americas	2002	17.6	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2002 Converted estimate
+MEX	Mexico	Americas	2002	18.9	Mexico Family Life Survey (MFLS) 2002
+CHL	Chile	Americas	2002	2.5	Nutrición en el Sistema Público de Salud, Diciembre 2002 Converted estimate
+CHN	China	Western Pacific	2002	21.8	China National Nutrition and Health Survey, 2002
+DZA	Algeria	Africa	2002	24	Enquête Algérienne sur la santé de la famille-2002: Rapport principal. Alger, Algérie: Agence Nationale de la Documentation en Santé, 2004 Height/length modality (standing/lying) was not collected
+UZB	Uzbekistan	Europe	2002	24.9	Uzbekistan health examination survey 2002. Demographic and Health Surveys. Calverton, Maryland, USA: Analytical and Information Center, State Department of Statistics, and ORC Macro, 2004.
+USA	United States of America	Americas	2002	3.1	United States National Health and Nutrition Examination Survey 2001-2002. Hyattsville, United States: National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC).
+KWT	Kuwait	Eastern Mediterranean	2002	3.6	Kuwait Nutrition Surveillance System [KNSS] 2002. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+TJK	Tajikistan	Europe	2002	37.1	National nutrition survey Tajikistan, May/June 2002. Action against Hunger and European Community Humanitarian Office, 2002 Converted estimate
+VNM	Viet Nam	Western Pacific	2002	37.5	2002 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+ERI	Eritrea	Africa	2002	43	Eritrea demographic and health survey 2002. Demographic and Health Surveys. Calverton, Maryland, USA: National Statistics amd Evaluation Office and ORC Macro, 2003
+PRK	Democratic People's Republic of Korea	South-East Asia	2002	44.7	Nutrition assessment 2002 D.P.R. Korea. Pyongyang: Government of D.P.R. Korea, United Nations Children's Fund and World Food Programme, 2003 Height/length modality (standing/lying) was not collected
+BGD	Bangladesh	South-East Asia	2002	51.4	Nutritional Surveillance Project 2002: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+ZMB	Zambia	Africa	2002	52.5	Zambia demographic and health survey 2001-2002. Demographic and Health Surveys. Calverton, Maryland, USA: Central Statistical Office, Central Board of Health, and ORC Macro, 2003
+GTM	Guatemala	Americas	2002	54.8	Guatemala encuesta nacional de salud materno infantil 2002. Ciudad de Guatemala, Republica de Guatemala: Oscar de Leon Palacios, 2003 Height/length modality (standing/lying) was not collected
+TLS	Timor-Leste	South-East Asia	2002	55.7	Multiple indicator cluster survey (MICS - 2002). UNICEF, Dili, Timor-Leste, 2003
+MWI	Malawi	Africa	2002	58.3	Malawi 2002 Core Welfare Indicators Questionnaire Survey Height/length modality (standing/lying) was not collected
+JAM	Jamaica	Americas	2002	8.2	Jamaica survey of living conditions 2002. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2003
+ROU	Romania	Europe	2001	14	National nutritional surveillance programme, 2001. Bukarest, Romania, 2003
+VEN	Venezuela (Bolivarian Republic of)	Americas	2001	17.3	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2001 Converted estimate
+AZE	Azerbaijan	Europe	2001	18	Reproductive health survey Azerbaijan, 2001: Final report. Serbanescu F, Morris L, Rahimova S, Stupp P, eds. Atlanta, GA: US Department of Health and Human Services, CDC, 2003 Converted estimate
+CHL	Chile	Americas	2001	2.8	National health service system. Santiago, Chile, 2001 Converted estimate
+NIC	Nicaragua	Americas	2001	25.1	Encuesta nicaragüense de demografia y salud 2001. Demographic and Health Surveys. Calverton, Maryland, USA: INEC, MINSA, and ORC Macro, 2002
+KWT	Kuwait	Eastern Mediterranean	2001	3.9	Kuwait Nutrition Surveillance System [KNSS] 2001. Kuwait city, Kuwait: Food & Nutrition Administration Height/length modality (standing/lying) was not collected
+SYR	Syrian Arab Republic	Eastern Mediterranean	2001	31.7	The family health survey in the Syrian Arab Republic. Principal Report. Cairo: The League of Arab States, 2002
+MDV	Maldives	South-East Asia	2001	31.9	Multiple indicator cluster survey (MICS 2) Maldives. Ministry of Health. Male, Republic of Maldives, 2001 Height/length modality (standing/lying) was not collected
+HND	Honduras	Americas	2001	35.5	Honduras encuesta nacional de epidemiologia y salud familiar ENESF-2001. Tegucigalpa, Honduras, 2002
+BEN	Benin	Africa	2001	36.2	Enquête démographique et de santé au Bénin 2001. Demographic and Health Surveys. Calverton, Maryland, USA: Institut National de la Statistique et de l'Analyse Economique et ORC Macro, 2002
+PER	Peru	Americas	2001	37.3	Monitoreo de Indicadores Nutricionales en la Encuesta Nacional de Hogares 2001
+PAK	Pakistan	Eastern Mediterranean	2001	41.4	National nutrition survey 2001-2002. Islamabad, Pakistan: Planning Commission, Government of Pakistan and UNICEF, 2004 Height/length modality (standing/lying) was not collected
+IDN	Indonesia	Western Pacific	2001	41.6	Indonesia Nutrition and Health Surveillance System Annual Report 2001 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	2001	42.5	Enquête démographique et de santé au Mali 2001. Demographic and Health Surveys. Calverton, Maryland, USA: CPS/MS, DNSI et ORC Macro, 2002
+TJK	Tajikistan	Europe	2001	43.2	Representative national nutrition survey Tajikistan (Sughd, RRS, Kouliab and Kurgan Teppe regions), October/November 2001. London, UK: Action Against Hunger UK, 2002 Converted estimate
+COD	Democratic Republic of the Congo	Africa	2001	44.4	Enquête nationale sur la situation des enfants et des femmes MICS2 / 2001. Rapport d'analyse. Kinshasa, République Démocratique du Congo, juillet 2002
+MOZ	Mozambique	Africa	2001	50.7	Questionario de indicadores basicos de bem-estar (QUIBB): Relatorio final. Maputo, Moçambique: Instituto Nacional de Estadisticas, 2001 Height/length modality (standing/lying) was not collected
+BGD	Bangladesh	South-East Asia	2001	53.2	Nutritional Surveillance Project 2001: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+NPL	Nepal	South-East Asia	2001	56.1	Nepal demographic and health survey 2001. Demographic and Health Surveys. Calverton, Maryland, USA: Family Health Division, Ministry of Health; New ERA; and ORC Macro, 2002
+JAM	Jamaica	Americas	2001	6.6	Jamaica survey of living conditions 2001. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2002
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2000	10.7	Palestine Health Survey 2000 - Main Findings
+BIH	Bosnia and Herzegovina	Europe	2000	12.1	Household survey of women and children: Bosnia and Herzegovina 2000 (B&H MICS 2000): Draft final report, May 29, 2002. Sarajevo, Bosnia and Herzegovina: UNICEF, 2002
+ROU	Romania	Europe	2000	12.8	National nutritional surveillance programme, 2000. Bukarest, Romania, 2003
+GUY	Guyana	Americas	2000	13.9	Guyana multiple indicator cluster survey (MICS). Georgetown, Guyana, 2001
+SUR	Suriname	Americas	2000	14.1	Suriname multiple indicator cluster survey (MICS) 2000. Paramaribo, Suriname, March 2001
+TUN	Tunisia	Eastern Mediterranean	2000	16.8	Tunisia multiple indicator cluster survey II 2000 (MICS II). Tunis, Tunisia: 2000 Converted estimate
+ARM	Armenia	Europe	2000	17.3	Armenia demographic and health survey 2000. Demographic and Health Surveys. Calverton, Maryland: National Statistical Service, Ministry of Health, and ORC Macro, 2001
+VEN	Venezuela (Bolivarian Republic of)	Americas	2000	17.4	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 2000 Converted estimate
+CHN	China	Western Pacific	2000	17.8	China 2000 Food and Nutrition Surveillance System (CFNSS)
+COL	Colombia	Americas	2000	18.2	Salud sexual y reproductiva en Colombia, encuesta nacional de demografia y salud 2000. Demographic and Health Surveys. Bogota, Colombia: PROFAMILIA, 2000
+LKA	Sri Lanka	South-East Asia	2000	18.3	Sri Lanka demographic and health survey 2000. Colombo, Sri Lanka, 2001 Height/length modality (standing/lying) was not collected
+DZA	Algeria	Africa	2000	23.6	Enquête nationale sur les objectives de la fin décennie santé mère et enfant EDG Algérie 2000 (MICS). Institut National de Santé Publique. République Algérienne Démocratique et Populaire, 2001
+GMB	Gambia	Africa	2000	24.1	The Gambia multiple indicator cluster survey report, 2000 (MICS). Banjul, The Gambia, 2002
+AZE	Azerbaijan	Europe	2000	24.2	Azerbaijan multiple indicator cluster survey 2000 (MICS). Baku, Azerbaijan: United Nations Children's Fund, 2001.
+SYR	Syrian Arab Republic	Eastern Mediterranean	2000	24.3	Multiple Indicator Cluster Survey II (MICS II) concerning Child Health and Welfare. Main report. Damascus, Syrian Arab Republic: UNICEF, 2002 Converted estimate
+EGY	Egypt	Eastern Mediterranean	2000	24.4	Egypt demographic and health survey 2000. Demographic and Health Surveys. Calverton, Maryland, USA: Ministry of Health and Population [Egypt], National Population Council and ORC Macro, 2001
+GAB	Gabon	Africa	2000	25.9	Enquête démographique et de santé Gabon 2000. DHS. Calverton, Maryland: Direction Générale de la Statistique et des Etudes Economiques, et Fonds des Nations Unies pour la Population, et ORC Macro, 2001
+SEN	Senegal	Africa	2000	26	Rapport de l'enquête sur les objectives de la fin de decennie sur l'enfance (MICS-II-2000). Dakar, Senegal, Novembre 2000
+TKM	Turkmenistan	Europe	2000	27.2	Turkmenistan demographic and health survey  2000. Demographic and Health Surveys. Calverton, Maryland, USA: GECRCMCH and ORC Macro, 2001
+IRQ	Iraq	Eastern Mediterranean	2000	28.1	Multiple indicator cluster survey (MICS) for the year 2000 (detailed report). Baghdad, Republic of Iraq: UNICEF, 2001
+HTI	Haiti	Americas	2000	28.8	Enquête mortalité, morbidité et utilisation des services, Haiti 2000. Demographic and Health Surveys. Calverton, Maryland: Ministère de la Santé Publique et de la Population, Institut Haitien de l'Enfance et ORC Macro, 2001
+BWA	Botswana	Africa	2000	29.1	Multiple indicator survey (MIS) 2000. Full report. Gaborone, Botswana, 2001 Height/length modality (standing/lying) was not collected
+NAM	Namibia	Africa	2000	29.3	Namibia demographic and health survey 2000 (Demographic and Health Surveys). Windhoek, Namibia: MOHSS, 2003
+MNG	Mongolia	Western Pacific	2000	29.8	Mongolia child and development survey - 2000 (MICS-2): National report 2001. Ulaanbaatar, Mongolia: National Statistics Office, 2001
+USA	United States of America	Americas	2000	3.2	United States National Health and Nutrition Examination Survey 1999-2000. Hyattsville, United States: National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC).
+PER	Peru	Americas	2000	31.3	Encuesta demografica y de salud familiar 2000. Demographic and Health Surveys. Lima, Peru and Calverton, Maryland, USA: Instituto Nacional de Estadistica e Informacion y ORC Macro, 2001
+GNB	Guinea-Bissau	Africa	2000	33.8	Multiple indicator cluster survey Guinea-Bissau, 2000 (MICS). Bissau, Guinea-Bissau: General Direction of Planning, National Institute of Statistics and Census and UNICEF, 2000
+SLE	Sierra Leone	Africa	2000	35.5	The status of women and children in Sierra Leone. A household survey report (MICS-2). Central Statistics Office, Ministry of Development and Economic Planning, November 2000
+SWZ	Eswatini	Africa	2000	36.5	Multiple indicator cluster survey (MICS): Model full report. Maseru, Swaziland: Central Statistical Office, 2002
+MRT	Mauritania	Africa	2000	38.6	Enquête démographique et de santé Mauritanie 2000-2001. Demographic and Health Surveys. Calverton, Maryland, USA: ONS et ORC Macro, 2001
+TCD	Chad	Africa	2000	38.9	Enquête par grappes à indicateurs multiples: Rapport complet (MICS). N'Djamena: Direction Generale, Direction de la Statistique, des Etudes Economiques et Demographiques, Bureau Central de Recensement et UNICEF, 2001
+KEN	Kenya	Africa	2000	40.8	Kenya multiple indicator cluster survey 2000 (MICS). Government  of Kenya and Unicef. Nairobi, Kenya, 2002 Height/length modality (standing/lying) was not collected
+MMR	Myanmar	South-East Asia	2000	40.8	Union of Myanmar monitoring national programme of action goals though multiple indicator cluster survey 2000. Yangon, Myanmar, 2001 Height/length modality (standing/lying) was not collected
+TJK	Tajikistan	Europe	2000	42.1	National nutrition survey of Tajikistan (September/October 2000). London, UK: Action Against Hunger UK, 2001 Converted estimate
+IDN	Indonesia	Western Pacific	2000	42.3	Indonesia Nutrition and Health Surveillance System Annual Report 2000 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+GNQ	Equatorial Guinea	Africa	2000	42.7	Encuesta de indicadores multiples (MICS 2000): Informe final. Malabo, República de Guinea Educatorial:Ministerio de Planificación y Desarrollo Económico y UNICEF, 2001
+VNM	Viet Nam	Western Pacific	2000	42.9	Multiple indicator cluster survey Viet Nam, 2000. New York: UNICEF, 2004. Standard tables Height/length modality (standing/lying) was not collected
+CAF	Central African Republic	Africa	2000	44.4	Enquête à indicateurs mutliples - MICS 2000. Rapport Final. Bangui, République Centrafricaine: BBA editions, 2001 Height/length modality (standing/lying) was not collected
+UGA	Uganda	Africa	2000	44.9	Uganda demographic and health survey 2000-2001. Demographic and Health Surveys. Calverton, Maryland, USA: UBOS and ORC Macro, 2001
+LBR	Liberia	Africa	2000	45.3	Liberia national nutrition survey 1999-2000. Monrovia, Liberia, 2001 Height/length modality (standing/lying) was not collected
+COM	Comoros	Africa	2000	46.9	Enquête a indicateurs multiples (MICS 2000): Rapport final (1er draft Février 2001). Moroni, Comoros: UNICEF, 2001
+LAO	Lao People's Democratic Republic	Western Pacific	2000	47.5	Laos Multiple Indicator Cluster Survey 2000. New York, United States: United Nations Children's Fund (UNICEF).
+RWA	Rwanda	Africa	2000	47.9	Enquête démographique et de santé, Rwanda 2000. Demographic and Health Surveys. Kigali, Rwanda et Calverton, Maryland, USA: Ministère de la Santé, Office National de la Population et ORC Macro, 2001
+KHM	Cambodia	Western Pacific	2000	49	Cambodia demographic and health survey 2000. Demographic and Health Surveys. Phnom Penh, Cambodia, and Calverton, Maryland, USA: National Institute of Statistics, Directorate General for Health, and ORC Macro, 2001
+TTO	Trinidad and Tobago	Americas	2000	5.3	Trinidad and Tobago Multiple Indicator Cluster Survey 2000. New York, United States: United Nations Children's Fund (UNICEF)
+JPN	Japan	Western Pacific	2000	5.8	Japan 2000 Growth Survey of Infants and Children
+PRK	Democratic People's Republic of Korea	South-East Asia	2000	51	Report of the second multiple indicator cluster survey 2000, DPRK (MICS). Pyongyang, Democratic People's Republic of Korea, 2000. Converted estimate
+GTM	Guatemala	Americas	2000	51	Guatemala Living Standards Measurement Survey 2000. Washington DC, United States: World Bank.
+BGD	Bangladesh	South-East Asia	2000	51.1	Bangladesh demographic and health survey 1999-2000 (DHS). Dhaka, Bangladesh and Calverton, Maryland: National Institute of Population Research and Training, Mitra and Associates, and ORC Macro, 2001
+NER	Niger	Africa	2000	53.5	Enquete a indicateurs multiples 2000 (MICS2). Niamey, Niger, 2000
+MWI	Malawi	Africa	2000	54.7	Malawi demographic and health survey 2000. Demographic and Health Surveys. Zomba, Malawi and Calverton, Maryland, USA: National Statistical Office and ORC Macro, 2001
+ETH	Ethiopia	Africa	2000	57.4	Ethiopia demographic and health survey 2000. Demographic and Health Surveys. Addis Ababa, Ethiopia and Calverton, Maryland, USA: Central Statistical Authority and ORC Macro, 2001
+BDI	Burundi	Africa	2000	64	Enquête nationale d'evaluation des conditions de vie de l'enfant et de la femme au Burundi (ENECEF-BURUNDI 2000): Rapport final (MICS). Bujumbura: République du Burundi and UNICEF, 2001 Height/length modality (standing/lying) was not collected
+CUB	Cuba	Americas	2000	7	Encuesta de agrupacion de indicadores multiples: Informe final, diciembre del 2000 (MICS2). La Habana, Cuba, 2000 Converted estimate
+JAM	Jamaica	Americas	2000	7.2	Jamaica survey of living conditions 2000. The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2001
+DOM	Dominican Republic	Americas	2000	7.7	Encuesta por conglomerados de indicadores multiples (MICS-2000). Santo Domingo, D.N.: Secretariado Técnico de la Presidencia, Fondo de las Naciones Unidas para la Infancia (UNICEF), 2001
+KAZ	Kazakhstan	Europe	1999	13.2	Kazakhstan demographic and health survey 1999. Demographic and Health Surveys. Calverton, Maryland: Academy of Preventive Medicine [Kazakhstan] and Macro International Inc., 1999
+URY	Uruguay	Americas	1999	15.3	Segunda Encuesta Nacional de Lactancia Materna, Uruguay 1999 Reduced age range; Height/length modality (standing/lying) was not collected
+ROU	Romania	Europe	1999	15.3	National nutritional surveillance programme, 1999. Bukarest, Romania, 2003
+OMN	Oman	Eastern Mediterranean	1999	15.8	Oman Protein-Energy Malnutrition Survey 1999. Muscat, Oman: Ministry of Health (Oman) Height/length modality (standing/lying) was not collected
+GEO	Georgia	Europe	1999	16.1	Georgia multiple indicator cluster survey 1999 (MICS). Tibilisi, Georgia, 2000 Converted estimate
+VEN	Venezuela (Bolivarian Republic of)	Americas	1999	18.3	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1999 Converted estimate
+MYS	Malaysia	Western Pacific	1999	20.7	A study of malnutrition in under five children in Malaysia.  Kuala Lumpur, Malaysia: Ministry of Health, 2000 Converted estimate
+ECU	Ecuador	Americas	1999	27.9	Equidad desde el principio - situacion nutricional de los niños ecuatorianos. Encuesta de condiciones de vida, 1998. Organizacion Panamericana de la Salud y Ministerio de Salud Publica, Ecuador. Washington, D.C.: OPS, 2001 Height/length modality (standing/lying) was not collected
+SOM	Somalia	Eastern Mediterranean	1999	29.2	Somalia end-decade multiple indicator cluster survey. Full technical report. Nairobi: UNICEF Somilia, 2001 Converted estimate
+CHL	Chile	Americas	1999	3.1	Boletin anual de vigilancia nutricional, año 1999. Departamento Coordinacion e Informatica. Santiago, Republica de Chile, 2000 Converted estimate
+ZAF	South Africa	Africa	1999	30.1	The National Food Consumption Survey (NFCS): South Africa, 1999. Public Health Nutrition 2005;8:533-43 Age-adjusted; Converted estimate
+MNG	Mongolia	Western Pacific	1999	30.1	Report on the 2nd national child and nutrition survey, Mongolia 1999. Institute of Nutrition and Faculty of Medicine, Ramathibodi Hospital, Mahidol University, Thailand, 2000 Height/length modality (standing/lying) was not collected
+GIN	Guinea	Africa	1999	31.1	Enquête démographique et de santé, Guinée 1999. Demographic and Health Surveys. Direction Nationale de la Statistique. Conakry , Guinée, 2000 Height/length modality (standing/lying) was not collected
+ZWE	Zimbabwe	Africa	1999	33.8	Zimbabwe demographic and health survey 1999. Demographic and Health Surveys. Calverton, Maryland: Central Statistical Office and Macro International Inc., 2000
+PER	Peru	Americas	1999	36.1	Monitoreo de Indicadores Nutricionales en la Encuesta Nacional de Hogares 1999
+BFA	Burkina Faso	Africa	1999	41.4	Enquête démographique et de santé, Burkina Faso 1998-1999. Demographic and Health Surveys. Calverton, Maryland (USA): Macro International Inc., 2000
+TJK	Tajikistan	Europe	1999	41.5	National nutrition survey, Tajikistan (September/October 1999). London, UK: Action Against Hunger UK, 2000 Converted estimate
+VNM	Viet Nam	Western Pacific	1999	43.8	1999 Annual national nutrition monitoring. Nutrition Surveillance Department. Hanoi, Vietnam: National Institute of Nutrition, 2009 Height/length modality (standing/lying) was not collected
+BTN	Bhutan	South-East Asia	1999	47.7	National anthropometric survey of under five children in Bhutan. Division of Health Services. Thimpu, Bhutan, 1999 Reduced age range; Height/length modality (standing/lying) was not collected
+TZA	United Republic of Tanzania	Africa	1999	48.3	Tanzania reproductive and child health survey 1999. Demographic and Health Surveys. Calverton, Maryland: National Bureau of Statistics [Tanzania] and Macro International Inc., 2000
+JAM	Jamaica	Americas	1999	5.7	Jamaica survey of living conditions, 1999. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 2000
+IND	India	South-East Asia	1999	51	National family health survey (NFHS-2) 1998-99. Demographic and Health Surveys. Mumbai, India, 2000 Reduced age range
+GTM	Guatemala	Americas	1999	53.1	Encuesta nacional de salud materno infantil 1998-1999. Demographic and Health Surveys. Ciudad de Guatemala, Guatemala, 1999 Height/length modality (standing/lying) was not collected
+ZMB	Zambia	Africa	1999	59.2	Zambia 1999 multiple indicator cluster survey report: Report on the monitoring of the end of decade goals. Lusaka, Zambia, 2000 Reduced age range
+BGD	Bangladesh	South-East Asia	1999	59.9	Nutritional Surveillance Project 1999: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+WSM	Samoa	Western Pacific	1999	6.4	Samoa national nutrition survey 1999. Technical report. Apia, Samoa: Nutrition Centre, 2003 Converted estimate
+MKD	North Macedonia	Europe	1999	8	Multiple indicator cluster survey in North Macedonia with micronutrient component (MICS). National Institute of Nutrition, Rome, Italy, 2000 Reduced age range
+ARM	Armenia	Europe	1998	15.1	Armenia Health and Nutritional Status of Children and Women 1998. Rome, Italy: National Institute for Research on Food and Nutrition (INRAN) (Italy), 1998. Height/length modality (standing/lying) was not collected
+TUR	Türkiye	Europe	1998	18.8	Turkish demographic and health survey 1998. Demographic and Health Surveys. Hacettepe University, Institute of Population Studies. Ankara, Turkey, 1999
+VEN	Venezuela (Bolivarian Republic of)	Americas	1998	19.2	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1998 Converted estimate
+CHN	China	Western Pacific	1998	19.8	China 1998 Food and Nutrition Surveillance System (CFNSS)
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	1998	20.4	The nutritional status of children, October-November 1998 (ANIS). Teheran: Ministry of Health and Medical Education and UNICEF, 2000 Converted estimate
+MEX	Mexico	Americas	1998	21.4	Encuesta nacional de nutricion 1999. Instituto Nacional de Salud Publica. Cuernavaca, Mexico, 2000 Height/length modality (standing/lying) was not collected
+EGY	Egypt	Eastern Mediterranean	1998	26.3	Egypt demographic and health survey 1998. Demographic and Health Surveys. Cairo, Egypt, 1999 Converted estimate
+TGO	Togo	Africa	1998	28.8	Enquete démographique et de santé, Togo 1998. Demographic and Health Surveys. Ministère de la Planification et du Développement Economique, Direction de la Statistique. Lomé, Togo, 1999 Reduced age range
+CHL	Chile	Americas	1998	3.3	Boletin anual de vigilancia nutricional, año 1998. Departamento Coordinacion e Informatica. Santiago, Republica de Chile, 1999 Converted estimate
+NIC	Nicaragua	Americas	1998	30.5	Encuesta nicaragüense de demografia y salud 1998. Demographic and Health Surveys.Instituto Nacional de Estadisticas y Censos. Managua, Nicaragua, 1999
+GHA	Ghana	Africa	1998	30.6	Ghana demographic and health survey 1998. Demographic and Health Surveys. Calverton, Maryland: GSS and MI, 1999
+CIV	Cote d'Ivoire	Africa	1998	31.2	Enquête démographique et de santé, Côte d'Ivoire 1998-99. Demographic and Health Surveys. Calverton, Maryland, USA: Institut National de la Statistique et ORC Macro, 2001
+SLV	El Salvador	Americas	1998	32.3	National family health survey 1998: final report (FESAL-98). San Salvador, Republica de San Salvador, C.A., 2000
+BOL	Bolivia (Plurinational State of)	Americas	1998	33.2	Encuesta nacional de demografia y salud 1998. Demographic and Health Surveys. La Paz, Bolivia, 1998
+PER	Peru	Americas	1998	34	Monitoreo de Indicadores Nutricionales en la Encuesta Nacional de Hogares 1998
+CMR	Cameroon	Africa	1998	36.6	Enquete démographique et de santé, Cameroun 1998. Demographic and Health Surveys. Calverton, Maryland, U.S.A. : Bureau Central des Recensements et des Études de Population et Macro International Inc., 1999 Reduced age range
+KEN	Kenya	Africa	1998	36.8	Kenya demographic and health survey 1998. Demographic and Health Surveys. Central Bureau of Statistics. Calverton, Maryland: NDPD, CBS, and MI., 1999 Reduced age range
+PHL	Philippines	Western Pacific	1998	38.3	The 5th national nutrition survey. Philippine nutrition: Facts & figures. Taguig, Metro Manila, Philipines: UNICEF, 2001 Converted estimate
+VNM	Viet Nam	Western Pacific	1998	42.1	National protein energy malnutrition survey, Viet Nam 1998. National Institute of Nutrition, Hanoi, Viet Nam and Centre for Clinical Epidemiology & Biostatistics, Newcastle, Australia, 1999 Converted estimate
+NER	Niger	Africa	1998	46.5	Enquête démographique et de santé, Niger 1998. Demographic and Health Surveys. Calverton, Maryland, U.S.A.: Care International/Niger et Macro International Inc., 1998 Reduced age range
+BGD	Bangladesh	South-East Asia	1998	59.3	Nutritional Surveillance Project 1998: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+NPL	Nepal	South-East Asia	1998	61.1	Nepal micronutrient status survey 1998. Kathmandu, Nepal: Ministry of Health, Child Health Division, HMG/N, New ERA, Micronutrient Initiative, UNICEF Nepal and WHO, 2000 Reduced age range; Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+MWI	Malawi	Africa	1998	62.3	A relative profile of poverty in Malawi, 1998: A quintile-based poverty analysis of the Malawi integrated household survey, 1997-98. Poverty Monitoring System. Reduced age range; Height/length modality (standing/lying) was not collected
+PRK	Democratic People's Republic of Korea	South-East Asia	1998	63.9	Nutrition survey of the Democratic People's Republic of Korea. Report by the EU, UNICEF and WFP of a study undertaken in collaboration with the Government to DPRK Converted estimate
+JAM	Jamaica	Americas	1998	9.5	Jamaica survey of living conditions, 1998. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1999
+JOR	Jordan	Eastern Mediterranean	1997	11.1	Jordan population and family health survey 1997. Demographic and Health Surveys. Calverton, Maryland: DOS and MI, 1998
+TUN	Tunisia	Eastern Mediterranean	1997	11.9	Enquête nationale 1996-1997. Evaluation de l'état nutritionnel de la population Tunisienne: Rapport national. Tunis, Tunisia: Sotepa Grafic, 1998 Converted estimate
+GUY	Guyana	Americas	1997	14	Micronutrient study report - Guyana survey - Vitamin A, beta-carotene, iron and iodine status. PAHO/CFNI/97.J5. Kingston, Jamaica, 1997 Converted estimate
+PAN	Panama	Americas	1997	16.8	Encuesta de niveles de vida. 1997 Panama living standards survey (LSMS). Ciudad de Panama, Republica de Panama, 1998 Height/length modality (standing/lying) was not collected
+VEN	Venezuela (Bolivarian Republic of)	Americas	1997	19.9	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1997 Converted estimate
+MAR	Morocco	Eastern Mediterranean	1997	28.9	Enquête de santé materno-infantil sur la population Marocaine 1996-97. Pan Arab project for child development (PAPCHILD). Rabat, Maroc, 2000 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+EGY	Egypt	Eastern Mediterranean	1997	30.9	Egypt Demographic and Health Survey 1997. Cairo, Egypt: El-Zanaty and Associates/Egypt and Macro International. Converted estimate
+KGZ	Kyrgyzstan	Europe	1997	32.4	Kyrgyz Republic demographic and health survey 1997. Demographic and Health Surveys. Bishkek City, Kyrgyz Republic, 1998 Reduced age range
+GHA	Ghana	Africa	1997	34.7	Ghana Core Welfare Indicators Questionnaire Survey 1997, First round Height/length modality (standing/lying) was not collected
+GNQ	Equatorial Guinea	Africa	1997	38.7	The economic and nutrition transition in Equatorial Guinea coincided with a double burden of over- and under nutrition. Economics and Human Biology 2010;8:80-87
+PER	Peru	Americas	1997	38.9	Monitoreo de Indicadores Nutricionales en la Encuesta Nacional de Hogares 1997
+MOZ	Mozambique	Africa	1997	42.6	Moçambique inquérito demográfico e de saude 1997. Demographic and Health Surveys. Instituto Nacional de Estatistica. Maputo, Moçambique, 1998 Reduced age range
+TCD	Chad	Africa	1997	44.5	Enquête démographique et de santé, Tschad 1996-97. Demographic and Health Surveys. Calverton, Maryland, USA: Bureau Central du Recensement et Macro International Inc., 1998
+IND	India	South-East Asia	1997	45.9	Report of Second Repeat Survey - Rural (1996-1997). National Institute of Nutrition, Indian Council of Medical Research, Hyderabad - 1999. Adjusted National-Rural to National; Converted estimate
+MDV	Maldives	South-East Asia	1997	46.7	Vulnerability and poverty assessment 1998. Malé, Republic of Maldives, 1999 Reduced age range; Height/length modality (standing/lying) was not collected
+AFG	Afghanistan	Eastern Mediterranean	1997	53.2	Afghanistan 1997 multiple indicator baseline (MICS). Report to UNICEF. Communitiy Information and Epidemiological Technologies Firm (CIET) International, 1998. Converted estimate; Reduced age range
+MDG	Madagascar	Africa	1997	55	Enquête démographique et de santé, Madagascar 1997. Demographic and Health Surveys. Institut Nacional de la Statistique. Antananarivo, Madgascar, 1998 Reduced age range
+YEM	Yemen	Eastern Mediterranean	1997	55.2	Yemen demographic and maternal and child health survey 1997. Demographic and Health Surveys. Central Statistical Organization. Sana'a, Yemen, 1998 Age calculated using alternate methods
+MMR	Myanmar	South-East Asia	1997	55.4	National nutrition survey 1997. National Nutrition Centre. Yangon, Myanmar, 2000 Age-adjusted; Converted estimate
+BGD	Bangladesh	South-East Asia	1997	59.6	Bangladesh demographic and health survey 1996-97. Demographic and Health Surveys. National Institute for Population Research and Training. Dhaka, Bangladesh, 1997
+JAM	Jamaica	Americas	1997	8.7	Jamaica survey of living conditions, 1997. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1998
+NLD	Netherlands (Kingdom of the)	Europe	1996	1.3	The Netherlands Fourth Growth Study Height/length modality (standing/lying) was not collected
+JAM	Jamaica	Americas	1996	11.2	Jamaica survey of living conditions, 1996. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1997
+BRA	Brazil	Americas	1996	13	Pesquisa nacional sobre demografia e saude 1996. Demographic and Health Surveys. Rio de Janeiro, Brasil: Litografia Tucano Ltda., 1997
+DOM	Dominican Republic	Americas	1996	13.5	Encuesta demografica y de salud 1996 (DHS). Centro de Estudios Sociales y Demograficos, Asociacion Dominicana Pro Bienestar de la Familia, Oficina Nacional de Planificacion. Santo Domingo, Republica Dominicana, 1997
+ARG	Argentina	Americas	1996	16.9	Encuesta antropometrica en menores de 6 años bajo programa materno infantil. In: Estudios antropometricos en la poblacion infanto-juvenil. Rep. Argentina 1993-1996. Ministerio de Salud y Accion Social. Buenos Aires, 1999 Converted estimate
+VEN	Venezuela (Bolivarian Republic of)	Americas	1996	19.3	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1996 Converted estimate
+VUT	Vanuatu	Western Pacific	1996	25.7	Report of the second national nutrition survey 1996. Government of the Republic of Vanuatu, Department of Health and AusAID, 1998 Converted estimate
+MEX	Mexico	Americas	1996	25.8	Encuesta nacional de alimentacion en el medio rural, 1996 (ENAL). Instituto de la Nutricion 'Salvador Zubiran'. Comision Nacional de Alimentacion. Division de Nutricion, INNSZ. Tlalpan, Mexico, D.F, 1998 Adjusted National-Rural to National; Converted estimate
+AZE	Azerbaijan	Europe	1996	28	Health and nutrition survey of internally displaced and resident population of Azerbaijan - April 1996. Baku, Azerbaijan, 1996 Converted estimate
+SEN	Senegal	Africa	1996	28.2	Evaluation des objectives intermédiares (MICS). Dakar: UNICEF, September 1996 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+CHL	Chile	Americas	1996	3.7	Boletin anual de vigilancia nutricional, año 1996. Departamento Coordinacion e Informatica. Santiago, Republica de Chile, Converted estimate
+PER	Peru	Americas	1996	31.6	Peru demographic and health survey 1996. Demographic and Health Surveys.  Instituto Nacional de Estadistica e Informacion. Lima, Peru, 1997
+DJI	Djibouti	Eastern Mediterranean	1996	31.7	Enquête djiboutienne auprès des ménages indicateurs sociaux (EDAM-IS 1996), 1997 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+BEN	Benin	Africa	1996	32.4	Enquête démographique et de santé 1996. Demographic and Health Surveys. Ministère du Plan, de la Restructuration Economique et de la Promotion de l'Emploi. Cotonou, Benin, 1997 Reduced age range
+BWA	Botswana	Africa	1996	35.1	The 1996 Botswana family health survey III. Gaborone: Central Statistics Office, 1999 Converted estimate
+GMB	Gambia	Africa	1996	36.1	Report of the progress of the mid-decade goals in the Gambia (MICS), 1996. Banjul: The Republic of The Gambia and UNICEF, 1998 Converted estimate
+MLI	Mali	Africa	1996	36.2	Enquête demographique et de santé Mali 1995-1996. Demographic and Health Surveys. Cellule de Planification et de Statistique. Bamako, Mali, 1996 Reduced age range
+UZB	Uzbekistan	Europe	1996	37.2	Uzbekistan demographic and health survey 1996. Demographic and Health Surveys. Calverton, Maryland: Institute of Obstetrics and Gynecology and Macro International Inc., 1997 Reduced age range
+COM	Comoros	Africa	1996	38.7	Enquête demographique et de santé, Comores 1996. Demographic and Health Surveys. Centre National de Documentation et de Recherche Scientifique. Moroni, Comores, 1997 Reduced age range
+TGO	Togo	Africa	1996	40.2	Enquête national sur la situation des enfants au Togo en 1996 (MICS -Togo -96). Lomé, République Togolaise: Ministère du Plan et de l'Amenagement du Territoire et UNICEF, September 1996. Converted estimate
+HND	Honduras	Americas	1996	43.3	National micronutrient survey Honduras 1996. Tegucigalpa, Republic of Honduras, 1997 Reduced age range; Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+RWA	Rwanda	Africa	1996	45.4	National nutrition survey of women and children in Rwanda in 1996. Kigali, République Rwandaise, 1997 Adjusted National-Rural to National; Converted estimate
+IDN	Indonesia	Western Pacific	1996	48.1	Indonesia multiple indicator cluster survey (MICS) 1995. Jakarta: UNICEF, 1997 Converted estimate
+ZMB	Zambia	Africa	1996	48.6	Zambia demographic and health survey 1996. Demographic and Health Surveys. Calverton, Maryland: Central Statistical Office and Macro International Inc., 1997
+TZA	United Republic of Tanzania	Africa	1996	49.6	Tanzania demographic and health survey 1996. Demographic and Health Surveys. Calverton, Maryland: Bureau of Statistics and Macro International Inc., 1997
+MRT	Mauritania	Africa	1996	49.8	Enquête nationale sur les indicateurs des objectifs à mi-terme en Mauritanie (MICS). Nouakchott, République Islamique de Mauritanie, 1996 Converted estimate
+KWT	Kuwait	Eastern Mediterranean	1996	5	Kuwait national nutritional surveillance system. Nutrition unit, Ministry of Health. Al Shaab, Kuwait, 1998 Converted estimate
+YEM	Yemen	Eastern Mediterranean	1996	50.4	Yemen multiple indicator cluster survey (March 1996): Final results. Ministry of Planning and Development. Sanaa, Republic of Yemen, 1996 Converted estimate
+NPL	Nepal	South-East Asia	1996	55.6	Nepal family health survey, 1996. Demographic and Health Surveys. Ministry of Health. Kathmandu, Nepal, 1997 Reduced age range
+KHM	Cambodia	Western Pacific	1996	58.6	Socio economic survey of Cambodia 1996: National Institute of Statistics. Phnom Penh, Cambodia, 1997
+AGO	Angola	Africa	1996	61.1	Inquerito de indicadores multiplos (MICS) 1996. Luanda, Angola, 1999 Height/length modality (standing/lying) was not collected
+BGD	Bangladesh	South-East Asia	1996	63.8	Nutritional Surveillance Project 1996: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	1996	7.8	The health survey in the West Bank and Gaza Strip: main findings (MICS). Palestinian Central Bureau of Statistics. Ramallah, Palestine, 1996
+CRI	Costa Rica	Americas	1996	8.2	Encuesta nacional de nutricion, San Jose, Costa Rica, 1996 Age-adjusted; Converted estimate
+AUS	Australia	Western Pacific	1995	0	National nutrition survey Australia 1995. Canberra: Australian Bureau of Statistics and Commonwealth Department of Health and Family Services, 1997 Age-adjusted; Converted estimate
+QAT	Qatar	Eastern Mediterranean	1995	11.6	Nutritional Status of Preschool Children in Qatar Converted estimate
+THA	Thailand	South-East Asia	1995	18.1	The fourth national nutrition survey of Thailand 1995. Department of Health. Bangkok, Thailand 1998 Converted estimate
+VEN	Venezuela (Bolivarian Republic of)	Americas	1995	18.9	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1995 Converted estimate
+KAZ	Kazakhstan	Europe	1995	18.9	Kazakhstan demographic and health survey 1995. Demographic and Health Surveys. Almaty, Kazakhstan, 1996 Reduced age range
+COL	Colombia	Americas	1995	19.6	Encuesta nacional de demografia y salud 1995. Demographic and Health Surveys. Bogota, Colombia, 1995
+LBY	Libya	Eastern Mediterranean	1995	21.1	Libyan maternal and child health survey. PAPCHILD Surveys. Cairo: The League of Arab States, 1997 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+DZA	Algeria	Africa	1995	22.6	Enquête nationale sur les objectifs de la mi-decennie, """"MDG Algerie"""", 1995. Alger, Algerie, 1996
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	1995	24.4	Cluster survey for evaluation of mid decade goal indicators (MICS). Theran, Islamic Republic of Iran, April 1996 Converted estimate
+LKA	Sri Lanka	South-East Asia	1995	26.1	Preliminary report on the fourth national nutrition and health survey July - August, 1995. The Ceylon Journal of Medical Science 1997;40:13-24 Converted estimate
+SYR	Syrian Arab Republic	Eastern Mediterranean	1995	26.5	Multiple indicator cluster survey in the Syrian Arab Republic (MICS). Central Bureau of Statistics. Damascus, The Syrian Arab Republic, 1996. Converted estimate
+CHL	Chile	Americas	1995	3.9	Consolidado Nacional Estado Nutricional Poblacion < 6 Anos, Diciembre 1995 Converted estimate
+CHN	China	Western Pacific	1995	31.2	China 1995 Food and Nutrition Surveillance System (CFNSS)
+MDV	Maldives	South-East Asia	1995	33	Maldives multiple indicator survey report (MICS). United Nations Children's Fund. Malé, Maldives, June 1996 Converted estimate
+EGY	Egypt	Eastern Mediterranean	1995	34.8	Egypt demographic and health survey 1995. Demographic and Health Surveys. National Population Council. Cairo, Egypt, 1996
+ERI	Eritrea	Africa	1995	44.1	Eritrea demographic and health survey 1995. Demographic and Health Surveys. Calverton, Maryland: National Statistics Office and Macro International Inc, 1997 Reduced age range
+UGA	Uganda	Africa	1995	45.2	Uganda demographic and health survey 1995. Demographic and Health Surveys. Calverton, Maryland: Statistics Department and Macro International Inc., 1996 Reduced age range
+COD	Democratic Republic of the Congo	Africa	1995	51	Enquête nationale sur la situation des enfants et des femmes au Zaire en 1995. Kinshasa, Zaire, 1996 Converted estimate
+MWI	Malawi	Africa	1995	53.8	Malawi social indicators survey 1995. MICS surveys. National Statistical Office and the Centre for Social Research. Lilongwe, Malawi, 1996 Converted estimate
+MDG	Madagascar	Africa	1995	55.2	Enquête par grappes a indicateurs multiples [multiple indicators cluster survey (MICS)], Madagascar 1995 (rapport préliminaires). Antananarivo, Madagascar: Institut National de la Statistique et UNICEF, 1996 Converted estimate
+GTM	Guatemala	Americas	1995	55.4	Encuesta nacional de salud materno infantil 1995. Demographic and Health Surveys. Ciudad de Guatemala, Guatemala, 1996 Height/length modality (standing/lying) was not collected
+ZMB	Zambia	Africa	1995	58.1	Zambia's children in 1995: Key results of a survey to monitor progress towards goals for children (MICS2). Lusaka, Zambia: Government of the Republic of the Zambia, 1997 Converted estimate
+MOZ	Mozambique	Africa	1995	59.9	Multiple indicator cluster survey Mozambique - 1995. MICS Surveys. Ministry of Planning and Finance. Maputo, Mozambique, 1996 Converted estimate
+BGD	Bangladesh	South-East Asia	1995	65.8	Nutritional Surveillance Project 1995: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+NPL	Nepal	South-East Asia	1995	68.2	Nepal multiple indicator surveillance: cycle I, Jan to March 1995 health and nutrition - final report (MICS). Kathmandu, Nepal, 1996 Age-adjusted; Converted estimate
+JAM	Jamaica	Americas	1995	9.7	Jamaica survey of living conditions, 1995. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1997
+JAM	Jamaica	Americas	1994	12.1	Jamaica survey of living conditions, 1994. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1996
+VEN	Venezuela (Bolivarian Republic of)	Americas	1994	17.9	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1994 Converted estimate
+CPV	Cabo Verde	Africa	1994	21.4	A saude das crianças menores de cinco anos em Cabo Verde. Ministério de Saude e Promoçao Social e UNICEF. Cabo Verde, 1996 Converted estimate
+SAU	Saudi Arabia	Eastern Mediterranean	1994	21.4	National Study of Growth Monitoring for 0-5 years Saudi Children 1994 Converted estimate
+OMN	Oman	Eastern Mediterranean	1994	21.4	National study on the prevalence of vitamin A deficiency (VAD) among children 6 months to 7 years. Muscat, Sultanate of Oman, 1995 Reduced age range; Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+ZAF	South Africa	Africa	1994	28.7	Children aged 6 to 71 months in South Africa, 1994: their anthropometric, vitamin A, iron and immunisation coverage status. Johannesburg, South Africa, 1995 Converted estimate
+ZWE	Zimbabwe	Africa	1994	28.9	Zimbabwe demographic and health survey 1994. Demographic and Health Surveys. Calverton, Maryland: Central Statistical Office and Macro International Inc., 1995 Reduced age range
+CIV	Cote d'Ivoire	Africa	1994	30.9	Enquête demographique et de santé, Côte d'Ivoire 1994. Demographic and Health Surveys. Abidjan, Côte d'Ivoire, 1995 Reduced age range
+BOL	Bolivia (Plurinational State of)	Americas	1994	34.4	Encuesta nacional de demografia y salud 1994. Demographic and Health Surveys. La Paz, Bolivia, 1994 Reduced age range
+GIN	Guinea	Africa	1994	35.3	Enquête intégrale sur les conditions de vie des ménages avec module budget et consommation (EIBC) 1994-95.  Ministère du Plan et de la Coopération, Direction Nationale de la Statistique. Conakry, République de Guinée, 1998. Converted estimate
+MDV	Maldives	South-East Asia	1994	36.1	Nutritional status and child feeding practices of Maldivian children. Department of Public Health. Male, Maldives, 1994. Height/length modality (standing/lying) was not collected
+HTI	Haiti	Americas	1994	37.1	Enquête mortalité, morbidité et utlisation des services (EMMUS-II) Haiti 1994/95. Demographic and Health Surveys. Pétionville, Haiti, 1995
+CAF	Central African Republic	Africa	1994	39.5	Enquête demographique et de santé République Centrafricaine 1994-95. Demographic and Health Surveys. Calverton, Maryland, USA: Direction des Statistiques Démographiques et Sociales et Macro Inc., 1995 Reduced age range
+CHL	Chile	Americas	1994	4.2	Estado Nutricional Poblacion Preescolar, Junio 1994 Converted estimate
+KEN	Kenya	Africa	1994	41.1	Fifth child nutrition survey, 1994. Welfare monitoring survey. Nairobi, Kenya, 1995. Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+HND	Honduras	Americas	1994	45.7	National survey of socio-economic indicators 1993/94. Tegucigalpa, Republica de Honduras, 1996 Converted estimate
+VNM	Viet Nam	Western Pacific	1994	52.5	Viet Nam: Xerophthalmia free; 1994 national Vitamin A deficiency and protein-energy malnutrition prevalence survey. Consultancy report 5-17 March 1995. National Institute of Nutrition. Hanoi, Viet Nam, 1995 Converted estimate
+LAO	Lao People's Democratic Republic	Western Pacific	1994	52.9	Lao National Assessment Survey (LNAS) 1994 Converted estimate
+MMR	Myanmar	South-East Asia	1994	58.7	National nutrition survey, 1994. National Nutrition Centre. Yangon, Myanmar, 1995 Age-adjusted; Converted estimate
+BGD	Bangladesh	South-East Asia	1994	67.3	Nutritional Surveillance Project 1994: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+ARG	Argentina	Americas	1994	7.1	The organisation of a national survey for evaluating child psychomotor development in Argentina. Paediatric and Perinatal Epidemiology 1997;11:359-373 Converted estimate
+JAM	Jamaica	Americas	1993	12.6	Jamaica survey of living conditions 1993. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1995
+GUY	Guyana	Americas	1993	14.7	Guyana 1993 Living Standards Measurement Survey
+VEN	Venezuela (Bolivarian Republic of)	Americas	1993	17.4	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1993 Converted estimate
+THA	Thailand	South-East Asia	1993	21.1	Random survey on nutritional status of children of ages under five. Thailand Journal of Health Promotion and Environmental Health 1996;19:57-66 Converted estimate
+TUR	Türkiye	Europe	1993	23.6	Turkey demographic and health survey, 1993. Demographic and Health Surveys. Ankara, Turkey, 1994
+LKA	Sri Lanka	South-East Asia	1993	28.7	Sri Lanka demographic and health survey 1993. Colombo, Sri Lanka, 1995 Reduced age range; Height/length modality (standing/lying) was not collected
+NIC	Nicaragua	Americas	1993	29.6	Nicaragua 1993 living standards measurement survey (LSMS). Washington, D.C.: The World Bank, 1997
+SEN	Senegal	Africa	1993	29.8	Enquête démographique et de santé au Sénégal (EDS-II) 1992/93. Demographic and Health Surveys. Dakar, Sénégal, 1994
+SLV	El Salvador	Americas	1993	31.6	National family health survey 1993 (FESAL-93). San Salvador: Government of El Salvador, 1994
+GHA	Ghana	Africa	1993	32.8	Ghana demographic and health survey 1993. Demographic and Health Surveys. Calverton, Maryland: GSS and MI, 1994 Reduced age range
+SYR	Syrian Arab Republic	Eastern Mediterranean	1993	32.8	Syrian maternal and child health survey (SMCHS). PAPCHILD surveys. Cairo: The League of Arab States, 1994 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+LSO	Lesotho	Africa	1993	37.5	National survey on iodine, vitamin A and iron status of women and children in Lesotho. Maseru, Lesotho, 1994 Age-adjusted; Converted estimate
+BFA	Burkina Faso	Africa	1993	38.7	Enquête démographique et de santé, Burkina Faso 1993. Demographic and Health Surveys. Ouagadougou, Burkina Faso, 1994.
+PHL	Philippines	Western Pacific	1993	38.9	The fourth national nutrition survey: Philippines 1993. Food and Nutrition Institute. Manila, Philippines; 1995 Converted estimate
+FJI	Fiji	Western Pacific	1993	4.3	1993 National nutrition survey - main report. Suva: National Food and Nutrition Committee, 1995 Converted estimate
+KEN	Kenya	Africa	1993	40.2	Kenya demographic and health survey 1993. Demographic and Health Surveys. Central Bureau of Statistics. Nairobi, Kenya, 1994
+NGA	Nigeria	Africa	1993	43.8	Nigeria National micronutrient survey, 1993. Ibadan, Nigeria, 1996 Converted estimate
+LAO	Lao People's Democratic Republic	Western Pacific	1993	53.6	Women and children in the Lao People's Democratic Republic. Results from the LAO social indicator survey (LSIS). Vientiane: Mother and Child Institute, 1994a Converted estimate
+MDG	Madagascar	Africa	1993	54.1	Enquête permanente aupres des menages - rapport principal, décembre 1995. Antananarivo, Madagascar, 1995 Converted estimate
+VNM	Viet Nam	Western Pacific	1993	61.5	Viet Nam living standards survey 1992-93 (VNLSS). Washington, D.C.: The World Bank, 1998
+BGD	Bangladesh	South-East Asia	1993	69.2	Nutritional Surveillance Project 1993: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+ERI	Eritrea	Africa	1993	69.6	Children and women in Eritrea: 1994. Government of the State of Eritrea/UNICEF Situation Analysis. Asmara, Eritrea, 1994 Converted estimate
+JAM	Jamaica	Americas	1992	14.4	Jamaica survey of living conditions 1992. Kingston: The Planning Institute and the Statistical Institute of Jamaica, 1994
+VEN	Venezuela (Bolivarian Republic of)	Americas	1992	18.3	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1992 Converted estimate
+DZA	Algeria	Africa	1992	22.9	Enquête Algérienne sur la santé de la mère et de l'enfant. Office national des statistiques. PAPCHILD surveys. Cairo: Ligue des Etats Arabes, 1992 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+MAR	Morocco	Eastern Mediterranean	1992	30.1	Enquête nationale sur la population et la santé (ENPS-II) 1992. Demographic and Health Surveys. Rabat, Royaume du Maroc, 1993
+EGY	Egypt	Eastern Mediterranean	1992	31.1	Egypt demographic and health survey 1992. Demographic and Health Surveys. Cairo, Egypt, 1993
+MNG	Mongolia	Western Pacific	1992	33.1	Report on the Mongolian Child Nutrition Survey. Institute of Nutrition. Nakornpathom, Thailand, 1992 Age-adjusted; Converted estimate
+NAM	Namibia	Africa	1992	35.6	Namibia demographic and health survey 1992. Demographic and Health Surveys. Windhoek, Republic of Namibia, 1993
+CHN	China	Western Pacific	1992	38	China 1992 National Nutrition Survey
+COM	Comoros	Africa	1992	38.5	Rapport sur l'état nutritionnel et les facteurs impliqués chez les enfants de moins de deux ans en République Fédérale Islamique des Comores 1991. Direction de la Santé Familiale. Comores, 1995 Age-adjusted; Converted estimate
+LSO	Lesotho	Africa	1992	39.2	National nutrition survey report, May-June 1992. Maseru, Kingdom of Lesotho, 1992 Converted estimate
+PHL	Philippines	Western Pacific	1992	40.9	The Philippines 1992 regional nutrition survey. Food and Nutrition Research Institute. Manila, Philippines; 1994 Converted estimate
+PAK	Pakistan	Eastern Mediterranean	1992	42.7	National health survey of Pakistan (NHSP, 1990-94): Health profile of the people of Pakistan. Islamabad, Pakistan, 1998
+NER	Niger	Africa	1992	45.3	Enquête démographique et de santé, Niger 1992. Demographic and Health Surveys. Niamey, Niger, 1993
+ZMB	Zambia	Africa	1992	46.3	Zambia demographic and health survey 1992. Demographic and Health Surveys. Central Statistical Office. Lusaka, Zambia, 1993
+MWI	Malawi	Africa	1992	55.4	Malawi demographic and health survey 1992. Demographic and Health Surveys. National Statistics Office. Zomba, Malawi, 1993
+RWA	Rwanda	Africa	1992	56.8	Enquête démographique et de santé, Rwanda 1992. Demographic and Health Surveys. Kigali, Rwanda, 1994
+IND	India	South-East Asia	1992	57.1	National family health survey, India 1992-93. Demographic and Health Surveys. Bombay, India, 1995 Reduced age range
+MDG	Madagascar	Africa	1992	60.5	Enquête nationale démographique et sanitaire 1992. Demographic and Health Surveys. Centre National de Recherches sur l'Environnement. Antananarivo, Madagascar, 1994
+ETH	Ethiopia	Africa	1992	66.9	Report on the National Rural Nutrition Survey, Core Module. Transitional Government of Ethiopia, Central Statistical Authority. Statistical Bulletin No 113. Addis Ababa, Ethiopia; 1993. Adjusted National-Rural to National; Converted estimate
+BGD	Bangladesh	South-East Asia	1992	71.5	Nutritional Surveillance Project 1992: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008. Adjusted National-Rural to National
+ROU	Romania	Europe	1991	11.2	Romania National Nutrition Survey 1991 Converted estimate
+JAM	Jamaica	Americas	1991	11.8	Jamaica survey of living conditions - report 1991. Kingston: The Planning Institute of Jamaica (PIOJ)  and the Statistical Institute of Jamaica Statistical Institute of Jamaica (STATIN), 1992
+VEN	Venezuela (Bolivarian Republic of)	Americas	1991	18.2	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1991 Converted estimate
+DOM	Dominican Republic	Americas	1991	21.1	Encuesta demografica y de salud 1991. Demographic and Health Surveys. Santo Domingo, Republica Dominicana, 1992
+OMN	Oman	Eastern Mediterranean	1991	24.2	National Nutrition Survey of the Sultanate of Oman. UNICEF Muscat, Oman, 1993 Age-adjusted; Converted estimate
+IRQ	Iraq	Eastern Mediterranean	1991	27.6	Infant and child mortality and nutritional status of Iraqi children after the Gulf conflict: Results of a community-based study. Center for Population and Development Studies, Harvard University, Cambridge, MA, USA; 1992 Converted estimate
+CZE	Czechia	Europe	1991	3.1	Vth. Nation-wide anthropological survey of children and adolescents 1991 (Czech Republic). Prague: National Institute of Public Health, 1993 Converted estimate
+USA	United States of America	Americas	1991	3.1	Third national health and nutrition examination survey, 1988-94 (NHANES III). Vital Health Statistics 1994;32:1-2 Alternate age range
+CMR	Cameroon	Africa	1991	31.6	Enquête démographique et de santé Cameroun, 1991. Demographic and Health Surveys. Yaoundé, République du Cameroun, 1992 Age calculated using alternate methods
+SEN	Senegal	Africa	1991	34.4	Social Dimensions of Adjustment Household Priority Survey 1991-92. New York: The World Bank, 1993 Age-adjusted; Converted estimate
+EGY	Egypt	Eastern Mediterranean	1991	34.9	Egyptian maternal and child health survey (EMCHS). PAPCHILD Surveys. Agency for Public Mobilisation and Statistics. Cairo, Arab Republic of Egypt, 1992 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+PER	Peru	Americas	1991	37.3	Encuesta demografica y de salud familiar 1991/1992. Demographic and Health Surveys. Lima, Peru, 1992
+HND	Honduras	Americas	1991	42.7	Encuesta nacional de epidemiologia y salud familiar (ENESF), 1991/92. Tegucigalpa, Republica de Honduras, 1993 Height/length modality (standing/lying) was not collected
+TZA	United Republic of Tanzania	Africa	1991	49.9	Tanzania demographic and health survey 1991/92. Demographic and Health Surveys. Dar es Salaam, United Republic of Tanzania, 1992
+YEM	Yemen	Eastern Mediterranean	1991	50.4	Yemen maternal and child health survey (YDMCHS). PAPCHILD Surveys. Sana, Republic of Yemen, 1992
+MMR	Myanmar	South-East Asia	1991	53.6	Nutrition situation of Myanmar children. Report of the  National Nutrition Survey 1991. Ragoon, Myanmar, 1994 Age-adjusted; Converted estimate
+PAK	Pakistan	Eastern Mediterranean	1991	53.9	Pakistan demographic and health survey 1990/91. Demographic and Health Surveys. National Institute of Population Studies. Islamabad, Pakistan, 1992
+IND	India	South-East Asia	1991	61.9	National Nutrition Monitoring Bureau, 1991-92 (8 States pooled data). Hyderabad, India; 1993 Adjusted National-Rural to National; Converted estimate
+BGD	Bangladesh	South-East Asia	1991	73.6	Nutritional Surveillance Project 1991: data on rural national (using the WHO Child Growth Standards). Unpublished estimates. Dhaka, Bangladesh: HKI and Institute of Public Health Nutrition, 2008 Adjusted National-Rural to National
+PRY	Paraguay	Americas	1990	18.3	Encuesta nacional de demografia y salud 1990. Demographic and Health Surveys. Asuncion, Paraguay, 1991
+VEN	Venezuela (Bolivarian Republic of)	Americas	1990	18.6	Sistema de Vigilancia Alimentaria y Nutricional (SISVAN) 1990 Converted estimate
+JOR	Jordan	Eastern Mediterranean	1990	20	Jordan population and family health survey 1990. Demographic and Health Surveys. Ministry of Health. Amman, Jordan, 1992
+CHN	China	Western Pacific	1990	32.3	Pilot study for the food and nutrition surveillance system. Chinese Academy of Preventive Medicine, State Statistical Bureau. Beijing, China, 1992.
+HTI	Haiti	Americas	1990	40.1	Haiti's nutrition situation in 1990: A report based on anthropometric data of the 1990 nutrition surveys. Port-au-Prince, Haiti, 1993 Converted estimate
+SLE	Sierra Leone	Africa	1990	40.9	The Republic of Sierra Leone 1990 National Nutrition Survey. Freetown, Sierra Leone; 1990 Converted estimate
+PHL	Philippines	Western Pacific	1990	43.3	Regional Updating of Nutritional Status of Filipino Children, 1989-90. Food and Nutrition Research Institute. Manila, Philippines; 1991 Converted estimate
+NGA	Nigeria	Africa	1990	48.7	Nigerian demographic and health survey 1990. Demographic and Health Surveys. Federal Office of Statistics, Lagos, Nigeria, 1992
+JPN	Japan	Western Pacific	1990	5	Japan 1990 Growth Survey of Infants and Children
+BGD	Bangladesh	South-East Asia	1990	63.4	Report of the child nutrition status survey 1989-90. Bangladesh bureau of statistics. Dhaka, Bangladesh, 1991 Converted estimate
+JAM	Jamaica	Americas	1989	12	Jamaica Living Standards and Measurement Survey 1989. Kingston: The World Bank, 1990 Height/length modality (standing/lying) was not collected
+BHR	Bahrain	Eastern Mediterranean	1989	13.9	Bahrain child health survey 1989. Manama, Bahrain, 1992. Converted estimate
+BRA	Brazil	Americas	1989	19.8	Brazil National Survey on Health and Nutrition 1989. Ann Arbor, United States: Inter-University Consortium for Political and Social Research (ICPSR).
+MEX	Mexico	Americas	1989	26	Encuesta nacional de alimentacion en el medio rural, 1989 (ENAL). Instituto de la Nutricion 'Salvador Zubiran'. Comision Nacional de Alimentacion. Division de Nutricion, INNSZ. Tlalpan, Mexico, D.F, 1990 Adjusted National-Rural to National
+DJI	Djibouti	Eastern Mediterranean	1989	28	Enquete couverture vaccinale malnutrition. Republique de Djibouti, Djibouti: Ministere de la Sante Publique et des Affaires Sociales,1990 Converted estimate
+SLB	Solomon Islands	Western Pacific	1989	33.7	Solomon Islands national nutrition survey 1989. Honiara, Solomon Islands, 1990 Height/length modality (standing/lying) was not collected
+SLE	Sierra Leone	Africa	1989	41.4	The Republic of Sierra Leone 1989 National Nutrition Survey. Freetown, Sierra Leone; 1990 Converted estimate
+BOL	Bolivia (Plurinational State of)	Americas	1989	41.9	Encuesta nacional de demografia y salud 1989. Demographic and Health Surveys. La Paz, Bolivia, 1990 Reduced age range; Height/length modality (standing/lying) was not collected
+IND	India	South-East Asia	1989	62.7	National Nutrition Monitoring Bureau, 1988-90 (8 States pooled data). Hyderabad, India; 1993 Adjusted National-Rural to National; Converted estimate
+TUN	Tunisia	Eastern Mediterranean	1988	20.5	Enquête démographique et de santé en Tunisie 1988. Demographic and Health Surveys. Office National de la Famille et de la Population. Tunis, Tunisie, 1989 Reduced age range; Height/length modality (standing/lying) was not collected
+COL	Colombia	Americas	1988	21.8	Encuesta National sobre Conocimientos, Attitudes y Practicas en Salud, 1986-1989: situacion  nutritional y patrones de alimentacion en  menores de 5 arias. Bogota: Ministerio de Salud, Institute National de Salud; 1990. Converted estimate
+MEX	Mexico	Americas	1988	26.9	Encuesta nacional de nutricion 1988. Instituto Nacional de Salud Publica. Cuernavaca, Mexico, 1990 Height/length modality (standing/lying) was not collected
+ZWE	Zimbabwe	Africa	1988	31	Zimbabwe demographic and health survey, 1988. Demographic and Health Surveys. Harare, Zimbabwe, 1989 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+GHA	Ghana	Africa	1988	33.7	Ghana demographic and health survey 1988. Demographic and Health Surveys. Ghana Statistical Service. Accra, Ghana, 1989 Reduced age range; Height/length modality (standing/lying) was not collected
+TGO	Togo	Africa	1988	34.2	Enquête démographique et de santé au Togo 1988. Demographic and Health Surveys. Direction Generale de la Santé. Lomé, Togo, 1989 Reduced age range; Height/length modality (standing/lying) was not collected
+EGY	Egypt	Eastern Mediterranean	1988	34.8	Egypt demographic and health survey 1988. Demographic and Health Surveys. Egypt National Population Council. Cairo, Egypt, 1989 Reduced age range; Height/length modality (standing/lying) was not collected
+SLV	El Salvador	Americas	1988	36.7	Evaluacion de la situacion alimentaria nutricional en El Salvador (ESANES-88). Ministerio de Salud Publica y Asistencia Social. San Salvador, El Salvador, 1990 Height/length modality (standing/lying) was not collected
+MRT	Mauritania	Africa	1988	40.2	The socio-economic determinants of nutritional status among children under five in Mauritania. Social Dimensions of Adjustment Surveys. Washington D.C.: The World Bank, 1990 Converted estimate
+UGA	Uganda	Africa	1988	47.7	Uganda demographic and health survey 1988/89. Demographic and Health Surveys. Ministry of Health. Entebbe, Uganda, 1989 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+VNM	Viet Nam	Western Pacific	1988	61.3	Report on re-analyzed data collected by the General Nutrition Survey 1987-89. Department of Planning. Hanoi, Viet Nam, 1991 Converted estimate
+SYC	Seychelles	Africa	1988	7.7	Nutritional status of Seychellois children (unpublished data). Victoria, Seychelles, 1989 Converted estimate
+DZA	Algeria	Africa	1987	16.9	Etat nutritionnel des enfants algériens de 0 à 10 ans et niveaux d'urbanisation d'après les résultats préliminaires de l'enquête épidémiologique sur la malnutrition protéino-énérgétique en 1987 Converted estimate
+URY	Uruguay	Americas	1987	21	Evaluacion del  Programa Nacional de Complementacion Alimentaria (P.N.C.A), 1987 Converted estimate
+THA	Thailand	South-East Asia	1987	25.5	Thailand demographic and health survey 1987. Demographic and Health Surveys. Institute of Population Studies, Chulalongkorn University. Bangkok, Thailand, 1988 Reduced age range; Height/length modality (standing/lying) was not collected
+MLI	Mali	Africa	1987	27.9	Enquête démographique et de santé au Mali, 1987. Demographic and Health Surveys. Bamako, Mali, 1989 Reduced age range
+COG	Congo	Africa	1987	30.1	Enquête nationale sur l'état nutritionnel des enfants d'age prescolaire au Congo. Collection Etudes et Theses. Paris: ORSTOM, Institut Français de Recherche Scientifique pour le Développement en Coopération, 1990 Adjusted National-Rural to National; Converted estimate
+MAR	Morocco	Eastern Mediterranean	1987	31	Enquête national sur la planification familiale, la fécondité et la santé de la population au Maroc (ENPS) 1987. Demographic and Health Surveys. Ministère de la Santé Publique. Rabat, Maroc, 1989 Age calculated using alternate methods; Height/length modality (standing/lying) was not collected
+LKA	Sri Lanka	South-East Asia	1987	31.2	Sri Lanka demographic and health survey 1987. Demographic and Health Surveys. Colombo, Sri Lanka, 1987 Reduced age range; Height/length modality (standing/lying) was not collected
+KEN	Kenya	Africa	1987	37	Fourth Rural Child Nutrition Survey, 1987. Central Bureau of Statistics, Ministry of Planning and National Development. Republic of Kenya, Nairobi; 1991 Adjusted National-Rural to National; Converted estimate
+CHN	China	Western Pacific	1987	38.3	Further analysis of the anthropometric data of preschool children surveyed in nine provinces in 1987. In Proceedings of International Symposium on Food, Nutrition and Social Economic Development, Beijing, 5-8 June 1990 Converted estimate
+HND	Honduras	Americas	1987	43.3	Encuesta nacional de nutricion, Honduras, 1987. Cuadros de frequencias por regiones de salud y nacionales. Ministerio de Salud Publica. Tegucigalpa, Republica de Honduras, 1988 Converted estimate
+PHL	Philippines	Western Pacific	1987	44.7	Third National Nutrition Survey Philippines, 1987. Food and Nutrition Research Institute. Manila, Philippines; 1991 Converted estimate
+TTO	Trinidad and Tobago	Americas	1987	5.7	Trinidad and Tobago demographic and health survey 1987. Demographic and Health Surveys. Family Planning Association of Trinidad and Tobago. Port-of-Spain, Trinidad, 1988 Reduced age range; Height/length modality (standing/lying) was not collected
+BDI	Burundi	Africa	1987	52.3	Enquête démographique et de la santé au Burundi, 1987. Demographic and Health Surveys. Gsitega, Burundi, 1988 Reduced age range; Height/length modality (standing/lying) was not collected
+BTN	Bhutan	South-East Asia	1987	60.9	Report on the national nutrition survey. Bhutan; December 1989. Converted estimate
+GTM	Guatemala	Americas	1987	62.2	Encuesta nacional de salud materno infantil 1987. Demographic and Health Surveys. Ministerio de Salud Publica y Asistencia Social. Guatemala, Central America, 1989 Reduced age range; Height/length modality (standing/lying) was not collected
+CHL	Chile	Americas	1986	13.5	Estado nutricional de la poblacion infantil, 1986. Santiago, Republica de Chile, 1987 Converted estimate
+CIV	Cote d'Ivoire	Africa	1986	19.6	Côte d'Ivoire Living Standards Measurement Survey 1985-1987. Washington, DC, United States: World Bank (WB) [1985-86 LSMS and 1986-87 LSMS Combined] Height/length modality (standing/lying) was not collected
+TON	Tonga	Western Pacific	1986	2.2	The 1986 national nutrition survey of the Kingdom of Tonga. Technical report National Food and Nutrition Committee. Nuku'alofa: Government of the Kingdom of Tonga, 1987 Converted estimate
+DOM	Dominican Republic	Americas	1986	22.3	Encuesta demografica y de salud, 1986. Demographic and Health Surveys. Consejo Nacional de Poblacion y Familia. Santo Domingo, Republica Dominicana, 1987 Reduced age range
+COL	Colombia	Americas	1986	25.7	Tercera encuesta nacional de prevalencia del uso de anticonceptivos y primera de demografia y salud, 1986. Demographic and Health Surveys. Institute for Resource Development. Bogota, Colombia, 1988 Reduced age range
+SEN	Senegal	Africa	1986	28.4	Enquête démographique et de santé au Sénégal, 1986. Demographic and Health Surveys. Dakar, Republique du Sénégal, 1987 Reduced age range; Height/length modality (standing/lying) was not collected
+STP	Sao Tome and Principe	Africa	1986	32	Estado nutricional e cobertura vacinal des criancas menoras de 5 anos na. Seccao de Nutricao. Sao Tome, Republica Democratica de Sao Tome e Principe, 1986 Converted estimate
+ECU	Ecuador	Americas	1986	40.2	Estudio sobre el Crecimiento de los Ninos en el Ecuador, 1986 Converted estimate
+PAK	Pakistan	Eastern Mediterranean	1986	62.5	National nutrition survey 1985-87 report. National Institute of Health, Nutrition Division. Islamabad, Pakistan, 1988 Converted estimate
+BGD	Bangladesh	South-East Asia	1986	70.9	Bangladesh household expenditure survey 1985-86. Bangladesh bureau of statistics. Dhaka, Bangladesh, 1987 Converted estimate
+CPV	Cabo Verde	Africa	1985	26.8	Better health data with a portable microcomputer at the periphery: an anthropometric survey in Cape Verde. Bulletin of the World Health Organization 1987;65:651-657 Age-adjusted; Converted estimate
+MUS	Mauritius	Africa	1985	27.3	Mauritius national nutrition survey 1985: summary report. Evaluation and Nutrition Unit. Port Louis, Mauritius, 1988 Converted estimate
+KIR	Kiribati	Western Pacific	1985	34.4	National nutrition survey, 1985. Government of Kiribati. South Tarawa, Republic of Kiribati, 1990 Converted estimate
+NER	Niger	Africa	1985	43.8	Enquête nationale sur la morbidité et la mortalité, rapport No 1. Cellule de Planification. Niamey, République de Niger, 1985 Converted estimate
+VEN	Venezuela (Bolivarian Republic of)	Americas	1984	7	Estudio Nacional de Crecimiento y Desarrollo Humanos de la República de Venezuela (ENCDH), 1987 Converted estimate
+PNG	Papua New Guinea	Western Pacific	1983	46	Papua New Guinea 1982-1983 National Nutrition Survey Adjusted National-Rural to National
