@@ -1,0 +1,4857 @@
+country_code	country	region	year	measles_coverage
+MNE	Montenegro	Europe	2024	23
+CAF	Central African Republic	Africa	2024	41
+YEM	Yemen	Eastern Mediterranean	2024	41
+PNG	Papua New Guinea	Western Pacific	2024	44
+MDG	Madagascar	Africa	2024	46
+SDN	Sudan	Eastern Mediterranean	2024	46
+BEN	Benin	Africa	2024	51
+AGO	Angola	Africa	2024	53
+GNQ	Equatorial Guinea	Africa	2024	53
+COD	Democratic Republic of the Congo	Africa	2024	55
+LAO	Lao People's Democratic Republic	Western Pacific	2024	55
+GAB	Gabon	Africa	2024	57
+NGA	Nigeria	Africa	2024	57
+AFG	Afghanistan	Eastern Mediterranean	2024	59
+GIN	Guinea	Africa	2024	60
+VUT	Vanuatu	Western Pacific	2024	61
+KAZ	Kazakhstan	Europe	2024	62
+SOM	Somalia	Eastern Mediterranean	2024	64
+CIV	Cote d'Ivoire	Africa	2024	65
+MOZ	Mozambique	Africa	2024	65
+ROU	Romania	Europe	2024	66
+BOL	Bolivia (Plurinational State of)	Americas	2024	67
+LBN	Lebanon	Eastern Mediterranean	2024	67
+TCD	Chad	Africa	2024	68
+BIH	Bosnia and Herzegovina	Europe	2024	69
+COM	Comoros	Africa	2024	70
+AZE	Azerbaijan	Europe	2024	71
+CMR	Cameroon	Africa	2024	71
+MMR	Myanmar	South-East Asia	2024	71
+VEN	Venezuela (Bolivarian Republic of)	Americas	2024	71
+ETH	Ethiopia	Africa	2024	72
+MLI	Mali	Africa	2024	72
+SSD	South Sudan	Africa	2024	72
+TLS	Timor-Leste	South-East Asia	2024	72
+MKD	North Macedonia	Europe	2024	73
+SUR	Suriname	Americas	2024	73
+DJI	Djibouti	Eastern Mediterranean	2024	75
+GNB	Guinea-Bissau	Africa	2024	76
+ZAF	South Africa	Africa	2024	76
+HTI	Haiti	Americas	2024	77
+COG	Congo	Africa	2024	78
+SLB	Solomon Islands	Western Pacific	2024	78
+NAM	Namibia	Africa	2024	79
+DMA	Dominica	Americas	2024	80
+MEX	Mexico	Americas	2024	80
+PHL	Philippines	Western Pacific	2024	80
+TJK	Tajikistan	Europe	2024	80
+ALB	Albania	Europe	2024	81
+FSM	Micronesia (Federated States of)	Western Pacific	2024	81
+NER	Niger	Africa	2024	81
+SYR	Syrian Arab Republic	Eastern Mediterranean	2024	81
+TGO	Togo	Africa	2024	81
+ARG	Argentina	Americas	2024	82
+KEN	Kenya	Africa	2024	82
+KIR	Kiribati	Western Pacific	2024	82
+LBR	Liberia	Africa	2024	82
+EST	Estonia	Europe	2024	83
+GMB	Gambia	Africa	2024	83
+GRD	Grenada	Americas	2024	83
+LCA	Saint Lucia	Americas	2024	83
+BLZ	Belize	Americas	2024	84
+PER	Peru	Americas	2024	84
+MDA	Republic of Moldova	Europe	2024	84
+SRB	Serbia	Europe	2024	84
+TZA	United Republic of Tanzania	Africa	2024	84
+KHM	Cambodia	Western Pacific	2024	85
+SWZ	Eswatini	Africa	2024	85
+IDN	Indonesia	Western Pacific	2024	85
+WSM	Samoa	Western Pacific	2024	85
+SMR	San Marino	Europe	2024	85
+BHS	Bahamas	Americas	2024	86
+BDI	Burundi	Africa	2024	86
+LTU	Lithuania	Europe	2024	86
+PAK	Pakistan	Eastern Mediterranean	2024	86
+ECU	Ecuador	Americas	2024	87
+STP	Sao Tome and Principe	Africa	2024	87
+SEN	Senegal	Africa	2024	87
+BRB	Barbados	Americas	2024	88
+BFA	Burkina Faso	Africa	2024	88
+HND	Honduras	Americas	2024	88
+MLT	Malta	Europe	2024	88
+MHL	Marshall Islands	Western Pacific	2024	88
+MCO	Monaco	Europe	2024	88
+CZE	Czechia	Europe	2024	89
+LBY	Libya	Eastern Mediterranean	2024	89
+MWI	Malawi	Africa	2024	89
+NLD	Netherlands (Kingdom of the)	Europe	2024	89
+NZL	New Zealand	Western Pacific	2024	89
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2024	89
+AUT	Austria	Europe	2024	90
+HRV	Croatia	Europe	2024	90
+GEO	Georgia	Europe	2024	90
+IRL	Ireland	Europe	2024	90
+LSO	Lesotho	Africa	2024	90
+PRY	Paraguay	Americas	2024	90
+SLE	Sierra Leone	Africa	2024	90
+ZWE	Zimbabwe	Africa	2024	90
+FJI	Fiji	Western Pacific	2024	91
+GTM	Guatemala	Americas	2024	91
+KGZ	Kyrgyzstan	Europe	2024	91
+UKR	Ukraine	Europe	2024	91
+ZMB	Zambia	Africa	2024	91
+AUS	Australia	Western Pacific	2024	92
+CAN	Canada	Americas	2024	92
+NRU	Naoero	Western Pacific	2024	92
+POL	Poland	Europe	2024	92
+UGA	Uganda	Africa	2024	92
+USA	United States of America	Americas	2024	92
+CHL	Chile	Americas	2024	93
+COL	Colombia	Americas	2024	93
+ERI	Eritrea	Africa	2024	93
+MRT	Mauritania	Africa	2024	93
+SWE	Sweden	Europe	2024	93
+THA	Thailand	South-East Asia	2024	93
+DZA	Algeria	Africa	2024	94
+BGR	Bulgaria	Europe	2024	94
+DNK	Denmark	Europe	2024	94
+JAM	Jamaica	Americas	2024	94
+SVK	Slovakia	Europe	2024	94
+TUR	Türkiye	Europe	2024	94
+CPV	Cabo Verde	Africa	2024	95
+CHN	China	Western Pacific	2024	95
+DOM	Dominican Republic	Americas	2024	95
+FIN	Finland	Europe	2024	95
+FRA	France	Europe	2024	95
+GHA	Ghana	Africa	2024	95
+ITA	Italy	Europe	2024	95
+JPN	Japan	Western Pacific	2024	95
+NIC	Nicaragua	Americas	2024	95
+KNA	Saint Kitts and Nevis	Americas	2024	95
+SVN	Slovenia	Europe	2024	95
+ARM	Armenia	Europe	2024	96
+BGD	Bangladesh	South-East Asia	2024	96
+BEL	Belgium	Europe	2024	96
+BRA	Brazil	Americas	2024	96
+CRI	Costa Rica	Americas	2024	96
+SLV	El Salvador	Americas	2024	96
+DEU	Germany	Europe	2024	96
+GRC	Greece	Europe	2024	96
+IRQ	Iraq	Eastern Mediterranean	2024	96
+MYS	Malaysia	Western Pacific	2024	96
+MNG	Mongolia	Western Pacific	2024	96
+NOR	Norway	Europe	2024	96
+PLW	Palau	Western Pacific	2024	96
+PAN	Panama	Americas	2024	96
+SAU	Saudi Arabia	Eastern Mediterranean	2024	96
+CHE	Switzerland	Europe	2024	96
+TTO	Trinidad and Tobago	Americas	2024	96
+TUN	Tunisia	Eastern Mediterranean	2024	96
+ATG	Antigua and Barbuda	Americas	2024	97
+BTN	Bhutan	South-East Asia	2024	97
+BWA	Botswana	Africa	2024	97
+EGY	Egypt	Eastern Mediterranean	2024	97
+ISL	Iceland	Europe	2024	97
+IND	India	South-East Asia	2024	97
+NPL	Nepal	South-East Asia	2024	97
+KOR	Republic of Korea	Western Pacific	2024	97
+RUS	Russian Federation	Europe	2024	97
+RWA	Rwanda	Africa	2024	97
+SYC	Seychelles	Africa	2024	97
+SGP	Singapore	Western Pacific	2024	97
+ESP	Spain	Europe	2024	97
+TUV	Tuvalu	Western Pacific	2024	97
+URY	Uruguay	Americas	2024	97
+AND	Andorra	Europe	2024	98
+BLR	Belarus	Europe	2024	98
+ISR	Israel	Europe	2024	98
+KWT	Kuwait	Eastern Mediterranean	2024	98
+LVA	Latvia	Europe	2024	98
+MUS	Mauritius	Africa	2024	98
+MAR	Morocco	Eastern Mediterranean	2024	98
+ARE	United Arab Emirates	Eastern Mediterranean	2024	98
+VNM	Viet Nam	Western Pacific	2024	98
+BHR	Bahrain	Eastern Mediterranean	2024	99
+BRN	Brunei Darussalam	Western Pacific	2024	99
+COK	Cook Islands	Western Pacific	2024	99
+CUB	Cuba	Americas	2024	99
+CYP	Cyprus	Europe	2024	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2024	99
+GUY	Guyana	Americas	2024	99
+HUN	Hungary	Europe	2024	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2024	99
+JOR	Jordan	Eastern Mediterranean	2024	99
+LUX	Luxembourg	Europe	2024	99
+MDV	Maldives	South-East Asia	2024	99
+NIU	Niue	Western Pacific	2024	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2024	99
+OMN	Oman	Eastern Mediterranean	2024	99
+PRT	Portugal	Europe	2024	99
+QAT	Qatar	Eastern Mediterranean	2024	99
+VCT	Saint Vincent and the Grenadines	Americas	2024	99
+LKA	Sri Lanka	South-East Asia	2024	99
+TON	Tonga	Western Pacific	2024	99
+TKM	Turkmenistan	Europe	2024	99
+UZB	Uzbekistan	Europe	2024	99
+MNE	Montenegro	Europe	2023	24
+CAF	Central African Republic	Africa	2023	39
+YEM	Yemen	Eastern Mediterranean	2023	45
+MDG	Madagascar	Africa	2023	51
+SDN	Sudan	Eastern Mediterranean	2023	51
+BEN	Benin	Africa	2023	52
+COD	Democratic Republic of the Congo	Africa	2023	52
+GIN	Guinea	Africa	2023	52
+PNG	Papua New Guinea	Western Pacific	2023	52
+NGA	Nigeria	Africa	2023	54
+BIH	Bosnia and Herzegovina	Europe	2023	55
+AFG	Afghanistan	Eastern Mediterranean	2023	57
+GNQ	Equatorial Guinea	Africa	2023	61
+AGO	Angola	Africa	2023	63
+CIV	Cote d'Ivoire	Africa	2023	63
+TCD	Chad	Africa	2023	63
+SOM	Somalia	Eastern Mediterranean	2023	63
+COG	Congo	Africa	2023	65
+MOZ	Mozambique	Africa	2023	65
+GAB	Gabon	Africa	2023	66
+VUT	Vanuatu	Western Pacific	2023	66
+LBN	Lebanon	Eastern Mediterranean	2023	67
+BOL	Bolivia (Plurinational State of)	Americas	2023	68
+MLI	Mali	Africa	2023	68
+SLB	Solomon Islands	Western Pacific	2023	68
+VEN	Venezuela (Bolivarian Republic of)	Americas	2023	68
+KAZ	Kazakhstan	Europe	2023	69
+LAO	Lao People's Democratic Republic	Western Pacific	2023	69
+COM	Comoros	Africa	2023	70
+AZE	Azerbaijan	Europe	2023	71
+CMR	Cameroon	Africa	2023	71
+ETH	Ethiopia	Africa	2023	71
+SUR	Suriname	Americas	2023	71
+HTI	Haiti	Americas	2023	72
+SSD	South Sudan	Africa	2023	72
+TLS	Timor-Leste	South-East Asia	2023	72
+LBY	Libya	Eastern Mediterranean	2023	73
+MMR	Myanmar	South-East Asia	2023	73
+MKD	North Macedonia	Europe	2023	73
+SYR	Syrian Arab Republic	Eastern Mediterranean	2023	74
+DJI	Djibouti	Eastern Mediterranean	2023	76
+LSO	Lesotho	Africa	2023	76
+MEX	Mexico	Americas	2023	76
+ROU	Romania	Europe	2023	78
+KHM	Cambodia	Western Pacific	2023	79
+KIR	Kiribati	Western Pacific	2023	79
+TGO	Togo	Africa	2023	79
+ARG	Argentina	Americas	2023	80
+GMB	Gambia	Africa	2023	80
+NER	Niger	Africa	2023	80
+ZAF	South Africa	Africa	2023	80
+TJK	Tajikistan	Europe	2023	80
+ECU	Ecuador	Americas	2023	81
+PHL	Philippines	Western Pacific	2023	81
+CYP	Cyprus	Europe	2023	82
+GRD	Grenada	Americas	2023	82
+IDN	Indonesia	Western Pacific	2023	82
+LBR	Liberia	Africa	2023	82
+VNM	Viet Nam	Western Pacific	2023	82
+ALB	Albania	Europe	2023	83
+GNB	Guinea-Bissau	Africa	2023	83
+PRY	Paraguay	Americas	2023	83
+COK	Cook Islands	Western Pacific	2023	84
+DMA	Dominica	Americas	2023	84
+PAK	Pakistan	Eastern Mediterranean	2023	84
+PER	Peru	Americas	2023	84
+SRB	Serbia	Europe	2023	84
+TZA	United Republic of Tanzania	Africa	2023	84
+EST	Estonia	Europe	2023	85
+SWZ	Eswatini	Africa	2023	85
+KEN	Kenya	Africa	2023	85
+MDA	Republic of Moldova	Europe	2023	85
+LCA	Saint Lucia	Americas	2023	85
+BHS	Bahamas	Americas	2023	86
+BDI	Burundi	Africa	2023	86
+FSM	Micronesia (Federated States of)	Western Pacific	2023	86
+NAM	Namibia	Africa	2023	86
+ZMB	Zambia	Africa	2023	86
+CZE	Czechia	Europe	2023	87
+LTU	Lithuania	Europe	2023	87
+MWI	Malawi	Africa	2023	87
+WSM	Samoa	Western Pacific	2023	87
+STP	Sao Tome and Principe	Africa	2023	87
+SEN	Senegal	Africa	2023	87
+BFA	Burkina Faso	Africa	2023	88
+GHA	Ghana	Africa	2023	88
+HND	Honduras	Americas	2023	88
+MHL	Marshall Islands	Western Pacific	2023	88
+MCO	Monaco	Europe	2023	88
+PAN	Panama	Americas	2023	88
+BRB	Barbados	Americas	2023	89
+GTM	Guatemala	Americas	2023	89
+IRL	Ireland	Europe	2023	89
+NLD	Netherlands (Kingdom of the)	Europe	2023	89
+NZL	New Zealand	Western Pacific	2023	89
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2023	89
+SMR	San Marino	Europe	2023	89
+BRA	Brazil	Americas	2023	90
+HRV	Croatia	Europe	2023	90
+VCT	Saint Vincent and the Grenadines	Americas	2023	90
+SLE	Sierra Leone	Africa	2023	90
+TTO	Trinidad and Tobago	Americas	2023	90
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2023	90
+ZWE	Zimbabwe	Africa	2023	90
+AUS	Australia	Western Pacific	2023	91
+AUT	Austria	Europe	2023	91
+GRC	Greece	Europe	2023	91
+ISL	Iceland	Europe	2023	91
+UGA	Uganda	Africa	2023	91
+BGR	Bulgaria	Europe	2023	92
+CAN	Canada	Americas	2023	92
+MRT	Mauritania	Africa	2023	92
+POL	Poland	Europe	2023	92
+UKR	Ukraine	Europe	2023	92
+USA	United States of America	Americas	2023	92
+BLZ	Belize	Americas	2023	93
+COL	Colombia	Americas	2023	93
+CRI	Costa Rica	Americas	2023	93
+ERI	Eritrea	Africa	2023	93
+IND	India	South-East Asia	2023	93
+JAM	Jamaica	Americas	2023	93
+NPL	Nepal	South-East Asia	2023	93
+SYC	Seychelles	Africa	2023	93
+SWE	Sweden	Europe	2023	93
+THA	Thailand	South-East Asia	2023	93
+ATG	Antigua and Barbuda	Americas	2023	94
+CHL	Chile	Americas	2023	94
+DOM	Dominican Republic	Americas	2023	94
+FIN	Finland	Europe	2023	94
+JPN	Japan	Western Pacific	2023	94
+SVK	Slovakia	Europe	2023	94
+CPV	Cabo Verde	Africa	2023	95
+CHN	China	Western Pacific	2023	95
+DNK	Denmark	Europe	2023	95
+FRA	France	Europe	2023	95
+GEO	Georgia	Europe	2023	95
+ITA	Italy	Europe	2023	95
+JOR	Jordan	Eastern Mediterranean	2023	95
+MLT	Malta	Europe	2023	95
+NRU	Naoero	Western Pacific	2023	95
+KNA	Saint Kitts and Nevis	Americas	2023	95
+SVN	Slovenia	Europe	2023	95
+CHE	Switzerland	Europe	2023	95
+TUR	Türkiye	Europe	2023	95
+ARM	Armenia	Europe	2023	96
+BGD	Bangladesh	South-East Asia	2023	96
+BEL	Belgium	Europe	2023	96
+EGY	Egypt	Eastern Mediterranean	2023	96
+DEU	Germany	Europe	2023	96
+IRQ	Iraq	Eastern Mediterranean	2023	96
+KGZ	Kyrgyzstan	Europe	2023	96
+MYS	Malaysia	Western Pacific	2023	96
+MUS	Mauritius	Africa	2023	96
+MNG	Mongolia	Western Pacific	2023	96
+NOR	Norway	Europe	2023	96
+PLW	Palau	Western Pacific	2023	96
+RWA	Rwanda	Africa	2023	96
+ESP	Spain	Europe	2023	96
+TUN	Tunisia	Eastern Mediterranean	2023	96
+URY	Uruguay	Americas	2023	96
+BLR	Belarus	Europe	2023	97
+BWA	Botswana	Africa	2023	97
+BRN	Brunei Darussalam	Western Pacific	2023	97
+KOR	Republic of Korea	Western Pacific	2023	97
+RUS	Russian Federation	Europe	2023	97
+SAU	Saudi Arabia	Eastern Mediterranean	2023	97
+SGP	Singapore	Western Pacific	2023	97
+FJI	Fiji	Western Pacific	2023	98
+GUY	Guyana	Americas	2023	98
+ISR	Israel	Europe	2023	98
+PRT	Portugal	Europe	2023	98
+TUV	Tuvalu	Western Pacific	2023	98
+ARE	United Arab Emirates	Eastern Mediterranean	2023	98
+DZA	Algeria	Africa	2023	99
+AND	Andorra	Europe	2023	99
+BHR	Bahrain	Eastern Mediterranean	2023	99
+BTN	Bhutan	South-East Asia	2023	99
+CUB	Cuba	Americas	2023	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2023	99
+SLV	El Salvador	Americas	2023	99
+HUN	Hungary	Europe	2023	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2023	99
+KWT	Kuwait	Eastern Mediterranean	2023	99
+LVA	Latvia	Europe	2023	99
+LUX	Luxembourg	Europe	2023	99
+MDV	Maldives	South-East Asia	2023	99
+MAR	Morocco	Eastern Mediterranean	2023	99
+NIC	Nicaragua	Americas	2023	99
+NIU	Niue	Western Pacific	2023	99
+OMN	Oman	Eastern Mediterranean	2023	99
+QAT	Qatar	Eastern Mediterranean	2023	99
+LKA	Sri Lanka	South-East Asia	2023	99
+TON	Tonga	Western Pacific	2023	99
+TKM	Turkmenistan	Europe	2023	99
+UZB	Uzbekistan	Europe	2023	99
+CAF	Central African Republic	Africa	2022	32
+MNE	Montenegro	Europe	2022	33
+PNG	Papua New Guinea	Western Pacific	2022	41
+MDG	Madagascar	Africa	2022	44
+AGO	Angola	Africa	2022	50
+DJI	Djibouti	Eastern Mediterranean	2022	50
+GIN	Guinea	Africa	2022	51
+NGA	Nigeria	Africa	2022	51
+BEN	Benin	Africa	2022	52
+GAB	Gabon	Africa	2022	52
+SYR	Syrian Arab Republic	Eastern Mediterranean	2022	52
+VEN	Venezuela (Bolivarian Republic of)	Americas	2022	52
+YEM	Yemen	Eastern Mediterranean	2022	53
+TCD	Chad	Africa	2022	54
+PRY	Paraguay	Americas	2022	54
+CIV	Cote d'Ivoire	Africa	2022	56
+COD	Democratic Republic of the Congo	Africa	2022	56
+AFG	Afghanistan	Eastern Mediterranean	2022	58
+BIH	Bosnia and Herzegovina	Europe	2022	58
+GNQ	Equatorial Guinea	Africa	2022	60
+COK	Cook Islands	Western Pacific	2022	61
+MOZ	Mozambique	Africa	2022	63
+COG	Congo	Africa	2022	65
+LAO	Lao People's Democratic Republic	Western Pacific	2022	65
+NER	Niger	Africa	2022	65
+HTI	Haiti	Americas	2022	66
+ETH	Ethiopia	Africa	2022	67
+LBN	Lebanon	Eastern Mediterranean	2022	67
+CMR	Cameroon	Africa	2022	68
+BOL	Bolivia (Plurinational State of)	Americas	2022	69
+KAZ	Kazakhstan	Europe	2022	69
+MLI	Mali	Africa	2022	69
+FSM	Micronesia (Federated States of)	Western Pacific	2022	69
+SOM	Somalia	Eastern Mediterranean	2022	69
+VUT	Vanuatu	Western Pacific	2022	70
+AZE	Azerbaijan	Europe	2022	71
+COM	Comoros	Africa	2022	71
+MKD	North Macedonia	Europe	2022	71
+SSD	South Sudan	Africa	2022	72
+TLS	Timor-Leste	South-East Asia	2022	72
+LBY	Libya	Eastern Mediterranean	2022	73
+ECU	Ecuador	Americas	2022	74
+GMB	Gambia	Africa	2022	74
+PER	Peru	Americas	2022	74
+SUR	Suriname	Americas	2022	74
+UKR	Ukraine	Europe	2022	74
+MMR	Myanmar	South-East Asia	2022	75
+GRD	Grenada	Americas	2022	76
+PHL	Philippines	Western Pacific	2022	76
+DZA	Algeria	Africa	2022	79
+LBR	Liberia	Africa	2022	79
+BHS	Bahamas	Americas	2022	80
+SLV	El Salvador	Americas	2022	80
+SDN	Sudan	Eastern Mediterranean	2022	80
+TJK	Tajikistan	Europe	2022	80
+BLZ	Belize	Americas	2022	81
+BRA	Brazil	Americas	2022	81
+MHL	Marshall Islands	Western Pacific	2022	81
+LCA	Saint Lucia	Americas	2022	81
+SRB	Serbia	Europe	2022	81
+MWI	Malawi	Africa	2022	82
+PAK	Pakistan	Eastern Mediterranean	2022	82
+WSM	Samoa	Western Pacific	2022	82
+STP	Sao Tome and Principe	Africa	2022	82
+TGO	Togo	Africa	2022	82
+KHM	Cambodia	Western Pacific	2022	83
+SWZ	Eswatini	Africa	2022	83
+ROU	Romania	Europe	2022	83
+CYP	Cyprus	Europe	2022	84
+GNB	Guinea-Bissau	Africa	2022	84
+LSO	Lesotho	Africa	2022	84
+MRT	Mauritania	Africa	2022	84
+MDA	Republic of Moldova	Europe	2022	84
+TZA	United Republic of Tanzania	Africa	2022	84
+ARG	Argentina	Americas	2022	85
+BRB	Barbados	Americas	2022	85
+KEN	Kenya	Africa	2022	85
+KIR	Kiribati	Western Pacific	2022	85
+ALB	Albania	Europe	2022	86
+GTM	Guatemala	Americas	2022	86
+JOR	Jordan	Eastern Mediterranean	2022	86
+MEX	Mexico	Americas	2022	86
+ZAF	South Africa	Africa	2022	86
+DMA	Dominica	Americas	2022	87
+EST	Estonia	Europe	2022	87
+LTU	Lithuania	Europe	2022	87
+PAN	Panama	Americas	2022	87
+SEN	Senegal	Africa	2022	87
+BFA	Burkina Faso	Africa	2022	88
+COL	Colombia	Americas	2022	88
+MCO	Monaco	Europe	2022	88
+VNM	Viet Nam	Western Pacific	2022	88
+ZMB	Zambia	Africa	2022	88
+BDI	Burundi	Africa	2022	89
+HND	Honduras	Americas	2022	89
+NAM	Namibia	Africa	2022	89
+NLD	Netherlands (Kingdom of the)	Europe	2022	89
+BWA	Botswana	Africa	2022	90
+CRI	Costa Rica	Americas	2022	90
+HRV	Croatia	Europe	2022	90
+GEO	Georgia	Europe	2022	90
+IRL	Ireland	Europe	2022	90
+NPL	Nepal	South-East Asia	2022	90
+NZL	New Zealand	Western Pacific	2022	90
+SLE	Sierra Leone	Africa	2022	90
+SLB	Solomon Islands	Western Pacific	2022	90
+TUV	Tuvalu	Western Pacific	2022	90
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2022	90
+ZWE	Zimbabwe	Africa	2022	90
+BGR	Bulgaria	Europe	2022	91
+DOM	Dominican Republic	Americas	2022	91
+ISL	Iceland	Europe	2022	91
+JAM	Jamaica	Americas	2022	91
+POL	Poland	Europe	2022	91
+SMR	San Marino	Europe	2022	91
+UGA	Uganda	Africa	2022	91
+CAN	Canada	Americas	2022	92
+IDN	Indonesia	Western Pacific	2022	92
+TTO	Trinidad and Tobago	Americas	2022	92
+USA	United States of America	Americas	2022	92
+ERI	Eritrea	Africa	2022	93
+SWE	Sweden	Europe	2022	93
+THA	Thailand	South-East Asia	2022	93
+CHL	Chile	Americas	2022	94
+FIN	Finland	Europe	2022	94
+GRC	Greece	Europe	2022	94
+ITA	Italy	Europe	2022	94
+KGZ	Kyrgyzstan	Europe	2022	94
+MNG	Mongolia	Western Pacific	2022	94
+ARM	Armenia	Europe	2022	95
+AUT	Austria	Europe	2022	95
+CPV	Cabo Verde	Africa	2022	95
+DNK	Denmark	Europe	2022	95
+FRA	France	Europe	2022	95
+GHA	Ghana	Africa	2022	95
+IND	India	South-East Asia	2022	95
+KNA	Saint Kitts and Nevis	Americas	2022	95
+SVK	Slovakia	Europe	2022	95
+TUR	Türkiye	Europe	2022	95
+TUN	Tunisia	Eastern Mediterranean	2022	95
+AUS	Australia	Western Pacific	2022	96
+BGD	Bangladesh	South-East Asia	2022	96
+BEL	Belgium	Europe	2022	96
+EGY	Egypt	Eastern Mediterranean	2022	96
+DEU	Germany	Europe	2022	96
+LVA	Latvia	Europe	2022	96
+MYS	Malaysia	Western Pacific	2022	96
+MLT	Malta	Europe	2022	96
+NOR	Norway	Europe	2022	96
+PLW	Palau	Western Pacific	2022	96
+SGP	Singapore	Western Pacific	2022	96
+SVN	Slovenia	Europe	2022	96
+CHE	Switzerland	Europe	2022	96
+URY	Uruguay	Americas	2022	96
+BTN	Bhutan	South-East Asia	2022	97
+BRN	Brunei Darussalam	Western Pacific	2022	97
+CZE	Czechia	Europe	2022	97
+GUY	Guyana	Americas	2022	97
+IRQ	Iraq	Eastern Mediterranean	2022	97
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2022	97
+OMN	Oman	Eastern Mediterranean	2022	97
+KOR	Republic of Korea	Western Pacific	2022	97
+RUS	Russian Federation	Europe	2022	97
+ESP	Spain	Europe	2022	97
+AND	Andorra	Europe	2022	98
+BLR	Belarus	Europe	2022	98
+ISR	Israel	Europe	2022	98
+JPN	Japan	Western Pacific	2022	98
+MDV	Maldives	South-East Asia	2022	98
+MUS	Mauritius	Africa	2022	98
+NRU	Naoero	Western Pacific	2022	98
+PRT	Portugal	Europe	2022	98
+SAU	Saudi Arabia	Eastern Mediterranean	2022	98
+SYC	Seychelles	Africa	2022	98
+TKM	Turkmenistan	Europe	2022	98
+ARE	United Arab Emirates	Eastern Mediterranean	2022	98
+ATG	Antigua and Barbuda	Americas	2022	99
+BHR	Bahrain	Eastern Mediterranean	2022	99
+CHN	China	Western Pacific	2022	99
+CUB	Cuba	Americas	2022	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2022	99
+FJI	Fiji	Western Pacific	2022	99
+HUN	Hungary	Europe	2022	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2022	99
+KWT	Kuwait	Eastern Mediterranean	2022	99
+LUX	Luxembourg	Europe	2022	99
+MAR	Morocco	Eastern Mediterranean	2022	99
+NIC	Nicaragua	Americas	2022	99
+NIU	Niue	Western Pacific	2022	99
+QAT	Qatar	Eastern Mediterranean	2022	99
+RWA	Rwanda	Africa	2022	99
+VCT	Saint Vincent and the Grenadines	Americas	2022	99
+LKA	Sri Lanka	South-East Asia	2022	99
+TON	Tonga	Western Pacific	2022	99
+UZB	Uzbekistan	Europe	2022	99
+MNE	Montenegro	Europe	2021	18
+CAF	Central African Republic	Africa	2021	34
+PNG	Papua New Guinea	Western Pacific	2021	35
+MDG	Madagascar	Africa	2021	43
+MMR	Myanmar	South-East Asia	2021	44
+AGO	Angola	Africa	2021	48
+NGA	Nigeria	Africa	2021	48
+DJI	Djibouti	Eastern Mediterranean	2021	50
+VUT	Vanuatu	Western Pacific	2021	50
+AFG	Afghanistan	Eastern Mediterranean	2021	51
+GIN	Guinea	Africa	2021	51
+YEM	Yemen	Eastern Mediterranean	2021	51
+BEN	Benin	Africa	2021	53
+TCD	Chad	Africa	2021	53
+COD	Democratic Republic of the Congo	Africa	2021	55
+LBR	Liberia	Africa	2021	58
+SOM	Somalia	Eastern Mediterranean	2021	58
+SUR	Suriname	Americas	2021	58
+GNQ	Equatorial Guinea	Africa	2021	59
+BIH	Bosnia and Herzegovina	Europe	2021	61
+CIV	Cote d'Ivoire	Africa	2021	62
+LAO	Lao People's Democratic Republic	Western Pacific	2021	62
+MOZ	Mozambique	Africa	2021	62
+WSM	Samoa	Western Pacific	2021	62
+HTI	Haiti	Americas	2021	63
+GAB	Gabon	Africa	2021	64
+FSM	Micronesia (Federated States of)	Western Pacific	2021	64
+PHL	Philippines	Western Pacific	2021	64
+CMR	Cameroon	Africa	2021	65
+ECU	Ecuador	Americas	2021	65
+ETH	Ethiopia	Africa	2021	65
+AZE	Azerbaijan	Europe	2021	66
+LBN	Lebanon	Eastern Mediterranean	2021	67
+SLB	Solomon Islands	Western Pacific	2021	67
+COM	Comoros	Africa	2021	68
+COG	Congo	Africa	2021	68
+PRY	Paraguay	Americas	2021	68
+VEN	Venezuela (Bolivarian Republic of)	Americas	2021	68
+GRD	Grenada	Americas	2021	70
+GNB	Guinea-Bissau	Africa	2021	70
+KAZ	Kazakhstan	Europe	2021	70
+MKD	North Macedonia	Europe	2021	70
+SYR	Syrian Arab Republic	Eastern Mediterranean	2021	70
+MLI	Mali	Africa	2021	71
+IDN	Indonesia	Western Pacific	2021	72
+TLS	Timor-Leste	South-East Asia	2021	72
+BRA	Brazil	Americas	2021	73
+LBY	Libya	Eastern Mediterranean	2021	73
+COK	Cook Islands	Western Pacific	2021	74
+SSD	South Sudan	Africa	2021	74
+BOL	Bolivia (Plurinational State of)	Americas	2021	75
+MRT	Mauritania	Africa	2021	75
+SRB	Serbia	Europe	2021	75
+BRB	Barbados	Americas	2021	77
+LCA	Saint Lucia	Americas	2021	77
+STP	Sao Tome and Principe	Africa	2021	77
+PER	Peru	Americas	2021	78
+DZA	Algeria	Africa	2021	79
+BLZ	Belize	Americas	2021	79
+GMB	Gambia	Africa	2021	79
+SWZ	Eswatini	Africa	2021	80
+KIR	Kiribati	Western Pacific	2021	80
+NER	Niger	Africa	2021	80
+TJK	Tajikistan	Europe	2021	80
+TGO	Togo	Africa	2021	80
+TZA	United Republic of Tanzania	Africa	2021	80
+JOR	Jordan	Eastern Mediterranean	2021	81
+PAK	Pakistan	Eastern Mediterranean	2021	81
+SDN	Sudan	Eastern Mediterranean	2021	81
+BHS	Bahamas	Americas	2021	82
+KHM	Cambodia	Western Pacific	2021	83
+MDA	Republic of Moldova	Europe	2021	83
+IRQ	Iraq	Eastern Mediterranean	2021	84
+ATG	Antigua and Barbuda	Americas	2021	85
+MHL	Marshall Islands	Western Pacific	2021	85
+ARG	Argentina	Americas	2021	86
+COL	Colombia	Americas	2021	86
+CYP	Cyprus	Europe	2021	86
+ROU	Romania	Europe	2021	86
+ALB	Albania	Europe	2021	87
+RWA	Rwanda	Africa	2021	87
+SLE	Sierra Leone	Africa	2021	87
+ZAF	South Africa	Africa	2021	87
+BFA	Burkina Faso	Africa	2021	88
+DMA	Dominica	Americas	2021	88
+DOM	Dominican Republic	Americas	2021	88
+GTM	Guatemala	Americas	2021	88
+JAM	Jamaica	Americas	2021	88
+KEN	Kenya	Africa	2021	88
+LTU	Lithuania	Europe	2021	88
+MCO	Monaco	Europe	2021	88
+SEN	Senegal	Africa	2021	88
+ZWE	Zimbabwe	Africa	2021	88
+BGR	Bulgaria	Europe	2021	89
+CRI	Costa Rica	Americas	2021	89
+HRV	Croatia	Europe	2021	89
+EST	Estonia	Europe	2021	89
+HND	Honduras	Americas	2021	89
+IND	India	South-East Asia	2021	89
+SMR	San Marino	Europe	2021	89
+UKR	Ukraine	Europe	2021	89
+VNM	Viet Nam	Western Pacific	2021	89
+BDI	Burundi	Africa	2021	90
+CAN	Canada	Americas	2021	90
+GEO	Georgia	Europe	2021	90
+IRL	Ireland	Europe	2021	90
+LSO	Lesotho	Africa	2021	90
+MWI	Malawi	Africa	2021	90
+MLT	Malta	Europe	2021	90
+NPL	Nepal	South-East Asia	2021	90
+UGA	Uganda	Africa	2021	90
+ZMB	Zambia	Africa	2021	90
+NAM	Namibia	Africa	2021	91
+NZL	New Zealand	Western Pacific	2021	91
+POL	Poland	Europe	2021	91
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2021	91
+CHL	Chile	Americas	2021	92
+ISL	Iceland	Europe	2021	92
+PAN	Panama	Americas	2021	92
+USA	United States of America	Americas	2021	92
+AUS	Australia	Western Pacific	2021	93
+ERI	Eritrea	Africa	2021	93
+FIN	Finland	Europe	2021	93
+KGZ	Kyrgyzstan	Europe	2021	93
+NLD	Netherlands (Kingdom of the)	Europe	2021	93
+PLW	Palau	Western Pacific	2021	93
+THA	Thailand	South-East Asia	2021	93
+TTO	Trinidad and Tobago	Americas	2021	93
+TUV	Tuvalu	Western Pacific	2021	93
+URY	Uruguay	Americas	2021	93
+ARM	Armenia	Europe	2021	94
+FRA	France	Europe	2021	94
+GHA	Ghana	Africa	2021	94
+ITA	Italy	Europe	2021	94
+KWT	Kuwait	Eastern Mediterranean	2021	94
+SYC	Seychelles	Africa	2021	94
+AUT	Austria	Europe	2021	95
+CPV	Cabo Verde	Africa	2021	95
+DNK	Denmark	Europe	2021	95
+GUY	Guyana	Americas	2021	95
+JPN	Japan	Western Pacific	2021	95
+MNG	Mongolia	Western Pacific	2021	95
+SVK	Slovakia	Europe	2021	95
+SVN	Slovenia	Europe	2021	95
+ESP	Spain	Europe	2021	95
+CHE	Switzerland	Europe	2021	95
+TUN	Tunisia	Eastern Mediterranean	2021	95
+BEL	Belgium	Europe	2021	96
+EGY	Egypt	Eastern Mediterranean	2021	96
+MYS	Malaysia	Western Pacific	2021	96
+KNA	Saint Kitts and Nevis	Americas	2021	96
+VCT	Saint Vincent and the Grenadines	Americas	2021	96
+SGP	Singapore	Western Pacific	2021	96
+TUR	Türkiye	Europe	2021	96
+BGD	Bangladesh	South-East Asia	2021	97
+BTN	Bhutan	South-East Asia	2021	97
+BWA	Botswana	Africa	2021	97
+CZE	Czechia	Europe	2021	97
+SLV	El Salvador	Americas	2021	97
+GRC	Greece	Europe	2021	97
+LVA	Latvia	Europe	2021	97
+MDV	Maldives	South-East Asia	2021	97
+MUS	Mauritius	Africa	2021	97
+NOR	Norway	Europe	2021	97
+RUS	Russian Federation	Europe	2021	97
+LKA	Sri Lanka	South-East Asia	2021	97
+SWE	Sweden	Europe	2021	97
+TKM	Turkmenistan	Europe	2021	97
+BLR	Belarus	Europe	2021	98
+FJI	Fiji	Western Pacific	2021	98
+DEU	Germany	Europe	2021	98
+NRU	Naoero	Western Pacific	2021	98
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2021	98
+PRT	Portugal	Europe	2021	98
+KOR	Republic of Korea	Western Pacific	2021	98
+SAU	Saudi Arabia	Eastern Mediterranean	2021	98
+AND	Andorra	Europe	2021	99
+BHR	Bahrain	Eastern Mediterranean	2021	99
+BRN	Brunei Darussalam	Western Pacific	2021	99
+CHN	China	Western Pacific	2021	99
+CUB	Cuba	Americas	2021	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2021	99
+HUN	Hungary	Europe	2021	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2021	99
+ISR	Israel	Europe	2021	99
+LUX	Luxembourg	Europe	2021	99
+MEX	Mexico	Americas	2021	99
+MAR	Morocco	Eastern Mediterranean	2021	99
+NIC	Nicaragua	Americas	2021	99
+NIU	Niue	Western Pacific	2021	99
+OMN	Oman	Eastern Mediterranean	2021	99
+QAT	Qatar	Eastern Mediterranean	2021	99
+TON	Tonga	Western Pacific	2021	99
+ARE	United Arab Emirates	Eastern Mediterranean	2021	99
+UZB	Uzbekistan	Europe	2021	99
+MNE	Montenegro	Europe	2020	24
+CAF	Central African Republic	Africa	2020	36
+PNG	Papua New Guinea	Western Pacific	2020	44
+TCD	Chad	Africa	2020	45
+SUR	Suriname	Americas	2020	45
+GIN	Guinea	Africa	2020	50
+SOM	Somalia	Eastern Mediterranean	2020	52
+GAB	Gabon	Africa	2020	53
+YEM	Yemen	Eastern Mediterranean	2020	53
+AGO	Angola	Africa	2020	54
+BEN	Benin	Africa	2020	54
+MDG	Madagascar	Africa	2020	55
+AFG	Afghanistan	Eastern Mediterranean	2020	57
+GNQ	Equatorial Guinea	Africa	2020	58
+NGA	Nigeria	Africa	2020	60
+AZE	Azerbaijan	Europe	2020	61
+LBR	Liberia	Africa	2020	61
+COD	Democratic Republic of the Congo	Africa	2020	62
+DJI	Djibouti	Eastern Mediterranean	2020	62
+MLI	Mali	Africa	2020	62
+CIV	Cote d'Ivoire	Africa	2020	63
+CMR	Cameroon	Africa	2020	63
+LAO	Lao People's Democratic Republic	Western Pacific	2020	63
+MKD	North Macedonia	Europe	2020	63
+WSM	Samoa	Western Pacific	2020	66
+ETH	Ethiopia	Africa	2020	67
+COG	Congo	Africa	2020	68
+SSD	South Sudan	Africa	2020	69
+BIH	Bosnia and Herzegovina	Europe	2020	70
+KAZ	Kazakhstan	Europe	2020	70
+SYR	Syrian Arab Republic	Eastern Mediterranean	2020	70
+LBY	Libya	Eastern Mediterranean	2020	73
+MOZ	Mozambique	Africa	2020	73
+BOL	Bolivia (Plurinational State of)	Americas	2020	74
+HTI	Haiti	Americas	2020	74
+LBN	Lebanon	Eastern Mediterranean	2020	74
+TLS	Timor-Leste	South-East Asia	2020	74
+COM	Comoros	Africa	2020	75
+SWZ	Eswatini	Africa	2020	76
+IDN	Indonesia	Western Pacific	2020	76
+JOR	Jordan	Eastern Mediterranean	2020	76
+TGO	Togo	Africa	2020	76
+VEN	Venezuela (Bolivarian Republic of)	Americas	2020	76
+ARG	Argentina	Americas	2020	77
+PER	Peru	Americas	2020	77
+GNB	Guinea-Bissau	Africa	2020	78
+SRB	Serbia	Europe	2020	78
+VUT	Vanuatu	Western Pacific	2020	78
+BRA	Brazil	Americas	2020	79
+FSM	Micronesia (Federated States of)	Western Pacific	2020	79
+NER	Niger	Africa	2020	79
+PHL	Philippines	Western Pacific	2020	79
+DZA	Algeria	Africa	2020	80
+PAN	Panama	Americas	2020	80
+PRY	Paraguay	Americas	2020	80
+ECU	Ecuador	Americas	2020	81
+SLB	Solomon Islands	Western Pacific	2020	81
+BLZ	Belize	Americas	2020	82
+DOM	Dominican Republic	Americas	2020	82
+GMB	Gambia	Africa	2020	82
+KIR	Kiribati	Western Pacific	2020	82
+MRT	Mauritania	Africa	2020	82
+SEN	Senegal	Africa	2020	82
+TJK	Tajikistan	Europe	2020	82
+KHM	Cambodia	Western Pacific	2020	83
+GRD	Grenada	Americas	2020	83
+PAK	Pakistan	Eastern Mediterranean	2020	83
+SLV	El Salvador	Americas	2020	84
+MDA	Republic of Moldova	Europe	2020	84
+ZAF	South Africa	Africa	2020	84
+UKR	Ukraine	Europe	2020	85
+ZWE	Zimbabwe	Africa	2020	85
+CYP	Cyprus	Europe	2020	86
+STP	Sao Tome and Principe	Africa	2020	86
+SDN	Sudan	Eastern Mediterranean	2020	86
+BHS	Bahamas	Americas	2020	87
+BWA	Botswana	Africa	2020	87
+COK	Cook Islands	Western Pacific	2020	87
+NPL	Nepal	South-East Asia	2020	87
+ROU	Romania	Europe	2020	87
+SLE	Sierra Leone	Africa	2020	87
+TZA	United Republic of Tanzania	Africa	2020	87
+BGR	Bulgaria	Europe	2020	88
+BFA	Burkina Faso	Africa	2020	88
+GHA	Ghana	Africa	2020	88
+MCO	Monaco	Europe	2020	88
+ATG	Antigua and Barbuda	Americas	2020	89
+BRB	Barbados	Americas	2020	89
+GTM	Guatemala	Americas	2020	89
+IND	India	South-East Asia	2020	89
+KEN	Kenya	Africa	2020	89
+MHL	Marshall Islands	Western Pacific	2020	89
+LCA	Saint Lucia	Americas	2020	89
+UGA	Uganda	Africa	2020	89
+BDI	Burundi	Africa	2020	90
+CAN	Canada	Americas	2020	90
+COL	Colombia	Americas	2020	90
+HND	Honduras	Americas	2020	90
+LSO	Lesotho	Africa	2020	90
+LTU	Lithuania	Europe	2020	90
+MWI	Malawi	Africa	2020	90
+NAM	Namibia	Africa	2020	90
+QAT	Qatar	Eastern Mediterranean	2020	90
+SMR	San Marino	Europe	2020	90
+ALB	Albania	Europe	2020	91
+CHL	Chile	Americas	2020	91
+HRV	Croatia	Europe	2020	91
+EST	Estonia	Europe	2020	91
+GEO	Georgia	Europe	2020	91
+MMR	Myanmar	South-East Asia	2020	91
+NZL	New Zealand	Western Pacific	2020	91
+TTO	Trinidad and Tobago	Americas	2020	91
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2020	91
+USA	United States of America	Americas	2020	91
+DMA	Dominica	Americas	2020	92
+FJI	Fiji	Western Pacific	2020	92
+IRL	Ireland	Europe	2020	92
+ITA	Italy	Europe	2020	92
+KGZ	Kyrgyzstan	Europe	2020	92
+MEX	Mexico	Americas	2020	92
+POL	Poland	Europe	2020	92
+AUS	Australia	Western Pacific	2020	93
+BTN	Bhutan	South-East Asia	2020	93
+ERI	Eritrea	Africa	2020	93
+ISL	Iceland	Europe	2020	93
+IRQ	Iraq	Eastern Mediterranean	2020	93
+JAM	Jamaica	Americas	2020	93
+PLW	Palau	Western Pacific	2020	93
+TUV	Tuvalu	Western Pacific	2020	93
+ARM	Armenia	Europe	2020	94
+AUT	Austria	Europe	2020	94
+CZE	Czechia	Europe	2020	94
+DNK	Denmark	Europe	2020	94
+EGY	Egypt	Eastern Mediterranean	2020	94
+FRA	France	Europe	2020	94
+NLD	Netherlands (Kingdom of the)	Europe	2020	94
+RWA	Rwanda	Africa	2020	94
+SVN	Slovenia	Europe	2020	94
+CPV	Cabo Verde	Africa	2020	95
+CRI	Costa Rica	Americas	2020	95
+FIN	Finland	Europe	2020	95
+KWT	Kuwait	Eastern Mediterranean	2020	95
+MYS	Malaysia	Western Pacific	2020	95
+MLT	Malta	Europe	2020	95
+KNA	Saint Kitts and Nevis	Americas	2020	95
+TUR	Türkiye	Europe	2020	95
+URY	Uruguay	Americas	2020	95
+BEL	Belgium	Europe	2020	96
+SAU	Saudi Arabia	Eastern Mediterranean	2020	96
+SVK	Slovakia	Europe	2020	96
+ESP	Spain	Europe	2020	96
+LKA	Sri Lanka	South-East Asia	2020	96
+THA	Thailand	South-East Asia	2020	96
+ZMB	Zambia	Africa	2020	96
+BGD	Bangladesh	South-East Asia	2020	97
+BLR	Belarus	Europe	2020	97
+DEU	Germany	Europe	2020	97
+GRC	Greece	Europe	2020	97
+MNG	Mongolia	Western Pacific	2020	97
+NOR	Norway	Europe	2020	97
+RUS	Russian Federation	Europe	2020	97
+SYC	Seychelles	Africa	2020	97
+SGP	Singapore	Western Pacific	2020	97
+SWE	Sweden	Europe	2020	97
+CHE	Switzerland	Europe	2020	97
+VNM	Viet Nam	Western Pacific	2020	97
+AND	Andorra	Europe	2020	98
+CUB	Cuba	Americas	2020	98
+GUY	Guyana	Americas	2020	98
+JPN	Japan	Western Pacific	2020	98
+MDV	Maldives	South-East Asia	2020	98
+MUS	Mauritius	Africa	2020	98
+NRU	Naoero	Western Pacific	2020	98
+KOR	Republic of Korea	Western Pacific	2020	98
+TUN	Tunisia	Eastern Mediterranean	2020	98
+TKM	Turkmenistan	Europe	2020	98
+BHR	Bahrain	Eastern Mediterranean	2020	99
+BRN	Brunei Darussalam	Western Pacific	2020	99
+CHN	China	Western Pacific	2020	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2020	99
+HUN	Hungary	Europe	2020	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2020	99
+ISR	Israel	Europe	2020	99
+LVA	Latvia	Europe	2020	99
+LUX	Luxembourg	Europe	2020	99
+MAR	Morocco	Eastern Mediterranean	2020	99
+NIC	Nicaragua	Americas	2020	99
+NIU	Niue	Western Pacific	2020	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2020	99
+OMN	Oman	Eastern Mediterranean	2020	99
+PRT	Portugal	Europe	2020	99
+VCT	Saint Vincent and the Grenadines	Americas	2020	99
+TON	Tonga	Western Pacific	2020	99
+ARE	United Arab Emirates	Eastern Mediterranean	2020	99
+UZB	Uzbekistan	Europe	2020	99
+CAF	Central African Republic	Africa	2019	37
+MNE	Montenegro	Europe	2019	37
+PNG	Papua New Guinea	Western Pacific	2019	37
+TCD	Chad	Africa	2019	40
+GIN	Guinea	Africa	2019	50
+SOM	Somalia	Eastern Mediterranean	2019	52
+YEM	Yemen	Eastern Mediterranean	2019	54
+AFG	Afghanistan	Eastern Mediterranean	2019	57
+GNQ	Equatorial Guinea	Africa	2019	57
+BEN	Benin	Africa	2019	58
+NGA	Nigeria	Africa	2019	58
+AGO	Angola	Africa	2019	59
+MDG	Madagascar	Africa	2019	60
+CMR	Cameroon	Africa	2019	61
+GAB	Gabon	Africa	2019	62
+SUR	Suriname	Americas	2019	64
+COD	Democratic Republic of the Congo	Africa	2019	65
+ETH	Ethiopia	Africa	2019	65
+SSD	South Sudan	Africa	2019	65
+LBR	Liberia	Africa	2019	68
+LAO	Lao People's Democratic Republic	Western Pacific	2019	70
+MLI	Mali	Africa	2019	71
+CIV	Cote d'Ivoire	Africa	2019	72
+COG	Congo	Africa	2019	73
+LBY	Libya	Eastern Mediterranean	2019	73
+MEX	Mexico	Americas	2019	73
+HTI	Haiti	Americas	2019	74
+MRT	Mauritania	Africa	2019	75
+MKD	North Macedonia	Europe	2019	75
+TLS	Timor-Leste	South-East Asia	2019	75
+COM	Comoros	Africa	2019	76
+SYR	Syrian Arab Republic	Eastern Mediterranean	2019	76
+AZE	Azerbaijan	Europe	2019	78
+FSM	Micronesia (Federated States of)	Western Pacific	2019	78
+BOL	Bolivia (Plurinational State of)	Americas	2019	79
+BIH	Bosnia and Herzegovina	Europe	2019	79
+KAZ	Kazakhstan	Europe	2019	79
+NER	Niger	Africa	2019	79
+DZA	Algeria	Africa	2019	80
+NAM	Namibia	Africa	2019	80
+VUT	Vanuatu	Western Pacific	2019	80
+SWZ	Eswatini	Africa	2019	81
+PAK	Pakistan	Eastern Mediterranean	2019	81
+SLB	Solomon Islands	Western Pacific	2019	81
+TGO	Togo	Africa	2019	81
+LBN	Lebanon	Eastern Mediterranean	2019	82
+BHS	Bahamas	Americas	2019	83
+DJI	Djibouti	Eastern Mediterranean	2019	83
+ECU	Ecuador	Americas	2019	83
+GNB	Guinea-Bissau	Africa	2019	83
+MOZ	Mozambique	Africa	2019	83
+PHL	Philippines	Western Pacific	2019	83
+ZAF	South Africa	Africa	2019	83
+TJK	Tajikistan	Europe	2019	83
+MMR	Myanmar	South-East Asia	2019	84
+GMB	Gambia	Africa	2019	85
+MHL	Marshall Islands	Western Pacific	2019	85
+PER	Peru	Americas	2019	85
+ZWE	Zimbabwe	Africa	2019	85
+ARG	Argentina	Americas	2019	86
+CYP	Cyprus	Europe	2019	86
+IRQ	Iraq	Eastern Mediterranean	2019	86
+SMR	San Marino	Europe	2019	86
+SEN	Senegal	Africa	2019	86
+KHM	Cambodia	Western Pacific	2019	87
+JOR	Jordan	Eastern Mediterranean	2019	87
+PRY	Paraguay	Americas	2019	87
+SRB	Serbia	Europe	2019	87
+UGA	Uganda	Africa	2019	87
+BFA	Burkina Faso	Africa	2019	88
+EST	Estonia	Europe	2019	88
+IDN	Indonesia	Western Pacific	2019	88
+MCO	Monaco	Europe	2019	88
+TZA	United Republic of Tanzania	Africa	2019	89
+CAN	Canada	Americas	2019	90
+GTM	Guatemala	Americas	2019	90
+HND	Honduras	Americas	2019	90
+LSO	Lesotho	Africa	2019	90
+ROU	Romania	Europe	2019	90
+SDN	Sudan	Eastern Mediterranean	2019	90
+USA	United States of America	Americas	2019	90
+BRA	Brazil	Americas	2019	91
+IRL	Ireland	Europe	2019	91
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2019	91
+BRB	Barbados	Americas	2019	92
+BDI	Burundi	Africa	2019	92
+CZE	Czechia	Europe	2019	92
+DMA	Dominica	Americas	2019	92
+FRA	France	Europe	2019	92
+GHA	Ghana	Africa	2019	92
+KEN	Kenya	Africa	2019	92
+MWI	Malawi	Africa	2019	92
+NPL	Nepal	South-East Asia	2019	92
+NZL	New Zealand	Western Pacific	2019	92
+HRV	Croatia	Europe	2019	93
+ERI	Eritrea	Africa	2019	93
+ISL	Iceland	Europe	2019	93
+LTU	Lithuania	Europe	2019	93
+POL	Poland	Europe	2019	93
+SLE	Sierra Leone	Africa	2019	93
+UKR	Ukraine	Europe	2019	93
+VEN	Venezuela (Bolivarian Republic of)	Americas	2019	93
+ZMB	Zambia	Africa	2019	93
+AUS	Australia	Western Pacific	2019	94
+FJI	Fiji	Western Pacific	2019	94
+GRD	Grenada	Americas	2019	94
+ITA	Italy	Europe	2019	94
+JAM	Jamaica	Americas	2019	94
+KIR	Kiribati	Western Pacific	2019	94
+NLD	Netherlands (Kingdom of the)	Europe	2019	94
+SVN	Slovenia	Europe	2019	94
+ALB	Albania	Europe	2019	95
+ARM	Armenia	Europe	2019	95
+AUT	Austria	Europe	2019	95
+BGR	Bulgaria	Europe	2019	95
+CHL	Chile	Americas	2019	95
+COL	Colombia	Americas	2019	95
+CRI	Costa Rica	Americas	2019	95
+EGY	Egypt	Eastern Mediterranean	2019	95
+IND	India	South-East Asia	2019	95
+NRU	Naoero	Western Pacific	2019	95
+STP	Sao Tome and Principe	Africa	2019	95
+SAU	Saudi Arabia	Eastern Mediterranean	2019	95
+CHE	Switzerland	Europe	2019	95
+VNM	Viet Nam	Western Pacific	2019	95
+BEL	Belgium	Europe	2019	96
+BLZ	Belize	Americas	2019	96
+DNK	Denmark	Europe	2019	96
+DOM	Dominican Republic	Americas	2019	96
+SLV	El Salvador	Americas	2019	96
+FIN	Finland	Europe	2019	96
+JPN	Japan	Western Pacific	2019	96
+KGZ	Kyrgyzstan	Europe	2019	96
+LUX	Luxembourg	Europe	2019	96
+MLT	Malta	Europe	2019	96
+RWA	Rwanda	Africa	2019	96
+LCA	Saint Lucia	Americas	2019	96
+WSM	Samoa	Western Pacific	2019	96
+SGP	Singapore	Western Pacific	2019	96
+SVK	Slovakia	Europe	2019	96
+THA	Thailand	South-East Asia	2019	96
+TUV	Tuvalu	Western Pacific	2019	96
+URY	Uruguay	Americas	2019	96
+ATG	Antigua and Barbuda	Americas	2019	97
+BGD	Bangladesh	South-East Asia	2019	97
+BTN	Bhutan	South-East Asia	2019	97
+BWA	Botswana	Africa	2019	97
+BRN	Brunei Darussalam	Western Pacific	2019	97
+DEU	Germany	Europe	2019	97
+GRC	Greece	Europe	2019	97
+KWT	Kuwait	Eastern Mediterranean	2019	97
+MYS	Malaysia	Western Pacific	2019	97
+NOR	Norway	Europe	2019	97
+PLW	Palau	Western Pacific	2019	97
+PAN	Panama	Americas	2019	97
+MDA	Republic of Moldova	Europe	2019	97
+KNA	Saint Kitts and Nevis	Americas	2019	97
+SWE	Sweden	Europe	2019	97
+TUR	Türkiye	Europe	2019	97
+BLR	Belarus	Europe	2019	98
+CPV	Cabo Verde	Africa	2019	98
+GUY	Guyana	Americas	2019	98
+MNG	Mongolia	Western Pacific	2019	98
+KOR	Republic of Korea	Western Pacific	2019	98
+RUS	Russian Federation	Europe	2019	98
+ESP	Spain	Europe	2019	98
+TUN	Tunisia	Eastern Mediterranean	2019	98
+UZB	Uzbekistan	Europe	2019	98
+AND	Andorra	Europe	2019	99
+BHR	Bahrain	Eastern Mediterranean	2019	99
+CHN	China	Western Pacific	2019	99
+COK	Cook Islands	Western Pacific	2019	99
+CUB	Cuba	Americas	2019	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2019	99
+GEO	Georgia	Europe	2019	99
+HUN	Hungary	Europe	2019	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2019	99
+ISR	Israel	Europe	2019	99
+LVA	Latvia	Europe	2019	99
+MDV	Maldives	South-East Asia	2019	99
+MUS	Mauritius	Africa	2019	99
+MAR	Morocco	Eastern Mediterranean	2019	99
+NIC	Nicaragua	Americas	2019	99
+NIU	Niue	Western Pacific	2019	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2019	99
+OMN	Oman	Eastern Mediterranean	2019	99
+PRT	Portugal	Europe	2019	99
+QAT	Qatar	Eastern Mediterranean	2019	99
+VCT	Saint Vincent and the Grenadines	Americas	2019	99
+SYC	Seychelles	Africa	2019	99
+LKA	Sri Lanka	South-East Asia	2019	99
+TON	Tonga	Western Pacific	2019	99
+TTO	Trinidad and Tobago	Americas	2019	99
+TKM	Turkmenistan	Europe	2019	99
+ARE	United Arab Emirates	Eastern Mediterranean	2019	99
+PNG	Papua New Guinea	Western Pacific	2018	37
+CAF	Central African Republic	Africa	2018	39
+WSM	Samoa	Western Pacific	2018	40
+TCD	Chad	Africa	2018	41
+MNE	Montenegro	Europe	2018	42
+GIN	Guinea	Africa	2018	49
+SOM	Somalia	Eastern Mediterranean	2018	53
+YEM	Yemen	Eastern Mediterranean	2018	53
+GNQ	Equatorial Guinea	Africa	2018	55
+AGO	Angola	Africa	2018	56
+NGA	Nigeria	Africa	2018	56
+GAB	Gabon	Africa	2018	59
+BEN	Benin	Africa	2018	61
+CMR	Cameroon	Africa	2018	61
+SSD	South Sudan	Africa	2018	61
+ETH	Ethiopia	Africa	2018	62
+COD	Democratic Republic of the Congo	Africa	2018	64
+AFG	Afghanistan	Eastern Mediterranean	2018	66
+BIH	Bosnia and Herzegovina	Europe	2018	68
+MDG	Madagascar	Africa	2018	68
+HTI	Haiti	Americas	2018	70
+MLI	Mali	Africa	2018	70
+CIV	Cote d'Ivoire	Africa	2018	73
+LBY	Libya	Eastern Mediterranean	2018	73
+FSM	Micronesia (Federated States of)	Western Pacific	2018	73
+COM	Comoros	Africa	2018	74
+LBR	Liberia	Africa	2018	74
+SYR	Syrian Arab Republic	Eastern Mediterranean	2018	74
+VEN	Venezuela (Bolivarian Republic of)	Americas	2018	74
+COG	Congo	Africa	2018	75
+LAO	Lao People's Democratic Republic	Western Pacific	2018	75
+MKD	North Macedonia	Europe	2018	75
+TGO	Togo	Africa	2018	75
+VUT	Vanuatu	Western Pacific	2018	75
+AZE	Azerbaijan	Europe	2018	77
+NER	Niger	Africa	2018	77
+SUR	Suriname	Americas	2018	77
+TLS	Timor-Leste	South-East Asia	2018	77
+MRT	Mauritania	Africa	2018	78
+PAK	Pakistan	Eastern Mediterranean	2018	79
+DZA	Algeria	Africa	2018	80
+GNB	Guinea-Bissau	Africa	2018	81
+ZAF	South Africa	Africa	2018	81
+LBN	Lebanon	Eastern Mediterranean	2018	82
+NAM	Namibia	Africa	2018	82
+PHL	Philippines	Western Pacific	2018	82
+ECU	Ecuador	Americas	2018	83
+KAZ	Kazakhstan	Europe	2018	83
+MHL	Marshall Islands	Western Pacific	2018	83
+MOZ	Mozambique	Africa	2018	83
+DMA	Dominica	Americas	2018	84
+GRD	Grenada	Americas	2018	84
+KIR	Kiribati	Western Pacific	2018	84
+BRB	Barbados	Americas	2018	85
+SWZ	Eswatini	Africa	2018	85
+TJK	Tajikistan	Europe	2018	85
+KHM	Cambodia	Western Pacific	2018	86
+DJI	Djibouti	Eastern Mediterranean	2018	86
+PER	Peru	Americas	2018	86
+LCA	Saint Lucia	Americas	2018	86
+SEN	Senegal	Africa	2018	86
+UGA	Uganda	Africa	2018	86
+SLV	El Salvador	Americas	2018	87
+EST	Estonia	Europe	2018	87
+MWI	Malawi	Africa	2018	87
+SLE	Sierra Leone	Africa	2018	87
+BFA	Burkina Faso	Africa	2018	88
+BDI	Burundi	Africa	2018	88
+IRQ	Iraq	Eastern Mediterranean	2018	88
+MCO	Monaco	Europe	2018	88
+SDN	Sudan	Eastern Mediterranean	2018	88
+TUV	Tuvalu	Western Pacific	2018	88
+TZA	United Republic of Tanzania	Africa	2018	88
+ZWE	Zimbabwe	Africa	2018	88
+BHS	Bahamas	Americas	2018	89
+BOL	Bolivia (Plurinational State of)	Americas	2018	89
+GTM	Guatemala	Americas	2018	89
+IDN	Indonesia	Western Pacific	2018	89
+JAM	Jamaica	Americas	2018	89
+LSO	Lesotho	Africa	2018	89
+SMR	San Marino	Europe	2018	89
+CAN	Canada	Americas	2018	90
+CYP	Cyprus	Europe	2018	90
+PLW	Palau	Western Pacific	2018	90
+ROU	Romania	Europe	2018	90
+TTO	Trinidad and Tobago	Americas	2018	90
+DOM	Dominican Republic	Americas	2018	91
+FRA	France	Europe	2018	91
+GMB	Gambia	Africa	2018	91
+HND	Honduras	Americas	2018	91
+NPL	Nepal	South-East Asia	2018	91
+UKR	Ukraine	Europe	2018	91
+BRA	Brazil	Americas	2018	92
+GHA	Ghana	Africa	2018	92
+IRL	Ireland	Europe	2018	92
+JOR	Jordan	Eastern Mediterranean	2018	92
+KEN	Kenya	Africa	2018	92
+LTU	Lithuania	Europe	2018	92
+NZL	New Zealand	Western Pacific	2018	92
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2018	92
+USA	United States of America	Americas	2018	92
+AUT	Austria	Europe	2018	93
+BGR	Bulgaria	Europe	2018	93
+CHL	Chile	Americas	2018	93
+HRV	Croatia	Europe	2018	93
+ERI	Eritrea	Africa	2018	93
+ISL	Iceland	Europe	2018	93
+IND	India	South-East Asia	2018	93
+ITA	Italy	Europe	2018	93
+MMR	Myanmar	South-East Asia	2018	93
+NLD	Netherlands (Kingdom of the)	Europe	2018	93
+PRY	Paraguay	Americas	2018	93
+POL	Poland	Europe	2018	93
+MDA	Republic of Moldova	Europe	2018	93
+SRB	Serbia	Europe	2018	93
+SVN	Slovenia	Europe	2018	93
+SLB	Solomon Islands	Western Pacific	2018	93
+ALB	Albania	Europe	2018	94
+ARG	Argentina	Americas	2018	94
+AUS	Australia	Western Pacific	2018	94
+CRI	Costa Rica	Americas	2018	94
+EGY	Egypt	Eastern Mediterranean	2018	94
+ZMB	Zambia	Africa	2018	94
+ARM	Armenia	Europe	2018	95
+COL	Colombia	Americas	2018	95
+DNK	Denmark	Europe	2018	95
+FJI	Fiji	Western Pacific	2018	95
+STP	Sao Tome and Principe	Africa	2018	95
+CHE	Switzerland	Europe	2018	95
+ATG	Antigua and Barbuda	Americas	2018	96
+BEL	Belgium	Europe	2018	96
+CZE	Czechia	Europe	2018	96
+FIN	Finland	Europe	2018	96
+KGZ	Kyrgyzstan	Europe	2018	96
+MLT	Malta	Europe	2018	96
+NOR	Norway	Europe	2018	96
+KNA	Saint Kitts and Nevis	Americas	2018	96
+SYC	Seychelles	Africa	2018	96
+SVK	Slovakia	Europe	2018	96
+TUR	Türkiye	Europe	2018	96
+THA	Thailand	South-East Asia	2018	96
+TUN	Tunisia	Eastern Mediterranean	2018	96
+UZB	Uzbekistan	Europe	2018	96
+BGD	Bangladesh	South-East Asia	2018	97
+BLZ	Belize	Americas	2018	97
+BTN	Bhutan	South-East Asia	2018	97
+BWA	Botswana	Africa	2018	97
+DEU	Germany	Europe	2018	97
+GRC	Greece	Europe	2018	97
+JPN	Japan	Western Pacific	2018	97
+MEX	Mexico	Americas	2018	97
+SGP	Singapore	Western Pacific	2018	97
+SWE	Sweden	Europe	2018	97
+URY	Uruguay	Americas	2018	97
+VNM	Viet Nam	Western Pacific	2018	97
+BLR	Belarus	Europe	2018	98
+PRK	Democratic People's Republic of Korea	South-East Asia	2018	98
+GEO	Georgia	Europe	2018	98
+GUY	Guyana	Americas	2018	98
+ISR	Israel	Europe	2018	98
+KWT	Kuwait	Eastern Mediterranean	2018	98
+LVA	Latvia	Europe	2018	98
+MYS	Malaysia	Western Pacific	2018	98
+PAN	Panama	Americas	2018	98
+KOR	Republic of Korea	Western Pacific	2018	98
+RUS	Russian Federation	Europe	2018	98
+SAU	Saudi Arabia	Eastern Mediterranean	2018	98
+ESP	Spain	Europe	2018	98
+AND	Andorra	Europe	2018	99
+BHR	Bahrain	Eastern Mediterranean	2018	99
+BRN	Brunei Darussalam	Western Pacific	2018	99
+CPV	Cabo Verde	Africa	2018	99
+CHN	China	Western Pacific	2018	99
+COK	Cook Islands	Western Pacific	2018	99
+CUB	Cuba	Americas	2018	99
+HUN	Hungary	Europe	2018	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2018	99
+LUX	Luxembourg	Europe	2018	99
+MDV	Maldives	South-East Asia	2018	99
+MUS	Mauritius	Africa	2018	99
+MNG	Mongolia	Western Pacific	2018	99
+MAR	Morocco	Eastern Mediterranean	2018	99
+NRU	Naoero	Western Pacific	2018	99
+NIC	Nicaragua	Americas	2018	99
+NIU	Niue	Western Pacific	2018	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2018	99
+OMN	Oman	Eastern Mediterranean	2018	99
+PRT	Portugal	Europe	2018	99
+QAT	Qatar	Eastern Mediterranean	2018	99
+RWA	Rwanda	Africa	2018	99
+VCT	Saint Vincent and the Grenadines	Americas	2018	99
+LKA	Sri Lanka	South-East Asia	2018	99
+TON	Tonga	Western Pacific	2018	99
+TKM	Turkmenistan	Europe	2018	99
+ARE	United Arab Emirates	Eastern Mediterranean	2018	99
+TCD	Chad	Africa	2017	37
+CAF	Central African Republic	Africa	2017	41
+PNG	Papua New Guinea	Western Pacific	2017	41
+AGO	Angola	Africa	2017	47
+GIN	Guinea	Africa	2017	48
+SOM	Somalia	Eastern Mediterranean	2017	52
+GNQ	Equatorial Guinea	Africa	2017	54
+NGA	Nigeria	Africa	2017	54
+MDG	Madagascar	Africa	2017	55
+SSD	South Sudan	Africa	2017	56
+YEM	Yemen	Eastern Mediterranean	2017	56
+MNE	Montenegro	Europe	2017	58
+ETH	Ethiopia	Africa	2017	59
+GAB	Gabon	Africa	2017	63
+AFG	Afghanistan	Eastern Mediterranean	2017	64
+BEN	Benin	Africa	2017	65
+COD	Democratic Republic of the Congo	Africa	2017	65
+HTI	Haiti	Americas	2017	65
+GNB	Guinea-Bissau	Africa	2017	66
+CMR	Cameroon	Africa	2017	67
+WSM	Samoa	Western Pacific	2017	67
+BIH	Bosnia and Herzegovina	Europe	2017	69
+CIV	Cote d'Ivoire	Africa	2017	70
+COG	Congo	Africa	2017	70
+MLI	Mali	Africa	2017	70
+COM	Comoros	Africa	2017	75
+LBR	Liberia	Africa	2017	75
+MRT	Mauritania	Africa	2017	75
+MEX	Mexico	Americas	2017	76
+FSM	Micronesia (Federated States of)	Western Pacific	2017	76
+PAK	Pakistan	Eastern Mediterranean	2017	76
+SUR	Suriname	Americas	2017	76
+DMA	Dominica	Americas	2017	77
+TLS	Timor-Leste	South-East Asia	2017	77
+LAO	Lao People's Democratic Republic	Western Pacific	2017	78
+SYR	Syrian Arab Republic	Eastern Mediterranean	2017	78
+TGO	Togo	Africa	2017	79
+AZE	Azerbaijan	Europe	2017	80
+NAM	Namibia	Africa	2017	80
+SLE	Sierra Leone	Africa	2017	80
+VUT	Vanuatu	Western Pacific	2017	80
+DJI	Djibouti	Eastern Mediterranean	2017	81
+ECU	Ecuador	Americas	2017	81
+KIR	Kiribati	Western Pacific	2017	81
+PHL	Philippines	Western Pacific	2017	81
+ZAF	South Africa	Africa	2017	81
+IRQ	Iraq	Eastern Mediterranean	2017	82
+LBN	Lebanon	Eastern Mediterranean	2017	82
+NER	Niger	Africa	2017	82
+BOL	Bolivia (Plurinational State of)	Americas	2017	83
+MWI	Malawi	Africa	2017	83
+MHL	Marshall Islands	Western Pacific	2017	83
+MOZ	Mozambique	Africa	2017	83
+MMR	Myanmar	South-East Asia	2017	83
+MKD	North Macedonia	Europe	2017	83
+UGA	Uganda	Africa	2017	83
+KEN	Kenya	Africa	2017	84
+SLB	Solomon Islands	Western Pacific	2017	84
+KHM	Cambodia	Western Pacific	2017	85
+GRD	Grenada	Americas	2017	85
+DOM	Dominican Republic	Americas	2017	86
+SMR	San Marino	Europe	2017	86
+SRB	Serbia	Europe	2017	86
+TJK	Tajikistan	Europe	2017	86
+UKR	Ukraine	Europe	2017	86
+BRA	Brazil	Americas	2017	87
+ROU	Romania	Europe	2017	87
+LCA	Saint Lucia	Americas	2017	87
+DZA	Algeria	Africa	2017	88
+BFA	Burkina Faso	Africa	2017	88
+MCO	Monaco	Europe	2017	88
+PER	Peru	Americas	2017	88
+HRV	Croatia	Europe	2017	89
+SLV	El Salvador	Americas	2017	89
+SWZ	Eswatini	Africa	2017	89
+KAZ	Kazakhstan	Europe	2017	89
+LSO	Lesotho	Africa	2017	89
+MUS	Mauritius	Africa	2017	89
+ARG	Argentina	Americas	2017	90
+BHS	Bahamas	Americas	2017	90
+BLZ	Belize	Americas	2017	90
+BDI	Burundi	Africa	2017	90
+CAN	Canada	Americas	2017	90
+CYP	Cyprus	Europe	2017	90
+FRA	France	Europe	2017	90
+GMB	Gambia	Africa	2017	90
+IND	India	South-East Asia	2017	90
+IDN	Indonesia	Western Pacific	2017	90
+NPL	Nepal	South-East Asia	2017	90
+STP	Sao Tome and Principe	Africa	2017	90
+SEN	Senegal	Africa	2017	90
+SDN	Sudan	Eastern Mediterranean	2017	90
+TZA	United Republic of Tanzania	Africa	2017	90
+ZWE	Zimbabwe	Africa	2017	90
+MLT	Malta	Europe	2017	91
+USA	United States of America	Americas	2017	91
+BRB	Barbados	Americas	2017	92
+ISL	Iceland	Europe	2017	92
+IRL	Ireland	Europe	2017	92
+ITA	Italy	Europe	2017	92
+PRY	Paraguay	Americas	2017	92
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2017	92
+AUT	Austria	Europe	2017	93
+CHL	Chile	Americas	2017	93
+COL	Colombia	Americas	2017	93
+ERI	Eritrea	Africa	2017	93
+EST	Estonia	Europe	2017	93
+JOR	Jordan	Eastern Mediterranean	2017	93
+NLD	Netherlands (Kingdom of the)	Europe	2017	93
+NZL	New Zealand	Western Pacific	2017	93
+PLW	Palau	Western Pacific	2017	93
+MDA	Republic of Moldova	Europe	2017	93
+KNA	Saint Kitts and Nevis	Americas	2017	93
+SVN	Slovenia	Europe	2017	93
+TTO	Trinidad and Tobago	Americas	2017	93
+AUS	Australia	Western Pacific	2017	94
+BGR	Bulgaria	Europe	2017	94
+EGY	Egypt	Eastern Mediterranean	2017	94
+FIN	Finland	Europe	2017	94
+GTM	Guatemala	Americas	2017	94
+LTU	Lithuania	Europe	2017	94
+POL	Poland	Europe	2017	94
+GEO	Georgia	Europe	2017	95
+GHA	Ghana	Africa	2017	95
+JAM	Jamaica	Americas	2017	95
+KGZ	Kyrgyzstan	Europe	2017	95
+LBY	Libya	Eastern Mediterranean	2017	95
+NRU	Naoero	Western Pacific	2017	95
+SGP	Singapore	Western Pacific	2017	95
+CHE	Switzerland	Europe	2017	95
+TUV	Tuvalu	Western Pacific	2017	95
+ALB	Albania	Europe	2017	96
+ARM	Armenia	Europe	2017	96
+BEL	Belgium	Europe	2017	96
+CPV	Cabo Verde	Africa	2017	96
+CRI	Costa Rica	Americas	2017	96
+LVA	Latvia	Europe	2017	96
+MYS	Malaysia	Western Pacific	2017	96
+NOR	Norway	Europe	2017	96
+SAU	Saudi Arabia	Eastern Mediterranean	2017	96
+SVK	Slovakia	Europe	2017	96
+TUR	Türkiye	Europe	2017	96
+URY	Uruguay	Americas	2017	96
+VEN	Venezuela (Bolivarian Republic of)	Americas	2017	96
+ZMB	Zambia	Africa	2017	96
+BGD	Bangladesh	South-East Asia	2017	97
+BLR	Belarus	Europe	2017	97
+BTN	Bhutan	South-East Asia	2017	97
+BWA	Botswana	Africa	2017	97
+BRN	Brunei Darussalam	Western Pacific	2017	97
+CZE	Czechia	Europe	2017	97
+DNK	Denmark	Europe	2017	97
+DEU	Germany	Europe	2017	97
+GRC	Greece	Europe	2017	97
+JPN	Japan	Western Pacific	2017	97
+KOR	Republic of Korea	Western Pacific	2017	97
+RWA	Rwanda	Africa	2017	97
+SWE	Sweden	Europe	2017	97
+VNM	Viet Nam	Western Pacific	2017	97
+COK	Cook Islands	Western Pacific	2017	98
+HND	Honduras	Americas	2017	98
+ISR	Israel	Europe	2017	98
+PAN	Panama	Americas	2017	98
+PRT	Portugal	Europe	2017	98
+RUS	Russian Federation	Europe	2017	98
+ESP	Spain	Europe	2017	98
+TUN	Tunisia	Eastern Mediterranean	2017	98
+AND	Andorra	Europe	2017	99
+ATG	Antigua and Barbuda	Americas	2017	99
+BHR	Bahrain	Eastern Mediterranean	2017	99
+CHN	China	Western Pacific	2017	99
+CUB	Cuba	Americas	2017	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2017	99
+FJI	Fiji	Western Pacific	2017	99
+GUY	Guyana	Americas	2017	99
+HUN	Hungary	Europe	2017	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2017	99
+KWT	Kuwait	Eastern Mediterranean	2017	99
+LUX	Luxembourg	Europe	2017	99
+MDV	Maldives	South-East Asia	2017	99
+MNG	Mongolia	Western Pacific	2017	99
+MAR	Morocco	Eastern Mediterranean	2017	99
+NIC	Nicaragua	Americas	2017	99
+NIU	Niue	Western Pacific	2017	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2017	99
+OMN	Oman	Eastern Mediterranean	2017	99
+QAT	Qatar	Eastern Mediterranean	2017	99
+VCT	Saint Vincent and the Grenadines	Americas	2017	99
+SYC	Seychelles	Africa	2017	99
+LKA	Sri Lanka	South-East Asia	2017	99
+THA	Thailand	South-East Asia	2017	99
+TON	Tonga	Western Pacific	2017	99
+TKM	Turkmenistan	Europe	2017	99
+ARE	United Arab Emirates	Eastern Mediterranean	2017	99
+UZB	Uzbekistan	Europe	2017	99
+TCD	Chad	Africa	2016	37
+UKR	Ukraine	Europe	2016	42
+CAF	Central African Republic	Africa	2016	45
+PNG	Papua New Guinea	Western Pacific	2016	46
+MNE	Montenegro	Europe	2016	47
+GIN	Guinea	Africa	2016	48
+NGA	Nigeria	Africa	2016	48
+AGO	Angola	Africa	2016	49
+SOM	Somalia	Eastern Mediterranean	2016	51
+SSD	South Sudan	Africa	2016	51
+GNQ	Equatorial Guinea	Africa	2016	53
+ETH	Ethiopia	Africa	2016	57
+MDG	Madagascar	Africa	2016	62
+YEM	Yemen	Eastern Mediterranean	2016	62
+COD	Democratic Republic of the Congo	Africa	2016	63
+AFG	Afghanistan	Eastern Mediterranean	2016	64
+GAB	Gabon	Africa	2016	64
+COG	Congo	Africa	2016	67
+HTI	Haiti	Americas	2016	67
+BEN	Benin	Africa	2016	68
+BIH	Bosnia and Herzegovina	Europe	2016	68
+LBR	Liberia	Africa	2016	70
+MLI	Mali	Africa	2016	70
+FSM	Micronesia (Federated States of)	Western Pacific	2016	70
+CMR	Cameroon	Africa	2016	72
+CIV	Cote d'Ivoire	Africa	2016	73
+MRT	Mauritania	Africa	2016	73
+SYR	Syrian Arab Republic	Eastern Mediterranean	2016	73
+TLS	Timor-Leste	South-East Asia	2016	73
+TGO	Togo	Africa	2016	73
+DJI	Djibouti	Eastern Mediterranean	2016	75
+MHL	Marshall Islands	Western Pacific	2016	75
+NAM	Namibia	Africa	2016	75
+PAK	Pakistan	Eastern Mediterranean	2016	75
+WSM	Samoa	Western Pacific	2016	75
+LAO	Lao People's Democratic Republic	Western Pacific	2016	76
+NER	Niger	Africa	2016	76
+SUR	Suriname	Americas	2016	76
+COM	Comoros	Africa	2016	77
+IRQ	Iraq	Eastern Mediterranean	2016	79
+UGA	Uganda	Africa	2016	79
+GNB	Guinea-Bissau	Africa	2016	80
+KIR	Kiribati	Western Pacific	2016	80
+PHL	Philippines	Western Pacific	2016	80
+AZE	Azerbaijan	Europe	2016	81
+MWI	Malawi	Africa	2016	81
+LBN	Lebanon	Eastern Mediterranean	2016	82
+MKD	North Macedonia	Europe	2016	82
+SMR	San Marino	Europe	2016	82
+SRB	Serbia	Europe	2016	82
+SLB	Solomon Islands	Western Pacific	2016	82
+MOZ	Mozambique	Africa	2016	83
+NPL	Nepal	South-East Asia	2016	83
+TZA	United Republic of Tanzania	Africa	2016	83
+ZAF	South Africa	Africa	2016	84
+VUT	Vanuatu	Western Pacific	2016	84
+KHM	Cambodia	Western Pacific	2016	85
+DOM	Dominican Republic	Americas	2016	85
+PRY	Paraguay	Americas	2016	85
+SLE	Sierra Leone	Africa	2016	85
+ECU	Ecuador	Americas	2016	86
+ROU	Romania	Europe	2016	86
+TJK	Tajikistan	Europe	2016	86
+TTO	Trinidad and Tobago	Americas	2016	86
+ITA	Italy	Europe	2016	87
+SDN	Sudan	Eastern Mediterranean	2016	87
+ATG	Antigua and Barbuda	Americas	2016	88
+BFA	Burkina Faso	Africa	2016	88
+IND	India	South-East Asia	2016	88
+IDN	Indonesia	Western Pacific	2016	88
+MDA	Republic of Moldova	Europe	2016	88
+VEN	Venezuela (Bolivarian Republic of)	Americas	2016	88
+BHS	Bahamas	Americas	2016	89
+CAN	Canada	Americas	2016	89
+SWZ	Eswatini	Africa	2016	89
+GHA	Ghana	Africa	2016	89
+GTM	Guatemala	Americas	2016	89
+MCO	Monaco	Europe	2016	89
+PER	Peru	Americas	2016	89
+ARG	Argentina	Americas	2016	90
+COK	Cook Islands	Western Pacific	2016	90
+HRV	Croatia	Europe	2016	90
+CYP	Cyprus	Europe	2016	90
+FRA	France	Europe	2016	90
+LSO	Lesotho	Africa	2016	90
+ISL	Iceland	Europe	2016	91
+MMR	Myanmar	South-East Asia	2016	91
+BRB	Barbados	Americas	2016	92
+BGR	Bulgaria	Europe	2016	92
+IRL	Ireland	Europe	2016	92
+KAZ	Kazakhstan	Europe	2016	92
+MUS	Mauritius	Africa	2016	92
+NZL	New Zealand	Western Pacific	2016	92
+SVN	Slovenia	Europe	2016	92
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2016	92
+USA	United States of America	Americas	2016	92
+BDI	Burundi	Africa	2016	93
+CPV	Cabo Verde	Africa	2016	93
+CHL	Chile	Americas	2016	93
+COL	Colombia	Americas	2016	93
+CRI	Costa Rica	Americas	2016	93
+EST	Estonia	Europe	2016	93
+GEO	Georgia	Europe	2016	93
+KEN	Kenya	Africa	2016	93
+LVA	Latvia	Europe	2016	93
+MLT	Malta	Europe	2016	93
+STP	Sao Tome and Principe	Africa	2016	93
+SEN	Senegal	Africa	2016	93
+DZA	Algeria	Africa	2016	94
+AUT	Austria	Europe	2016	94
+BOL	Bolivia (Plurinational State of)	Americas	2016	94
+DNK	Denmark	Europe	2016	94
+LTU	Lithuania	Europe	2016	94
+NLD	Netherlands (Kingdom of the)	Europe	2016	94
+CHE	Switzerland	Europe	2016	94
+AUS	Australia	Western Pacific	2016	95
+BLZ	Belize	Americas	2016	95
+BRA	Brazil	Americas	2016	95
+EGY	Egypt	Eastern Mediterranean	2016	95
+ERI	Eritrea	Africa	2016	95
+FIN	Finland	Europe	2016	95
+GRD	Grenada	Americas	2016	95
+JAM	Jamaica	Americas	2016	95
+PAN	Panama	Americas	2016	95
+RWA	Rwanda	Africa	2016	95
+SGP	Singapore	Western Pacific	2016	95
+SVK	Slovakia	Europe	2016	95
+URY	Uruguay	Americas	2016	95
+ZWE	Zimbabwe	Africa	2016	95
+ALB	Albania	Europe	2016	96
+BEL	Belgium	Europe	2016	96
+DMA	Dominica	Americas	2016	96
+JPN	Japan	Western Pacific	2016	96
+JOR	Jordan	Eastern Mediterranean	2016	96
+MYS	Malaysia	Western Pacific	2016	96
+NOR	Norway	Europe	2016	96
+PLW	Palau	Western Pacific	2016	96
+POL	Poland	Europe	2016	96
+TUN	Tunisia	Eastern Mediterranean	2016	96
+TUV	Tuvalu	Western Pacific	2016	96
+AND	Andorra	Europe	2016	97
+ARM	Armenia	Europe	2016	97
+BGD	Bangladesh	South-East Asia	2016	97
+BTN	Bhutan	South-East Asia	2016	97
+BWA	Botswana	Africa	2016	97
+FJI	Fiji	Western Pacific	2016	97
+GMB	Gambia	Africa	2016	97
+DEU	Germany	Europe	2016	97
+GRC	Greece	Europe	2016	97
+ISR	Israel	Europe	2016	97
+KGZ	Kyrgyzstan	Europe	2016	97
+LBY	Libya	Eastern Mediterranean	2016	97
+MEX	Mexico	Americas	2016	97
+SYC	Seychelles	Africa	2016	97
+ESP	Spain	Europe	2016	97
+SWE	Sweden	Europe	2016	97
+ZMB	Zambia	Africa	2016	97
+BLR	Belarus	Europe	2016	98
+BRN	Brunei Darussalam	Western Pacific	2016	98
+CZE	Czechia	Europe	2016	98
+SLV	El Salvador	Americas	2016	98
+HND	Honduras	Americas	2016	98
+NRU	Naoero	Western Pacific	2016	98
+PRT	Portugal	Europe	2016	98
+KOR	Republic of Korea	Western Pacific	2016	98
+RUS	Russian Federation	Europe	2016	98
+KNA	Saint Kitts and Nevis	Americas	2016	98
+SAU	Saudi Arabia	Eastern Mediterranean	2016	98
+TUR	Türkiye	Europe	2016	98
+TON	Tonga	Western Pacific	2016	98
+BHR	Bahrain	Eastern Mediterranean	2016	99
+CHN	China	Western Pacific	2016	99
+CUB	Cuba	Americas	2016	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2016	99
+GUY	Guyana	Americas	2016	99
+HUN	Hungary	Europe	2016	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2016	99
+KWT	Kuwait	Eastern Mediterranean	2016	99
+LUX	Luxembourg	Europe	2016	99
+MDV	Maldives	South-East Asia	2016	99
+MNG	Mongolia	Western Pacific	2016	99
+MAR	Morocco	Eastern Mediterranean	2016	99
+NIC	Nicaragua	Americas	2016	99
+NIU	Niue	Western Pacific	2016	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2016	99
+OMN	Oman	Eastern Mediterranean	2016	99
+QAT	Qatar	Eastern Mediterranean	2016	99
+LCA	Saint Lucia	Americas	2016	99
+VCT	Saint Vincent and the Grenadines	Americas	2016	99
+LKA	Sri Lanka	South-East Asia	2016	99
+THA	Thailand	South-East Asia	2016	99
+TKM	Turkmenistan	Europe	2016	99
+ARE	United Arab Emirates	Eastern Mediterranean	2016	99
+UZB	Uzbekistan	Europe	2016	99
+VNM	Viet Nam	Western Pacific	2016	99
+NGA	Nigeria	Africa	2015	42
+CAF	Central African Republic	Africa	2015	46
+TCD	Chad	Africa	2015	46
+GIN	Guinea	Africa	2015	47
+GNQ	Equatorial Guinea	Africa	2015	50
+SOM	Somalia	Eastern Mediterranean	2015	50
+AGO	Angola	Africa	2015	52
+SSD	South Sudan	Africa	2015	52
+ETH	Ethiopia	Africa	2015	56
+UKR	Ukraine	Europe	2015	56
+PNG	Papua New Guinea	Western Pacific	2015	57
+MDG	Madagascar	Africa	2015	60
+YEM	Yemen	Eastern Mediterranean	2015	61
+AFG	Afghanistan	Eastern Mediterranean	2015	62
+LBR	Liberia	Africa	2015	64
+MNE	Montenegro	Europe	2015	64
+SYR	Syrian Arab Republic	Eastern Mediterranean	2015	64
+COD	Democratic Republic of the Congo	Africa	2015	65
+MLI	Mali	Africa	2015	65
+BEN	Benin	Africa	2015	67
+CIV	Cote d'Ivoire	Africa	2015	67
+GAB	Gabon	Africa	2015	68
+HTI	Haiti	Americas	2015	69
+MRT	Mauritania	Africa	2015	70
+TLS	Timor-Leste	South-East Asia	2015	70
+CMR	Cameroon	Africa	2015	71
+IRQ	Iraq	Eastern Mediterranean	2015	71
+DJI	Djibouti	Eastern Mediterranean	2015	74
+FSM	Micronesia (Federated States of)	Western Pacific	2015	74
+MHL	Marshall Islands	Western Pacific	2015	75
+PAK	Pakistan	Eastern Mediterranean	2015	75
+WSM	Samoa	Western Pacific	2015	75
+SLB	Solomon Islands	Western Pacific	2015	75
+TGO	Togo	Africa	2015	75
+SUR	Suriname	Americas	2015	76
+VUT	Vanuatu	Western Pacific	2015	76
+LAO	Lao People's Democratic Republic	Western Pacific	2015	78
+PRY	Paraguay	Americas	2015	78
+SLE	Sierra Leone	Africa	2015	78
+GTM	Guatemala	Americas	2015	79
+UGA	Uganda	Africa	2015	79
+COG	Congo	Africa	2015	80
+GNB	Guinea-Bissau	Africa	2015	80
+PHL	Philippines	Western Pacific	2015	80
+SEN	Senegal	Africa	2015	80
+COM	Comoros	Africa	2015	81
+LBN	Lebanon	Eastern Mediterranean	2015	82
+BIH	Bosnia and Herzegovina	Europe	2015	83
+MOZ	Mozambique	Africa	2015	83
+AZE	Azerbaijan	Europe	2015	84
+ECU	Ecuador	Americas	2015	84
+KIR	Kiribati	Western Pacific	2015	84
+MMR	Myanmar	South-East Asia	2015	84
+SMR	San Marino	Europe	2015	84
+KHM	Cambodia	Western Pacific	2015	85
+ITA	Italy	Europe	2015	85
+NAM	Namibia	Africa	2015	85
+NPL	Nepal	South-East Asia	2015	85
+NER	Niger	Africa	2015	85
+ROU	Romania	Europe	2015	86
+ZAF	South Africa	Africa	2015	86
+ZWE	Zimbabwe	Africa	2015	86
+IND	India	South-East Asia	2015	87
+IDN	Indonesia	Western Pacific	2015	87
+MWI	Malawi	Africa	2015	87
+SRB	Serbia	Europe	2015	87
+SDN	Sudan	Eastern Mediterranean	2015	87
+TJK	Tajikistan	Europe	2015	87
+BFA	Burkina Faso	Africa	2015	88
+ARG	Argentina	Americas	2015	89
+CAN	Canada	Americas	2015	89
+SWZ	Eswatini	Africa	2015	89
+GHA	Ghana	Africa	2015	89
+MLT	Malta	Europe	2015	89
+MCO	Monaco	Europe	2015	89
+MKD	North Macedonia	Europe	2015	89
+MDA	Republic of Moldova	Europe	2015	89
+TTO	Trinidad and Tobago	Americas	2015	89
+CYP	Cyprus	Europe	2015	90
+DOM	Dominican Republic	Americas	2015	90
+ZMB	Zambia	Africa	2015	90
+ATG	Antigua and Barbuda	Americas	2015	91
+DNK	Denmark	Europe	2015	91
+FRA	France	Europe	2015	91
+JAM	Jamaica	Americas	2015	91
+BGR	Bulgaria	Europe	2015	92
+CPV	Cabo Verde	Africa	2015	92
+EGY	Egypt	Eastern Mediterranean	2015	92
+PER	Peru	Americas	2015	92
+USA	United States of America	Americas	2015	92
+VEN	Venezuela (Bolivarian Republic of)	Americas	2015	92
+BDI	Burundi	Africa	2015	93
+CRI	Costa Rica	Americas	2015	93
+HRV	Croatia	Europe	2015	93
+EST	Estonia	Europe	2015	93
+ISL	Iceland	Europe	2015	93
+IRL	Ireland	Europe	2015	93
+KWT	Kuwait	Eastern Mediterranean	2015	93
+LSO	Lesotho	Africa	2015	93
+MYS	Malaysia	Western Pacific	2015	93
+NZL	New Zealand	Western Pacific	2015	93
+PAN	Panama	Americas	2015	93
+STP	Sao Tome and Principe	Africa	2015	93
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2015	93
+BHS	Bahamas	Americas	2015	94
+COL	Colombia	Americas	2015	94
+JOR	Jordan	Eastern Mediterranean	2015	94
+LTU	Lithuania	Europe	2015	94
+SVN	Slovenia	Europe	2015	94
+CHE	Switzerland	Europe	2015	94
+TUV	Tuvalu	Western Pacific	2015	94
+DZA	Algeria	Africa	2015	95
+AUS	Australia	Western Pacific	2015	95
+AUT	Austria	Europe	2015	95
+BOL	Bolivia (Plurinational State of)	Americas	2015	95
+FIN	Finland	Europe	2015	95
+NLD	Netherlands (Kingdom of the)	Europe	2015	95
+NOR	Norway	Europe	2015	95
+PLW	Palau	Western Pacific	2015	95
+KNA	Saint Kitts and Nevis	Americas	2015	95
+SGP	Singapore	Western Pacific	2015	95
+SVK	Slovakia	Europe	2015	95
+TZA	United Republic of Tanzania	Africa	2015	95
+AND	Andorra	Europe	2015	96
+BRB	Barbados	Americas	2015	96
+BEL	Belgium	Europe	2015	96
+BLZ	Belize	Americas	2015	96
+BRA	Brazil	Americas	2015	96
+BRN	Brunei Darussalam	Western Pacific	2015	96
+CHL	Chile	Americas	2015	96
+DMA	Dominica	Americas	2015	96
+GEO	Georgia	Europe	2015	96
+JPN	Japan	Western Pacific	2015	96
+KAZ	Kazakhstan	Europe	2015	96
+KEN	Kenya	Africa	2015	96
+LVA	Latvia	Europe	2015	96
+POL	Poland	Europe	2015	96
+RWA	Rwanda	Africa	2015	96
+ESP	Spain	Europe	2015	96
+URY	Uruguay	Americas	2015	96
+ALB	Albania	Europe	2015	97
+ARM	Armenia	Europe	2015	97
+BGD	Bangladesh	South-East Asia	2015	97
+BTN	Bhutan	South-East Asia	2015	97
+BWA	Botswana	Africa	2015	97
+SLV	El Salvador	Americas	2015	97
+ERI	Eritrea	Africa	2015	97
+GMB	Gambia	Africa	2015	97
+DEU	Germany	Europe	2015	97
+GRC	Greece	Europe	2015	97
+LCA	Saint Lucia	Americas	2015	97
+TUR	Türkiye	Europe	2015	97
+VNM	Viet Nam	Western Pacific	2015	97
+PRK	Democratic People's Republic of Korea	South-East Asia	2015	98
+FJI	Fiji	Western Pacific	2015	98
+HND	Honduras	Americas	2015	98
+ISR	Israel	Europe	2015	98
+LBY	Libya	Eastern Mediterranean	2015	98
+MEX	Mexico	Americas	2015	98
+MNG	Mongolia	Western Pacific	2015	98
+NRU	Naoero	Western Pacific	2015	98
+PRT	Portugal	Europe	2015	98
+KOR	Republic of Korea	Western Pacific	2015	98
+RUS	Russian Federation	Europe	2015	98
+SAU	Saudi Arabia	Eastern Mediterranean	2015	98
+SYC	Seychelles	Africa	2015	98
+SWE	Sweden	Europe	2015	98
+TUN	Tunisia	Eastern Mediterranean	2015	98
+BHR	Bahrain	Eastern Mediterranean	2015	99
+BLR	Belarus	Europe	2015	99
+CHN	China	Western Pacific	2015	99
+COK	Cook Islands	Western Pacific	2015	99
+CUB	Cuba	Americas	2015	99
+CZE	Czechia	Europe	2015	99
+GRD	Grenada	Americas	2015	99
+GUY	Guyana	Americas	2015	99
+HUN	Hungary	Europe	2015	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2015	99
+KGZ	Kyrgyzstan	Europe	2015	99
+LUX	Luxembourg	Europe	2015	99
+MDV	Maldives	South-East Asia	2015	99
+MUS	Mauritius	Africa	2015	99
+MAR	Morocco	Eastern Mediterranean	2015	99
+NIC	Nicaragua	Americas	2015	99
+NIU	Niue	Western Pacific	2015	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2015	99
+OMN	Oman	Eastern Mediterranean	2015	99
+QAT	Qatar	Eastern Mediterranean	2015	99
+VCT	Saint Vincent and the Grenadines	Americas	2015	99
+LKA	Sri Lanka	South-East Asia	2015	99
+THA	Thailand	South-East Asia	2015	99
+TON	Tonga	Western Pacific	2015	99
+TKM	Turkmenistan	Europe	2015	99
+ARE	United Arab Emirates	Eastern Mediterranean	2015	99
+UZB	Uzbekistan	Europe	2015	99
+NGA	Nigeria	Africa	2014	44
+TCD	Chad	Africa	2014	45
+CAF	Central African Republic	Africa	2014	47
+SOM	Somalia	Eastern Mediterranean	2014	48
+GIN	Guinea	Africa	2014	50
+GNQ	Equatorial Guinea	Africa	2014	53
+ETH	Ethiopia	Africa	2014	54
+SSD	South Sudan	Africa	2014	54
+AGO	Angola	Africa	2014	56
+UKR	Ukraine	Europe	2014	56
+LBR	Liberia	Africa	2014	58
+CIV	Cote d'Ivoire	Africa	2014	59
+AFG	Afghanistan	Eastern Mediterranean	2014	60
+GAB	Gabon	Africa	2014	61
+MLI	Mali	Africa	2014	61
+YEM	Yemen	Eastern Mediterranean	2014	64
+BEN	Benin	Africa	2014	65
+PNG	Papua New Guinea	Western Pacific	2014	65
+SYR	Syrian Arab Republic	Eastern Mediterranean	2014	65
+MDG	Madagascar	Africa	2014	66
+GTM	Guatemala	Americas	2014	68
+COD	Democratic Republic of the Congo	Africa	2014	69
+HTI	Haiti	Americas	2014	69
+IRQ	Iraq	Eastern Mediterranean	2014	70
+SUR	Suriname	Americas	2014	70
+CMR	Cameroon	Africa	2014	71
+DJI	Djibouti	Eastern Mediterranean	2014	71
+PAK	Pakistan	Eastern Mediterranean	2014	71
+TLS	Timor-Leste	South-East Asia	2014	74
+MRT	Mauritania	Africa	2014	75
+MNE	Montenegro	Europe	2014	76
+SLB	Solomon Islands	Western Pacific	2014	76
+TGO	Togo	Africa	2014	77
+MHL	Marshall Islands	Western Pacific	2014	79
+COM	Comoros	Africa	2014	80
+COG	Congo	Africa	2014	80
+NER	Niger	Africa	2014	80
+SEN	Senegal	Africa	2014	80
+SLE	Sierra Leone	Africa	2014	80
+GNB	Guinea-Bissau	Africa	2014	81
+LAO	Lao People's Democratic Republic	Western Pacific	2014	81
+PHL	Philippines	Western Pacific	2014	81
+SMR	San Marino	Europe	2014	81
+LBN	Lebanon	Eastern Mediterranean	2014	82
+KHM	Cambodia	Western Pacific	2014	83
+FSM	Micronesia (Federated States of)	Western Pacific	2014	83
+MOZ	Mozambique	Africa	2014	83
+NAM	Namibia	Africa	2014	83
+PLW	Palau	Western Pacific	2014	83
+PRY	Paraguay	Americas	2014	84
+ZAF	South Africa	Africa	2014	84
+AZE	Azerbaijan	Europe	2014	85
+ECU	Ecuador	Americas	2014	85
+IND	India	South-East Asia	2014	85
+MWI	Malawi	Africa	2014	85
+WSM	Samoa	Western Pacific	2014	85
+UGA	Uganda	Africa	2014	85
+ZMB	Zambia	Africa	2014	85
+CYP	Cyprus	Europe	2014	86
+IDN	Indonesia	Western Pacific	2014	86
+SRB	Serbia	Europe	2014	86
+SDN	Sudan	Eastern Mediterranean	2014	86
+ITA	Italy	Europe	2014	87
+AUT	Austria	Europe	2014	88
+BFA	Burkina Faso	Africa	2014	88
+DOM	Dominican Republic	Americas	2014	88
+KIR	Kiribati	Western Pacific	2014	88
+MMR	Myanmar	South-East Asia	2014	88
+NPL	Nepal	South-East Asia	2014	88
+BOL	Bolivia (Plurinational State of)	Americas	2014	89
+BIH	Bosnia and Herzegovina	Europe	2014	89
+PER	Peru	Americas	2014	89
+ROU	Romania	Europe	2014	89
+TJK	Tajikistan	Europe	2014	89
+VEN	Venezuela (Bolivarian Republic of)	Americas	2014	89
+CAN	Canada	Americas	2014	90
+DNK	Denmark	Europe	2014	90
+ERI	Eritrea	Africa	2014	90
+ISL	Iceland	Europe	2014	90
+MCO	Monaco	Europe	2014	90
+PAN	Panama	Americas	2014	90
+MDA	Republic of Moldova	Europe	2014	90
+VUT	Vanuatu	Western Pacific	2014	90
+COL	Colombia	Americas	2014	91
+FRA	France	Europe	2014	91
+BHS	Bahamas	Americas	2014	92
+GEO	Georgia	Europe	2014	92
+GHA	Ghana	Africa	2014	92
+JAM	Jamaica	Americas	2014	92
+LSO	Lesotho	Africa	2014	92
+MYS	Malaysia	Western Pacific	2014	92
+STP	Sao Tome and Principe	Africa	2014	92
+USA	United States of America	Americas	2014	92
+ZWE	Zimbabwe	Africa	2014	92
+ATG	Antigua and Barbuda	Americas	2014	93
+BGR	Bulgaria	Europe	2014	93
+CPV	Cabo Verde	Africa	2014	93
+EGY	Egypt	Eastern Mediterranean	2014	93
+EST	Estonia	Europe	2014	93
+IRL	Ireland	Europe	2014	93
+LBY	Libya	Eastern Mediterranean	2014	93
+LTU	Lithuania	Europe	2014	93
+NZL	New Zealand	Western Pacific	2014	93
+MKD	North Macedonia	Europe	2014	93
+KNA	Saint Kitts and Nevis	Americas	2014	93
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2014	93
+AUS	Australia	Western Pacific	2014	94
+BGD	Bangladesh	South-East Asia	2014	94
+BDI	Burundi	Africa	2014	94
+HRV	Croatia	Europe	2014	94
+DMA	Dominica	Americas	2014	94
+GRD	Grenada	Americas	2014	94
+KWT	Kuwait	Eastern Mediterranean	2014	94
+NOR	Norway	Europe	2014	94
+SVN	Slovenia	Europe	2014	94
+CHE	Switzerland	Europe	2014	94
+TUR	Türkiye	Europe	2014	94
+TUV	Tuvalu	Western Pacific	2014	94
+DZA	Algeria	Africa	2014	95
+ARG	Argentina	Americas	2014	95
+BRB	Barbados	Americas	2014	95
+BLZ	Belize	Americas	2014	95
+CRI	Costa Rica	Americas	2014	95
+KEN	Kenya	Africa	2014	95
+LVA	Latvia	Europe	2014	95
+SGP	Singapore	Western Pacific	2014	95
+AND	Andorra	Europe	2014	96
+BEL	Belgium	Europe	2014	96
+SLV	El Salvador	Americas	2014	96
+FIN	Finland	Europe	2014	96
+GMB	Gambia	Africa	2014	96
+KGZ	Kyrgyzstan	Europe	2014	96
+NLD	Netherlands (Kingdom of the)	Europe	2014	96
+ESP	Spain	Europe	2014	96
+TTO	Trinidad and Tobago	Americas	2014	96
+URY	Uruguay	Americas	2014	96
+ARM	Armenia	Europe	2014	97
+BTN	Bhutan	South-East Asia	2014	97
+BWA	Botswana	Africa	2014	97
+BRA	Brazil	Americas	2014	97
+BRN	Brunei Darussalam	Western Pacific	2014	97
+CHL	Chile	Americas	2014	97
+SWZ	Eswatini	Africa	2014	97
+DEU	Germany	Europe	2014	97
+GRC	Greece	Europe	2014	97
+HND	Honduras	Americas	2014	97
+ISR	Israel	Europe	2014	97
+POL	Poland	Europe	2014	97
+RWA	Rwanda	Africa	2014	97
+SVK	Slovakia	Europe	2014	97
+SWE	Sweden	Europe	2014	97
+TZA	United Republic of Tanzania	Africa	2014	97
+VNM	Viet Nam	Western Pacific	2014	97
+ALB	Albania	Europe	2014	98
+COK	Cook Islands	Western Pacific	2014	98
+JPN	Japan	Western Pacific	2014	98
+JOR	Jordan	Eastern Mediterranean	2014	98
+MLT	Malta	Europe	2014	98
+MUS	Mauritius	Africa	2014	98
+MEX	Mexico	Americas	2014	98
+MNG	Mongolia	Western Pacific	2014	98
+NRU	Naoero	Western Pacific	2014	98
+PRT	Portugal	Europe	2014	98
+RUS	Russian Federation	Europe	2014	98
+SAU	Saudi Arabia	Eastern Mediterranean	2014	98
+TUN	Tunisia	Eastern Mediterranean	2014	98
+BHR	Bahrain	Eastern Mediterranean	2014	99
+BLR	Belarus	Europe	2014	99
+CHN	China	Western Pacific	2014	99
+CUB	Cuba	Americas	2014	99
+CZE	Czechia	Europe	2014	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2014	99
+FJI	Fiji	Western Pacific	2014	99
+GUY	Guyana	Americas	2014	99
+HUN	Hungary	Europe	2014	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2014	99
+KAZ	Kazakhstan	Europe	2014	99
+LUX	Luxembourg	Europe	2014	99
+MDV	Maldives	South-East Asia	2014	99
+MAR	Morocco	Eastern Mediterranean	2014	99
+NIC	Nicaragua	Americas	2014	99
+NIU	Niue	Western Pacific	2014	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2014	99
+OMN	Oman	Eastern Mediterranean	2014	99
+QAT	Qatar	Eastern Mediterranean	2014	99
+KOR	Republic of Korea	Western Pacific	2014	99
+LCA	Saint Lucia	Americas	2014	99
+VCT	Saint Vincent and the Grenadines	Americas	2014	99
+SYC	Seychelles	Africa	2014	99
+LKA	Sri Lanka	South-East Asia	2014	99
+THA	Thailand	South-East Asia	2014	99
+TON	Tonga	Western Pacific	2014	99
+TKM	Turkmenistan	Europe	2014	99
+ARE	United Arab Emirates	Eastern Mediterranean	2014	99
+UZB	Uzbekistan	Europe	2014	99
+CAF	Central African Republic	Africa	2013	25
+NGA	Nigeria	Africa	2013	43
+SOM	Somalia	Eastern Mediterranean	2013	47
+GNQ	Equatorial Guinea	Africa	2013	51
+GIN	Guinea	Africa	2013	54
+ETH	Ethiopia	Africa	2013	55
+AFG	Afghanistan	Eastern Mediterranean	2013	57
+TCD	Chad	Africa	2013	57
+SSD	South Sudan	Africa	2013	57
+AGO	Angola	Africa	2013	59
+MLI	Mali	Africa	2013	62
+MDG	Madagascar	Africa	2013	64
+BEN	Benin	Africa	2013	68
+COD	Democratic Republic of the Congo	Africa	2013	68
+HTI	Haiti	Americas	2013	68
+PAK	Pakistan	Eastern Mediterranean	2013	68
+YEM	Yemen	Eastern Mediterranean	2013	68
+SYR	Syrian Arab Republic	Eastern Mediterranean	2013	69
+CIV	Cote d'Ivoire	Africa	2013	70
+GAB	Gabon	Africa	2013	70
+TLS	Timor-Leste	South-East Asia	2013	70
+CMR	Cameroon	Africa	2013	71
+PNG	Papua New Guinea	Western Pacific	2013	72
+TGO	Togo	Africa	2013	72
+IRQ	Iraq	Eastern Mediterranean	2013	73
+LBR	Liberia	Africa	2013	74
+SLB	Solomon Islands	Western Pacific	2013	76
+LAO	Lao People's Democratic Republic	Western Pacific	2013	78
+ZAF	South Africa	Africa	2013	78
+KHM	Cambodia	Western Pacific	2013	79
+MHL	Marshall Islands	Western Pacific	2013	79
+UKR	Ukraine	Europe	2013	79
+COG	Congo	Africa	2013	80
+DJI	Djibouti	Eastern Mediterranean	2013	80
+MRT	Mauritania	Africa	2013	80
+NER	Niger	Africa	2013	80
+ZMB	Zambia	Africa	2013	80
+GNB	Guinea-Bissau	Africa	2013	81
+SUR	Suriname	Americas	2013	81
+BFA	Burkina Faso	Africa	2013	82
+COM	Comoros	Africa	2013	82
+LBN	Lebanon	Eastern Mediterranean	2013	82
+NAM	Namibia	Africa	2013	82
+SMR	San Marino	Europe	2013	82
+DOM	Dominican Republic	Americas	2013	83
+IND	India	South-East Asia	2013	83
+MOZ	Mozambique	Africa	2013	83
+PHL	Philippines	Western Pacific	2013	83
+UGA	Uganda	Africa	2013	83
+SEN	Senegal	Africa	2013	84
+VUT	Vanuatu	Western Pacific	2013	84
+PER	Peru	Americas	2013	85
+SLE	Sierra Leone	Africa	2013	85
+SDN	Sudan	Eastern Mediterranean	2013	85
+VEN	Venezuela (Bolivarian Republic of)	Americas	2013	85
+AUT	Austria	Europe	2013	86
+AZE	Azerbaijan	Europe	2013	86
+CYP	Cyprus	Europe	2013	86
+MMR	Myanmar	South-East Asia	2013	86
+BRB	Barbados	Americas	2013	87
+BOL	Bolivia (Plurinational State of)	Americas	2013	87
+IDN	Indonesia	Western Pacific	2013	87
+MWI	Malawi	Africa	2013	88
+MNE	Montenegro	Europe	2013	88
+NPL	Nepal	South-East Asia	2013	88
+PRY	Paraguay	Americas	2013	88
+DNK	Denmark	Europe	2013	89
+GHA	Ghana	Africa	2013	89
+MEX	Mexico	Americas	2013	89
+CAN	Canada	Americas	2013	90
+CHL	Chile	Americas	2013	90
+FRA	France	Europe	2013	90
+ITA	Italy	Europe	2013	90
+LSO	Lesotho	Africa	2013	90
+TJK	Tajikistan	Europe	2013	90
+BGD	Bangladesh	South-East Asia	2013	91
+CPV	Cabo Verde	Africa	2013	91
+CRI	Costa Rica	Americas	2013	91
+GTM	Guatemala	Americas	2013	91
+ISL	Iceland	Europe	2013	91
+KIR	Kiribati	Western Pacific	2013	91
+FSM	Micronesia (Federated States of)	Western Pacific	2013	91
+MCO	Monaco	Europe	2013	91
+MDA	Republic of Moldova	Europe	2013	91
+STP	Sao Tome and Principe	Africa	2013	91
+TTO	Trinidad and Tobago	Americas	2013	91
+BHS	Bahamas	Americas	2013	92
+BIH	Bosnia and Herzegovina	Europe	2013	92
+COL	Colombia	Americas	2013	92
+NZL	New Zealand	Western Pacific	2013	92
+PAN	Panama	Americas	2013	92
+ROU	Romania	Europe	2013	92
+WSM	Samoa	Western Pacific	2013	92
+SRB	Serbia	Europe	2013	92
+USA	United States of America	Americas	2013	92
+DMA	Dominica	Americas	2013	93
+IRL	Ireland	Europe	2013	93
+LTU	Lithuania	Europe	2013	93
+NOR	Norway	Europe	2013	93
+CHE	Switzerland	Europe	2013	93
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2013	93
+ZWE	Zimbabwe	Africa	2013	93
+ARG	Argentina	Americas	2013	94
+AUS	Australia	Western Pacific	2013	94
+BTN	Bhutan	South-East Asia	2013	94
+HRV	Croatia	Europe	2013	94
+SLV	El Salvador	Americas	2013	94
+ERI	Eritrea	Africa	2013	94
+EST	Estonia	Europe	2013	94
+FJI	Fiji	Western Pacific	2013	94
+GRD	Grenada	Americas	2013	94
+JAM	Jamaica	Americas	2013	94
+KEN	Kenya	Africa	2013	94
+SVN	Slovenia	Europe	2013	94
+TUN	Tunisia	Eastern Mediterranean	2013	94
+DZA	Algeria	Africa	2013	95
+AND	Andorra	Europe	2013	95
+BGR	Bulgaria	Europe	2013	95
+JPN	Japan	Western Pacific	2013	95
+MYS	Malaysia	Western Pacific	2013	95
+RWA	Rwanda	Africa	2013	95
+SGP	Singapore	Western Pacific	2013	95
+ESP	Spain	Europe	2013	95
+ATG	Antigua and Barbuda	Americas	2013	96
+BEL	Belgium	Europe	2013	96
+BRN	Brunei Darussalam	Western Pacific	2013	96
+EGY	Egypt	Eastern Mediterranean	2013	96
+GMB	Gambia	Africa	2013	96
+LVA	Latvia	Europe	2013	96
+LBY	Libya	Eastern Mediterranean	2013	96
+NLD	Netherlands (Kingdom of the)	Europe	2013	96
+MKD	North Macedonia	Europe	2013	96
+TUV	Tuvalu	Western Pacific	2013	96
+URY	Uruguay	Americas	2013	96
+ARM	Armenia	Europe	2013	97
+BWA	Botswana	Africa	2013	97
+COK	Cook Islands	Western Pacific	2013	97
+ECU	Ecuador	Americas	2013	97
+SWZ	Eswatini	Africa	2013	97
+FIN	Finland	Europe	2013	97
+GEO	Georgia	Europe	2013	97
+DEU	Germany	Europe	2013	97
+HND	Honduras	Americas	2013	97
+JOR	Jordan	Eastern Mediterranean	2013	97
+MNG	Mongolia	Western Pacific	2013	97
+NRU	Naoero	Western Pacific	2013	97
+QAT	Qatar	Eastern Mediterranean	2013	97
+SYC	Seychelles	Africa	2013	97
+SWE	Sweden	Europe	2013	97
+UZB	Uzbekistan	Europe	2013	97
+BRA	Brazil	Americas	2013	98
+BDI	Burundi	Africa	2013	98
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2013	98
+ISR	Israel	Europe	2013	98
+POL	Poland	Europe	2013	98
+PRT	Portugal	Europe	2013	98
+RUS	Russian Federation	Europe	2013	98
+SAU	Saudi Arabia	Eastern Mediterranean	2013	98
+SVK	Slovakia	Europe	2013	98
+TUR	Türkiye	Europe	2013	98
+ARE	United Arab Emirates	Eastern Mediterranean	2013	98
+VNM	Viet Nam	Western Pacific	2013	98
+ALB	Albania	Europe	2013	99
+BHR	Bahrain	Eastern Mediterranean	2013	99
+BLR	Belarus	Europe	2013	99
+BLZ	Belize	Americas	2013	99
+CHN	China	Western Pacific	2013	99
+CUB	Cuba	Americas	2013	99
+CZE	Czechia	Europe	2013	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2013	99
+GRC	Greece	Europe	2013	99
+GUY	Guyana	Americas	2013	99
+HUN	Hungary	Europe	2013	99
+KAZ	Kazakhstan	Europe	2013	99
+KWT	Kuwait	Eastern Mediterranean	2013	99
+KGZ	Kyrgyzstan	Europe	2013	99
+LUX	Luxembourg	Europe	2013	99
+MDV	Maldives	South-East Asia	2013	99
+MLT	Malta	Europe	2013	99
+MUS	Mauritius	Africa	2013	99
+MAR	Morocco	Eastern Mediterranean	2013	99
+NIC	Nicaragua	Americas	2013	99
+NIU	Niue	Western Pacific	2013	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2013	99
+OMN	Oman	Eastern Mediterranean	2013	99
+PLW	Palau	Western Pacific	2013	99
+KOR	Republic of Korea	Western Pacific	2013	99
+KNA	Saint Kitts and Nevis	Americas	2013	99
+LCA	Saint Lucia	Americas	2013	99
+VCT	Saint Vincent and the Grenadines	Americas	2013	99
+LKA	Sri Lanka	South-East Asia	2013	99
+THA	Thailand	South-East Asia	2013	99
+TON	Tonga	Western Pacific	2013	99
+TKM	Turkmenistan	Europe	2013	99
+TZA	United Republic of Tanzania	Africa	2013	99
+NGA	Nigeria	Africa	2012	42
+SOM	Somalia	Eastern Mediterranean	2012	46
+CAF	Central African Republic	Africa	2012	48
+GNQ	Equatorial Guinea	Africa	2012	49
+GIN	Guinea	Africa	2012	58
+AFG	Afghanistan	Eastern Mediterranean	2012	59
+AGO	Angola	Africa	2012	59
+SSD	South Sudan	Africa	2012	59
+ETH	Ethiopia	Africa	2012	62
+TCD	Chad	Africa	2012	63
+MDG	Madagascar	Africa	2012	63
+PAK	Pakistan	Eastern Mediterranean	2012	63
+YEM	Yemen	Eastern Mediterranean	2012	63
+SUR	Suriname	Americas	2012	64
+HTI	Haiti	Americas	2012	66
+MLI	Mali	Africa	2012	67
+COD	Democratic Republic of the Congo	Africa	2012	69
+LAO	Lao People's Democratic Republic	Western Pacific	2012	69
+GAB	Gabon	Africa	2012	71
+PNG	Papua New Guinea	Western Pacific	2012	71
+SYR	Syrian Arab Republic	Eastern Mediterranean	2012	72
+TGO	Togo	Africa	2012	72
+TLS	Timor-Leste	South-East Asia	2012	73
+BEN	Benin	Africa	2012	74
+CIV	Cote d'Ivoire	Africa	2012	74
+CMR	Cameroon	Africa	2012	74
+IRQ	Iraq	Eastern Mediterranean	2012	74
+MRT	Mauritania	Africa	2012	75
+NER	Niger	Africa	2012	75
+NAM	Namibia	Africa	2012	76
+WSM	Samoa	Western Pacific	2012	76
+MHL	Marshall Islands	Western Pacific	2012	78
+ZAF	South Africa	Africa	2012	79
+UKR	Ukraine	Europe	2012	79
+COG	Congo	Africa	2012	80
+LBR	Liberia	Africa	2012	80
+UGA	Uganda	Africa	2012	80
+VUT	Vanuatu	Western Pacific	2012	80
+GNB	Guinea-Bissau	Africa	2012	81
+IDN	Indonesia	Western Pacific	2012	82
+ZMB	Zambia	Africa	2012	82
+AUT	Austria	Europe	2012	83
+DJI	Djibouti	Eastern Mediterranean	2012	83
+IND	India	South-East Asia	2012	83
+LBN	Lebanon	Eastern Mediterranean	2012	83
+MOZ	Mozambique	Africa	2012	83
+SEN	Senegal	Africa	2012	83
+KHM	Cambodia	Western Pacific	2012	84
+MMR	Myanmar	South-East Asia	2012	84
+PHL	Philippines	Western Pacific	2012	84
+SMR	San Marino	Europe	2012	84
+COM	Comoros	Africa	2012	85
+SDN	Sudan	Eastern Mediterranean	2012	85
+TTO	Trinidad and Tobago	Americas	2012	85
+AZE	Azerbaijan	Europe	2012	86
+CYP	Cyprus	Europe	2012	86
+NPL	Nepal	South-East Asia	2012	86
+SLE	Sierra Leone	Africa	2012	86
+BFA	Burkina Faso	Africa	2012	87
+SRB	Serbia	Europe	2012	87
+SLB	Solomon Islands	Western Pacific	2012	87
+VEN	Venezuela (Bolivarian Republic of)	Americas	2012	87
+BGD	Bangladesh	South-East Asia	2012	88
+DOM	Dominican Republic	Americas	2012	88
+SWZ	Eswatini	Africa	2012	88
+PRY	Paraguay	Americas	2012	88
+CAN	Canada	Americas	2012	89
+GHA	Ghana	Africa	2012	89
+BRB	Barbados	Americas	2012	90
+CHL	Chile	Americas	2012	90
+CRI	Costa Rica	Americas	2012	90
+DNK	Denmark	Europe	2012	90
+ISL	Iceland	Europe	2012	90
+ITA	Italy	Europe	2012	90
+LVA	Latvia	Europe	2012	90
+MWI	Malawi	Africa	2012	90
+MNE	Montenegro	Europe	2012	90
+TJK	Tajikistan	Europe	2012	90
+BHS	Bahamas	Americas	2012	91
+CPV	Cabo Verde	Africa	2012	91
+FRA	France	Europe	2012	91
+KIR	Kiribati	Western Pacific	2012	91
+LSO	Lesotho	Africa	2012	91
+FSM	Micronesia (Federated States of)	Western Pacific	2012	91
+MCO	Monaco	Europe	2012	91
+PLW	Palau	Western Pacific	2012	91
+MDA	Republic of Moldova	Europe	2012	91
+USA	United States of America	Americas	2012	91
+BOL	Bolivia (Plurinational State of)	Americas	2012	92
+IRL	Ireland	Europe	2012	92
+NZL	New Zealand	Western Pacific	2012	92
+STP	Sao Tome and Principe	Africa	2012	92
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2012	92
+BDI	Burundi	Africa	2012	93
+EGY	Egypt	Eastern Mediterranean	2012	93
+SLV	El Salvador	Americas	2012	93
+GEO	Georgia	Europe	2012	93
+GTM	Guatemala	Americas	2012	93
+JAM	Jamaica	Americas	2012	93
+KEN	Kenya	Africa	2012	93
+LTU	Lithuania	Europe	2012	93
+MLT	Malta	Europe	2012	93
+CHE	Switzerland	Europe	2012	93
+ARG	Argentina	Americas	2012	94
+AUS	Australia	Western Pacific	2012	94
+BIH	Bosnia and Herzegovina	Europe	2012	94
+BGR	Bulgaria	Europe	2012	94
+COL	Colombia	Americas	2012	94
+EST	Estonia	Europe	2012	94
+GRD	Grenada	Americas	2012	94
+NOR	Norway	Europe	2012	94
+PER	Peru	Americas	2012	94
+ROU	Romania	Europe	2012	94
+VCT	Saint Vincent and the Grenadines	Americas	2012	94
+DZA	Algeria	Africa	2012	95
+BTN	Bhutan	South-East Asia	2012	95
+BRN	Brunei Darussalam	Western Pacific	2012	95
+HRV	Croatia	Europe	2012	95
+GMB	Gambia	Africa	2012	95
+MYS	Malaysia	Western Pacific	2012	95
+KNA	Saint Kitts and Nevis	Americas	2012	95
+SGP	Singapore	Western Pacific	2012	95
+SVN	Slovenia	Europe	2012	95
+TON	Tonga	Western Pacific	2012	95
+BEL	Belgium	Europe	2012	96
+BLZ	Belize	Americas	2012	96
+ECU	Ecuador	Americas	2012	96
+ISR	Israel	Europe	2012	96
+JPN	Japan	Western Pacific	2012	96
+KAZ	Kazakhstan	Europe	2012	96
+NRU	Naoero	Western Pacific	2012	96
+NLD	Netherlands (Kingdom of the)	Europe	2012	96
+MKD	North Macedonia	Europe	2012	96
+TUR	Türkiye	Europe	2012	96
+TUN	Tunisia	Eastern Mediterranean	2012	96
+ARE	United Arab Emirates	Eastern Mediterranean	2012	96
+URY	Uruguay	Americas	2012	96
+VNM	Viet Nam	Western Pacific	2012	96
+ARM	Armenia	Europe	2012	97
+BWA	Botswana	Africa	2012	97
+COK	Cook Islands	Western Pacific	2012	97
+FIN	Finland	Europe	2012	97
+DEU	Germany	Europe	2012	97
+HND	Honduras	Americas	2012	97
+PRT	Portugal	Europe	2012	97
+QAT	Qatar	Eastern Mediterranean	2012	97
+RWA	Rwanda	Africa	2012	97
+ESP	Spain	Europe	2012	97
+SWE	Sweden	Europe	2012	97
+TZA	United Republic of Tanzania	Africa	2012	97
+ZWE	Zimbabwe	Africa	2012	97
+ALB	Albania	Europe	2012	98
+AND	Andorra	Europe	2012	98
+ATG	Antigua and Barbuda	Americas	2012	98
+BLR	Belarus	Europe	2012	98
+CZE	Czechia	Europe	2012	98
+ERI	Eritrea	Africa	2012	98
+FJI	Fiji	Western Pacific	2012	98
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2012	98
+JOR	Jordan	Eastern Mediterranean	2012	98
+KGZ	Kyrgyzstan	Europe	2012	98
+LBY	Libya	Eastern Mediterranean	2012	98
+MDV	Maldives	South-East Asia	2012	98
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2012	98
+PAN	Panama	Americas	2012	98
+POL	Poland	Europe	2012	98
+RUS	Russian Federation	Europe	2012	98
+SAU	Saudi Arabia	Eastern Mediterranean	2012	98
+SYC	Seychelles	Africa	2012	98
+THA	Thailand	South-East Asia	2012	98
+TUV	Tuvalu	Western Pacific	2012	98
+BHR	Bahrain	Eastern Mediterranean	2012	99
+BRA	Brazil	Americas	2012	99
+CHN	China	Western Pacific	2012	99
+CUB	Cuba	Americas	2012	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2012	99
+DMA	Dominica	Americas	2012	99
+GRC	Greece	Europe	2012	99
+GUY	Guyana	Americas	2012	99
+HUN	Hungary	Europe	2012	99
+KWT	Kuwait	Eastern Mediterranean	2012	99
+LUX	Luxembourg	Europe	2012	99
+MUS	Mauritius	Africa	2012	99
+MEX	Mexico	Americas	2012	99
+MNG	Mongolia	Western Pacific	2012	99
+MAR	Morocco	Eastern Mediterranean	2012	99
+NIC	Nicaragua	Americas	2012	99
+NIU	Niue	Western Pacific	2012	99
+OMN	Oman	Eastern Mediterranean	2012	99
+KOR	Republic of Korea	Western Pacific	2012	99
+LCA	Saint Lucia	Americas	2012	99
+SVK	Slovakia	Europe	2012	99
+LKA	Sri Lanka	South-East Asia	2012	99
+TKM	Turkmenistan	Europe	2012	99
+UZB	Uzbekistan	Europe	2012	99
+GNQ	Equatorial Guinea	Africa	2011	46
+SOM	Somalia	Eastern Mediterranean	2011	46
+CIV	Cote d'Ivoire	Africa	2011	49
+CAF	Central African Republic	Africa	2011	49
+NGA	Nigeria	Africa	2011	49
+TCD	Chad	Africa	2011	54
+AGO	Angola	Africa	2011	59
+PAK	Pakistan	Eastern Mediterranean	2011	59
+WSM	Samoa	Western Pacific	2011	59
+GIN	Guinea	Africa	2011	62
+MDG	Madagascar	Africa	2011	62
+SSD	South Sudan	Africa	2011	62
+TLS	Timor-Leste	South-East Asia	2011	62
+AFG	Afghanistan	Eastern Mediterranean	2011	64
+HTI	Haiti	Americas	2011	65
+COD	Democratic Republic of the Congo	Africa	2011	66
+PNG	Papua New Guinea	Western Pacific	2011	66
+YEM	Yemen	Eastern Mediterranean	2011	66
+LAO	Lao People's Democratic Republic	Western Pacific	2011	67
+MRT	Mauritania	Africa	2011	67
+UKR	Ukraine	Europe	2011	67
+ETH	Ethiopia	Africa	2011	68
+NER	Niger	Africa	2011	69
+BEN	Benin	Africa	2011	70
+LBR	Liberia	Africa	2011	71
+GAB	Gabon	Africa	2011	72
+MLI	Mali	Africa	2011	72
+TGO	Togo	Africa	2011	72
+NAM	Namibia	Africa	2011	74
+UGA	Uganda	Africa	2011	75
+VUT	Vanuatu	Western Pacific	2011	75
+CMR	Cameroon	Africa	2011	76
+SLB	Solomon Islands	Western Pacific	2011	77
+ZAF	South Africa	Africa	2011	77
+COM	Comoros	Africa	2011	79
+SUR	Suriname	Americas	2011	79
+IDN	Indonesia	Western Pacific	2011	80
+IRQ	Iraq	Eastern Mediterranean	2011	80
+SYR	Syrian Arab Republic	Eastern Mediterranean	2011	80
+AUT	Austria	Europe	2011	81
+MOZ	Mozambique	Africa	2011	82
+COG	Congo	Africa	2011	83
+CRI	Costa Rica	Americas	2011	83
+GNB	Guinea-Bissau	Africa	2011	83
+ZMB	Zambia	Africa	2011	83
+DJI	Djibouti	Eastern Mediterranean	2011	84
+IND	India	South-East Asia	2011	84
+MLT	Malta	Europe	2011	84
+SEN	Senegal	Africa	2011	84
+SLE	Sierra Leone	Africa	2011	84
+LBN	Lebanon	Eastern Mediterranean	2011	85
+PLW	Palau	Western Pacific	2011	85
+PHL	Philippines	Western Pacific	2011	86
+VEN	Venezuela (Bolivarian Republic of)	Americas	2011	86
+CYP	Cyprus	Europe	2011	87
+DNK	Denmark	Europe	2011	87
+DOM	Dominican Republic	Americas	2011	87
+SWZ	Eswatini	Africa	2011	87
+KEN	Kenya	Africa	2011	87
+SDN	Sudan	Eastern Mediterranean	2011	87
+AZE	Azerbaijan	Europe	2011	88
+KHM	Cambodia	Western Pacific	2011	88
+CAN	Canada	Americas	2011	88
+COL	Colombia	Americas	2011	88
+JAM	Jamaica	Americas	2011	88
+MHL	Marshall Islands	Western Pacific	2011	88
+MMR	Myanmar	South-East Asia	2011	88
+NPL	Nepal	South-East Asia	2011	88
+BIH	Bosnia and Herzegovina	Europe	2011	89
+BFA	Burkina Faso	Africa	2011	89
+COK	Cook Islands	Western Pacific	2011	89
+SLV	El Salvador	Americas	2011	89
+FRA	France	Europe	2011	89
+GTM	Guatemala	Americas	2011	89
+BHS	Bahamas	Americas	2011	90
+ITA	Italy	Europe	2011	90
+KIR	Kiribati	Western Pacific	2011	90
+SMR	San Marino	Europe	2011	90
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2011	90
+BRN	Brunei Darussalam	Western Pacific	2011	91
+CHL	Chile	Americas	2011	91
+GMB	Gambia	Africa	2011	91
+GEO	Georgia	Europe	2011	91
+GHA	Ghana	Africa	2011	91
+MCO	Monaco	Europe	2011	91
+MNE	Montenegro	Europe	2011	91
+PRY	Paraguay	Americas	2011	91
+MDA	Republic of Moldova	Europe	2011	91
+LCA	Saint Lucia	Americas	2011	91
+STP	Sao Tome and Principe	Africa	2011	91
+IRL	Ireland	Europe	2011	92
+LVA	Latvia	Europe	2011	92
+LSO	Lesotho	Africa	2011	92
+FSM	Micronesia (Federated States of)	Western Pacific	2011	92
+TTO	Trinidad and Tobago	Americas	2011	92
+USA	United States of America	Americas	2011	92
+ZWE	Zimbabwe	Africa	2011	92
+BGD	Bangladesh	South-East Asia	2011	93
+BRB	Barbados	Americas	2011	93
+BDI	Burundi	Africa	2011	93
+NZL	New Zealand	Western Pacific	2011	93
+NOR	Norway	Europe	2011	93
+ROU	Romania	Europe	2011	93
+SRB	Serbia	Europe	2011	93
+CHE	Switzerland	Europe	2011	93
+TJK	Tajikistan	Europe	2011	93
+TZA	United Republic of Tanzania	Africa	2011	93
+AUS	Australia	Western Pacific	2011	94
+ECU	Ecuador	Americas	2011	94
+EST	Estonia	Europe	2011	94
+ISL	Iceland	Europe	2011	94
+JPN	Japan	Western Pacific	2011	94
+LTU	Lithuania	Europe	2011	94
+DZA	Algeria	Africa	2011	95
+ARG	Argentina	Americas	2011	95
+BEL	Belgium	Europe	2011	95
+BTN	Bhutan	South-East Asia	2011	95
+BGR	Bulgaria	Europe	2011	95
+GRD	Grenada	Americas	2011	95
+MYS	Malaysia	Western Pacific	2011	95
+RWA	Rwanda	Africa	2011	95
+SGP	Singapore	Western Pacific	2011	95
+ARE	United Arab Emirates	Eastern Mediterranean	2011	95
+URY	Uruguay	Americas	2011	95
+BOL	Bolivia (Plurinational State of)	Americas	2011	96
+CPV	Cabo Verde	Africa	2011	96
+HRV	Croatia	Europe	2011	96
+EGY	Egypt	Eastern Mediterranean	2011	96
+ERI	Eritrea	Africa	2011	96
+FJI	Fiji	Western Pacific	2011	96
+LUX	Luxembourg	Europe	2011	96
+MWI	Malawi	Africa	2011	96
+MDV	Maldives	South-East Asia	2011	96
+NLD	Netherlands (Kingdom of the)	Europe	2011	96
+PER	Peru	Americas	2011	96
+SVN	Slovenia	Europe	2011	96
+TUN	Tunisia	Eastern Mediterranean	2011	96
+VNM	Viet Nam	Western Pacific	2011	96
+ARM	Armenia	Europe	2011	97
+BWA	Botswana	Africa	2011	97
+FIN	Finland	Europe	2011	97
+DEU	Germany	Europe	2011	97
+HND	Honduras	Americas	2011	97
+ISR	Israel	Europe	2011	97
+KGZ	Kyrgyzstan	Europe	2011	97
+MKD	North Macedonia	Europe	2011	97
+PAN	Panama	Americas	2011	97
+PRT	Portugal	Europe	2011	97
+VCT	Saint Vincent and the Grenadines	Americas	2011	97
+ESP	Spain	Europe	2011	97
+SWE	Sweden	Europe	2011	97
+BLZ	Belize	Americas	2011	98
+CZE	Czechia	Europe	2011	98
+GUY	Guyana	Americas	2011	98
+JOR	Jordan	Eastern Mediterranean	2011	98
+LBY	Libya	Eastern Mediterranean	2011	98
+MEX	Mexico	Americas	2011	98
+MNG	Mongolia	Western Pacific	2011	98
+POL	Poland	Europe	2011	98
+QAT	Qatar	Eastern Mediterranean	2011	98
+RUS	Russian Federation	Europe	2011	98
+SAU	Saudi Arabia	Eastern Mediterranean	2011	98
+SVK	Slovakia	Europe	2011	98
+TUR	Türkiye	Europe	2011	98
+THA	Thailand	South-East Asia	2011	98
+TUV	Tuvalu	Western Pacific	2011	98
+ALB	Albania	Europe	2011	99
+AND	Andorra	Europe	2011	99
+ATG	Antigua and Barbuda	Americas	2011	99
+BHR	Bahrain	Eastern Mediterranean	2011	99
+BLR	Belarus	Europe	2011	99
+BRA	Brazil	Americas	2011	99
+CHN	China	Western Pacific	2011	99
+CUB	Cuba	Americas	2011	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2011	99
+DMA	Dominica	Americas	2011	99
+GRC	Greece	Europe	2011	99
+HUN	Hungary	Europe	2011	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2011	99
+KAZ	Kazakhstan	Europe	2011	99
+KWT	Kuwait	Eastern Mediterranean	2011	99
+MUS	Mauritius	Africa	2011	99
+MAR	Morocco	Eastern Mediterranean	2011	99
+NRU	Naoero	Western Pacific	2011	99
+NIC	Nicaragua	Americas	2011	99
+NIU	Niue	Western Pacific	2011	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2011	99
+OMN	Oman	Eastern Mediterranean	2011	99
+KOR	Republic of Korea	Western Pacific	2011	99
+KNA	Saint Kitts and Nevis	Americas	2011	99
+SYC	Seychelles	Africa	2011	99
+LKA	Sri Lanka	South-East Asia	2011	99
+TON	Tonga	Western Pacific	2011	99
+TKM	Turkmenistan	Europe	2011	99
+UZB	Uzbekistan	Europe	2011	99
+PLW	Palau	Western Pacific	2010	39
+GNQ	Equatorial Guinea	Africa	2010	44
+TCD	Chad	Africa	2010	46
+SOM	Somalia	Eastern Mediterranean	2010	46
+CAF	Central African Republic	Africa	2010	53
+NGA	Nigeria	Africa	2010	56
+WSM	Samoa	Western Pacific	2010	56
+UKR	Ukraine	Europe	2010	56
+PAK	Pakistan	Eastern Mediterranean	2010	57
+GIN	Guinea	Africa	2010	58
+AGO	Angola	Africa	2010	59
+AFG	Afghanistan	Eastern Mediterranean	2010	62
+GAB	Gabon	Africa	2010	62
+HTI	Haiti	Americas	2010	63
+PNG	Papua New Guinea	Western Pacific	2010	63
+CIV	Cote d'Ivoire	Africa	2010	64
+ETH	Ethiopia	Africa	2010	64
+LAO	Lao People's Democratic Republic	Western Pacific	2010	64
+LBR	Liberia	Africa	2010	65
+COD	Democratic Republic of the Congo	Africa	2010	66
+MDG	Madagascar	Africa	2010	66
+TLS	Timor-Leste	South-East Asia	2010	66
+MRT	Mauritania	Africa	2010	67
+NER	Niger	Africa	2010	67
+BEN	Benin	Africa	2010	68
+TGO	Togo	Africa	2010	68
+YEM	Yemen	Eastern Mediterranean	2010	68
+VUT	Vanuatu	Western Pacific	2010	71
+COM	Comoros	Africa	2010	72
+ZAF	South Africa	Africa	2010	72
+MLT	Malta	Europe	2010	73
+UGA	Uganda	Africa	2010	73
+SLB	Solomon Islands	Western Pacific	2010	74
+COG	Congo	Africa	2010	75
+IRQ	Iraq	Eastern Mediterranean	2010	75
+NAM	Namibia	Africa	2010	75
+GNB	Guinea-Bissau	Africa	2010	76
+AUT	Austria	Europe	2010	78
+IDN	Indonesia	Western Pacific	2010	78
+MLI	Mali	Africa	2010	78
+CMR	Cameroon	Africa	2010	79
+VEN	Venezuela (Bolivarian Republic of)	Americas	2010	79
+FSM	Micronesia (Federated States of)	Western Pacific	2010	80
+SEN	Senegal	Africa	2010	81
+IND	India	South-East Asia	2010	82
+MOZ	Mozambique	Africa	2010	82
+SLE	Sierra Leone	Africa	2010	82
+SYR	Syrian Arab Republic	Eastern Mediterranean	2010	82
+CRI	Costa Rica	Americas	2010	83
+BRB	Barbados	Americas	2010	85
+DNK	Denmark	Europe	2010	85
+DJI	Djibouti	Eastern Mediterranean	2010	85
+DOM	Dominican Republic	Americas	2010	85
+TUV	Tuvalu	Western Pacific	2010	85
+KEN	Kenya	Africa	2010	86
+LBN	Lebanon	Eastern Mediterranean	2010	86
+NPL	Nepal	South-East Asia	2010	86
+CYP	Cyprus	Europe	2010	87
+PHL	Philippines	Western Pacific	2010	87
+SUR	Suriname	Americas	2010	87
+BGD	Bangladesh	South-East Asia	2010	88
+BOL	Bolivia (Plurinational State of)	Americas	2010	88
+COL	Colombia	Americas	2010	88
+LSO	Lesotho	Africa	2010	88
+MMR	Myanmar	South-East Asia	2010	88
+SMR	San Marino	Europe	2010	88
+AZE	Azerbaijan	Europe	2010	89
+FRA	France	Europe	2010	89
+JAM	Jamaica	Americas	2010	89
+KIR	Kiribati	Western Pacific	2010	89
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2010	89
+KHM	Cambodia	Western Pacific	2010	90
+CAN	Canada	Americas	2010	90
+IRL	Ireland	Europe	2010	90
+MNE	Montenegro	Europe	2010	90
+SDN	Sudan	Eastern Mediterranean	2010	90
+TJK	Tajikistan	Europe	2010	90
+ZWE	Zimbabwe	Africa	2010	90
+BIH	Bosnia and Herzegovina	Europe	2010	91
+ITA	Italy	Europe	2010	91
+NZL	New Zealand	Western Pacific	2010	91
+BFA	Burkina Faso	Africa	2010	92
+BDI	Burundi	Africa	2010	92
+SLV	El Salvador	Americas	2010	92
+GMB	Gambia	Africa	2010	92
+STP	Sao Tome and Principe	Africa	2010	92
+CHE	Switzerland	Europe	2010	92
+TTO	Trinidad and Tobago	Americas	2010	92
+TZA	United Republic of Tanzania	Africa	2010	92
+USA	United States of America	Americas	2010	92
+CHL	Chile	Americas	2010	93
+GHA	Ghana	Africa	2010	93
+GTM	Guatemala	Americas	2010	93
+ISL	Iceland	Europe	2010	93
+MWI	Malawi	Africa	2010	93
+MCO	Monaco	Europe	2010	93
+NOR	Norway	Europe	2010	93
+PRY	Paraguay	Americas	2010	93
+AUS	Australia	Western Pacific	2010	94
+BHS	Bahamas	Americas	2010	94
+BRN	Brunei Darussalam	Western Pacific	2010	94
+SWZ	Eswatini	Africa	2010	94
+GEO	Georgia	Europe	2010	94
+JPN	Japan	Western Pacific	2010	94
+PER	Peru	Americas	2010	94
+ARE	United Arab Emirates	Eastern Mediterranean	2010	94
+DZA	Algeria	Africa	2010	95
+ARG	Argentina	Americas	2010	95
+BEL	Belgium	Europe	2010	95
+BTN	Bhutan	South-East Asia	2010	95
+ECU	Ecuador	Americas	2010	95
+ERI	Eritrea	Africa	2010	95
+EST	Estonia	Europe	2010	95
+GRD	Grenada	Americas	2010	95
+GUY	Guyana	Americas	2010	95
+LVA	Latvia	Europe	2010	95
+MYS	Malaysia	Western Pacific	2010	95
+MEX	Mexico	Americas	2010	95
+ROU	Romania	Europe	2010	95
+RWA	Rwanda	Africa	2010	95
+LCA	Saint Lucia	Americas	2010	95
+SRB	Serbia	Europe	2010	95
+SGP	Singapore	Western Pacific	2010	95
+SVN	Slovenia	Europe	2010	95
+ESP	Spain	Europe	2010	95
+URY	Uruguay	Americas	2010	95
+BWA	Botswana	Africa	2010	96
+HRV	Croatia	Europe	2010	96
+EGY	Egypt	Eastern Mediterranean	2010	96
+FJI	Fiji	Western Pacific	2010	96
+ISR	Israel	Europe	2010	96
+LTU	Lithuania	Europe	2010	96
+LUX	Luxembourg	Europe	2010	96
+NLD	Netherlands (Kingdom of the)	Europe	2010	96
+PRT	Portugal	Europe	2010	96
+ZMB	Zambia	Africa	2010	96
+ARM	Armenia	Europe	2010	97
+BGR	Bulgaria	Europe	2010	97
+CPV	Cabo Verde	Africa	2010	97
+DEU	Germany	Europe	2010	97
+MDV	Maldives	South-East Asia	2010	97
+MHL	Marshall Islands	Western Pacific	2010	97
+MNG	Mongolia	Western Pacific	2010	97
+PAN	Panama	Americas	2010	97
+MDA	Republic of Moldova	Europe	2010	97
+SWE	Sweden	Europe	2010	97
+TUR	Türkiye	Europe	2010	97
+TUN	Tunisia	Eastern Mediterranean	2010	97
+ATG	Antigua and Barbuda	Americas	2010	98
+BLZ	Belize	Americas	2010	98
+CZE	Czechia	Europe	2010	98
+FIN	Finland	Europe	2010	98
+HND	Honduras	Americas	2010	98
+JOR	Jordan	Eastern Mediterranean	2010	98
+KWT	Kuwait	Eastern Mediterranean	2010	98
+LBY	Libya	Eastern Mediterranean	2010	98
+MAR	Morocco	Eastern Mediterranean	2010	98
+MKD	North Macedonia	Europe	2010	98
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2010	98
+POL	Poland	Europe	2010	98
+KOR	Republic of Korea	Western Pacific	2010	98
+RUS	Russian Federation	Europe	2010	98
+SAU	Saudi Arabia	Eastern Mediterranean	2010	98
+SVK	Slovakia	Europe	2010	98
+THA	Thailand	South-East Asia	2010	98
+UZB	Uzbekistan	Europe	2010	98
+VNM	Viet Nam	Western Pacific	2010	98
+ALB	Albania	Europe	2010	99
+AND	Andorra	Europe	2010	99
+BHR	Bahrain	Eastern Mediterranean	2010	99
+BLR	Belarus	Europe	2010	99
+BRA	Brazil	Americas	2010	99
+CHN	China	Western Pacific	2010	99
+COK	Cook Islands	Western Pacific	2010	99
+CUB	Cuba	Americas	2010	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2010	99
+DMA	Dominica	Americas	2010	99
+GRC	Greece	Europe	2010	99
+HUN	Hungary	Europe	2010	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2010	99
+KAZ	Kazakhstan	Europe	2010	99
+KGZ	Kyrgyzstan	Europe	2010	99
+MUS	Mauritius	Africa	2010	99
+NRU	Naoero	Western Pacific	2010	99
+NIC	Nicaragua	Americas	2010	99
+NIU	Niue	Western Pacific	2010	99
+OMN	Oman	Eastern Mediterranean	2010	99
+QAT	Qatar	Eastern Mediterranean	2010	99
+KNA	Saint Kitts and Nevis	Americas	2010	99
+VCT	Saint Vincent and the Grenadines	Americas	2010	99
+SYC	Seychelles	Africa	2010	99
+LKA	Sri Lanka	South-East Asia	2010	99
+TON	Tonga	Western Pacific	2010	99
+TKM	Turkmenistan	Europe	2010	99
+TCD	Chad	Africa	2009	36
+SOM	Somalia	Eastern Mediterranean	2009	43
+GNQ	Equatorial Guinea	Africa	2009	45
+WSM	Samoa	Western Pacific	2009	45
+GIN	Guinea	Africa	2009	53
+CAF	Central African Republic	Africa	2009	56
+PAK	Pakistan	Eastern Mediterranean	2009	56
+AGO	Angola	Africa	2009	58
+ETH	Ethiopia	Africa	2009	59
+LAO	Lao People's Democratic Republic	Western Pacific	2009	59
+MRT	Mauritania	Africa	2009	59
+AFG	Afghanistan	Eastern Mediterranean	2009	60
+HTI	Haiti	Americas	2009	62
+COG	Congo	Africa	2009	63
+GAB	Gabon	Africa	2009	63
+MDG	Madagascar	Africa	2009	63
+NGA	Nigeria	Africa	2009	64
+COD	Democratic Republic of the Congo	Africa	2009	65
+PNG	Papua New Guinea	Western Pacific	2009	65
+VUT	Vanuatu	Western Pacific	2009	65
+YEM	Yemen	Eastern Mediterranean	2009	65
+TGO	Togo	Africa	2009	66
+CIV	Cote d'Ivoire	Africa	2009	67
+GNB	Guinea-Bissau	Africa	2009	69
+NER	Niger	Africa	2009	69
+SLB	Solomon Islands	Western Pacific	2009	69
+TLS	Timor-Leste	South-East Asia	2009	70
+BEN	Benin	Africa	2009	71
+MLI	Mali	Africa	2009	73
+CMR	Cameroon	Africa	2009	74
+IDN	Indonesia	Western Pacific	2009	74
+PLW	Palau	Western Pacific	2009	75
+UKR	Ukraine	Europe	2009	75
+AUT	Austria	Europe	2009	76
+NAM	Namibia	Africa	2009	76
+ZWE	Zimbabwe	Africa	2009	76
+ZAF	South Africa	Africa	2009	77
+UGA	Uganda	Africa	2009	77
+COK	Cook Islands	Western Pacific	2009	78
+IND	India	South-East Asia	2009	78
+MHL	Marshall Islands	Western Pacific	2009	78
+COM	Comoros	Africa	2009	79
+SEN	Senegal	Africa	2009	79
+MOZ	Mozambique	Africa	2009	80
+SLE	Sierra Leone	Africa	2009	80
+CRI	Costa Rica	Americas	2009	81
+IRQ	Iraq	Eastern Mediterranean	2009	81
+KIR	Kiribati	Western Pacific	2009	82
+MLT	Malta	Europe	2009	82
+SDN	Sudan	Eastern Mediterranean	2009	82
+SYR	Syrian Arab Republic	Eastern Mediterranean	2009	82
+GEO	Georgia	Europe	2009	83
+LBR	Liberia	Africa	2009	83
+DNK	Denmark	Europe	2009	84
+DJI	Djibouti	Eastern Mediterranean	2009	84
+DOM	Dominican Republic	Americas	2009	84
+LSO	Lesotho	Africa	2009	84
+AZE	Azerbaijan	Europe	2009	85
+FSM	Micronesia (Federated States of)	Western Pacific	2009	86
+MNE	Montenegro	Europe	2009	86
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2009	86
+CYP	Cyprus	Europe	2009	87
+MMR	Myanmar	South-East Asia	2009	87
+TJK	Tajikistan	Europe	2009	87
+VEN	Venezuela (Bolivarian Republic of)	Americas	2009	87
+JAM	Jamaica	Americas	2009	88
+KEN	Kenya	Africa	2009	88
+LBN	Lebanon	Eastern Mediterranean	2009	88
+SMR	San Marino	Europe	2009	88
+SUR	Suriname	Americas	2009	88
+FRA	France	Europe	2009	89
+NZL	New Zealand	Western Pacific	2009	89
+PHL	Philippines	Western Pacific	2009	89
+IRL	Ireland	Europe	2009	90
+ITA	Italy	Europe	2009	90
+NPL	Nepal	South-East Asia	2009	90
+MDA	Republic of Moldova	Europe	2009	90
+STP	Sao Tome and Principe	Africa	2009	90
+TUV	Tuvalu	Western Pacific	2009	90
+USA	United States of America	Americas	2009	90
+ZMB	Zambia	Africa	2009	90
+BDI	Burundi	Africa	2009	91
+CAN	Canada	Americas	2009	91
+SLV	El Salvador	Americas	2009	91
+PRY	Paraguay	Americas	2009	91
+PER	Peru	Americas	2009	91
+TZA	United Republic of Tanzania	Africa	2009	91
+DZA	Algeria	Africa	2009	92
+KHM	Cambodia	Western Pacific	2009	92
+GTM	Guatemala	Americas	2009	92
+ISL	Iceland	Europe	2009	92
+LVA	Latvia	Europe	2009	92
+MWI	Malawi	Africa	2009	92
+MCO	Monaco	Europe	2009	92
+CHE	Switzerland	Europe	2009	92
+BGD	Bangladesh	South-East Asia	2009	93
+BOL	Bolivia (Plurinational State of)	Americas	2009	93
+BIH	Bosnia and Herzegovina	Europe	2009	93
+CHL	Chile	Americas	2009	93
+ERI	Eritrea	Africa	2009	93
+GHA	Ghana	Africa	2009	93
+NOR	Norway	Europe	2009	93
+KOR	Republic of Korea	Western Pacific	2009	93
+ARE	United Arab Emirates	Eastern Mediterranean	2009	93
+AUS	Australia	Western Pacific	2009	94
+BRB	Barbados	Americas	2009	94
+BTN	Bhutan	South-East Asia	2009	94
+BFA	Burkina Faso	Africa	2009	94
+SWZ	Eswatini	Africa	2009	94
+JPN	Japan	Western Pacific	2009	94
+MNG	Mongolia	Western Pacific	2009	94
+TTO	Trinidad and Tobago	Americas	2009	94
+URY	Uruguay	Americas	2009	94
+BEL	Belgium	Europe	2009	95
+COL	Colombia	Americas	2009	95
+HRV	Croatia	Europe	2009	95
+EGY	Egypt	Eastern Mediterranean	2009	95
+EST	Estonia	Europe	2009	95
+FJI	Fiji	Western Pacific	2009	95
+JOR	Jordan	Eastern Mediterranean	2009	95
+MYS	Malaysia	Western Pacific	2009	95
+PRT	Portugal	Europe	2009	95
+RWA	Rwanda	Africa	2009	95
+SRB	Serbia	Europe	2009	95
+SGP	Singapore	Western Pacific	2009	95
+SVN	Slovenia	Europe	2009	95
+UZB	Uzbekistan	Europe	2009	95
+ARG	Argentina	Americas	2009	96
+ARM	Armenia	Europe	2009	96
+BWA	Botswana	Africa	2009	96
+BGR	Bulgaria	Europe	2009	96
+GMB	Gambia	Africa	2009	96
+LTU	Lithuania	Europe	2009	96
+LUX	Luxembourg	Europe	2009	96
+MEX	Mexico	Americas	2009	96
+NLD	Netherlands (Kingdom of the)	Europe	2009	96
+MKD	North Macedonia	Europe	2009	96
+PAN	Panama	Americas	2009	96
+ROU	Romania	Europe	2009	96
+ALB	Albania	Europe	2009	97
+BLZ	Belize	Americas	2009	97
+CPV	Cabo Verde	Africa	2009	97
+ECU	Ecuador	Americas	2009	97
+DEU	Germany	Europe	2009	97
+GUY	Guyana	Americas	2009	97
+ISR	Israel	Europe	2009	97
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2009	97
+SYC	Seychelles	Africa	2009	97
+LKA	Sri Lanka	South-East Asia	2009	97
+SWE	Sweden	Europe	2009	97
+TUR	Türkiye	Europe	2009	97
+VNM	Viet Nam	Western Pacific	2009	97
+AND	Andorra	Europe	2009	98
+BHS	Bahamas	Americas	2009	98
+CZE	Czechia	Europe	2009	98
+PRK	Democratic People's Republic of Korea	South-East Asia	2009	98
+FIN	Finland	Europe	2009	98
+GRD	Grenada	Americas	2009	98
+HND	Honduras	Americas	2009	98
+LBY	Libya	Eastern Mediterranean	2009	98
+MDV	Maldives	South-East Asia	2009	98
+MAR	Morocco	Eastern Mediterranean	2009	98
+POL	Poland	Europe	2009	98
+RUS	Russian Federation	Europe	2009	98
+SAU	Saudi Arabia	Eastern Mediterranean	2009	98
+ESP	Spain	Europe	2009	98
+THA	Thailand	South-East Asia	2009	98
+TUN	Tunisia	Eastern Mediterranean	2009	98
+ATG	Antigua and Barbuda	Americas	2009	99
+BHR	Bahrain	Eastern Mediterranean	2009	99
+BLR	Belarus	Europe	2009	99
+BRA	Brazil	Americas	2009	99
+BRN	Brunei Darussalam	Western Pacific	2009	99
+CHN	China	Western Pacific	2009	99
+CUB	Cuba	Americas	2009	99
+DMA	Dominica	Americas	2009	99
+GRC	Greece	Europe	2009	99
+HUN	Hungary	Europe	2009	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2009	99
+KAZ	Kazakhstan	Europe	2009	99
+KWT	Kuwait	Eastern Mediterranean	2009	99
+KGZ	Kyrgyzstan	Europe	2009	99
+MUS	Mauritius	Africa	2009	99
+NRU	Naoero	Western Pacific	2009	99
+NIC	Nicaragua	Americas	2009	99
+NIU	Niue	Western Pacific	2009	99
+OMN	Oman	Eastern Mediterranean	2009	99
+QAT	Qatar	Eastern Mediterranean	2009	99
+KNA	Saint Kitts and Nevis	Americas	2009	99
+LCA	Saint Lucia	Americas	2009	99
+VCT	Saint Vincent and the Grenadines	Americas	2009	99
+SVK	Slovakia	Europe	2009	99
+TON	Tonga	Western Pacific	2009	99
+TKM	Turkmenistan	Europe	2009	99
+TCD	Chad	Africa	2008	27
+SOM	Somalia	Eastern Mediterranean	2008	34
+WSM	Samoa	Western Pacific	2008	44
+GNQ	Equatorial Guinea	Africa	2008	45
+LAO	Lao People's Democratic Republic	Western Pacific	2008	52
+NGA	Nigeria	Africa	2008	53
+ETH	Ethiopia	Africa	2008	54
+GIN	Guinea	Africa	2008	55
+PAK	Pakistan	Eastern Mediterranean	2008	56
+AGO	Angola	Africa	2008	58
+CAF	Central African Republic	Africa	2008	58
+AFG	Afghanistan	Eastern Mediterranean	2008	59
+HTI	Haiti	Americas	2008	59
+VUT	Vanuatu	Western Pacific	2008	62
+CIV	Cote d'Ivoire	Africa	2008	63
+TGO	Togo	Africa	2008	63
+COD	Democratic Republic of the Congo	Africa	2008	64
+MRT	Mauritania	Africa	2008	65
+BEN	Benin	Africa	2008	66
+NER	Niger	Africa	2008	66
+PNG	Papua New Guinea	Western Pacific	2008	66
+GAB	Gabon	Africa	2008	67
+COG	Congo	Africa	2008	69
+YEM	Yemen	Eastern Mediterranean	2008	69
+MDG	Madagascar	Africa	2008	70
+UGA	Uganda	Africa	2008	70
+ZWE	Zimbabwe	Africa	2008	70
+GNB	Guinea-Bissau	Africa	2008	71
+MLI	Mali	Africa	2008	71
+SLB	Solomon Islands	Western Pacific	2008	71
+IND	India	South-East Asia	2008	72
+KIR	Kiribati	Western Pacific	2008	72
+DJI	Djibouti	Eastern Mediterranean	2008	73
+NAM	Namibia	Africa	2008	73
+SLE	Sierra Leone	Africa	2008	73
+ZAF	South Africa	Africa	2008	73
+TLS	Timor-Leste	South-East Asia	2008	73
+IRQ	Iraq	Eastern Mediterranean	2008	75
+COM	Comoros	Africa	2008	76
+IDN	Indonesia	Western Pacific	2008	76
+LBR	Liberia	Africa	2008	76
+MOZ	Mozambique	Africa	2008	77
+SEN	Senegal	Africa	2008	77
+MLT	Malta	Europe	2008	78
+AZE	Azerbaijan	Europe	2008	79
+NPL	Nepal	South-East Asia	2008	79
+SDN	Sudan	Eastern Mediterranean	2008	79
+CMR	Cameroon	Africa	2008	80
+LSO	Lesotho	Africa	2008	80
+SYR	Syrian Arab Republic	Eastern Mediterranean	2008	81
+MMR	Myanmar	South-East Asia	2008	82
+AUT	Austria	Europe	2008	83
+DOM	Dominican Republic	Americas	2008	83
+BIH	Bosnia and Herzegovina	Europe	2008	84
+BDI	Burundi	Africa	2008	84
+TJK	Tajikistan	Europe	2008	84
+GHA	Ghana	Africa	2008	86
+MHL	Marshall Islands	Western Pacific	2008	86
+FSM	Micronesia (Federated States of)	Western Pacific	2008	86
+NZL	New Zealand	Western Pacific	2008	86
+SMR	San Marino	Europe	2008	86
+SUR	Suriname	Americas	2008	86
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2008	86
+CYP	Cyprus	Europe	2008	87
+DNK	Denmark	Europe	2008	87
+ZMB	Zambia	Africa	2008	87
+DZA	Algeria	Africa	2008	88
+JAM	Jamaica	Americas	2008	88
+MWI	Malawi	Africa	2008	88
+TZA	United Republic of Tanzania	Africa	2008	88
+KHM	Cambodia	Western Pacific	2008	89
+CRI	Costa Rica	Americas	2008	89
+FRA	France	Europe	2008	89
+IRL	Ireland	Europe	2008	89
+LBN	Lebanon	Eastern Mediterranean	2008	89
+MNE	Montenegro	Europe	2008	89
+BHS	Bahamas	Americas	2008	90
+ITA	Italy	Europe	2008	90
+KEN	Kenya	Africa	2008	90
+PHL	Philippines	Western Pacific	2008	90
+ERI	Eritrea	Africa	2008	91
+PRY	Paraguay	Americas	2008	91
+TTO	Trinidad and Tobago	Americas	2008	91
+BGD	Bangladesh	South-East Asia	2008	92
+BOL	Bolivia (Plurinational State of)	Americas	2008	92
+COL	Colombia	Americas	2008	92
+EGY	Egypt	Eastern Mediterranean	2008	92
+GMB	Gambia	Africa	2008	92
+PER	Peru	Americas	2008	92
+KOR	Republic of Korea	Western Pacific	2008	92
+RWA	Rwanda	Africa	2008	92
+SRB	Serbia	Europe	2008	92
+CHE	Switzerland	Europe	2008	92
+ARE	United Arab Emirates	Eastern Mediterranean	2008	92
+USA	United States of America	Americas	2008	92
+VNM	Viet Nam	Western Pacific	2008	92
+BEL	Belgium	Europe	2008	93
+CAN	Canada	Americas	2008	93
+HND	Honduras	Americas	2008	93
+NOR	Norway	Europe	2008	93
+STP	Sao Tome and Principe	Africa	2008	93
+TUV	Tuvalu	Western Pacific	2008	93
+VEN	Venezuela (Bolivarian Republic of)	Americas	2008	93
+ARM	Armenia	Europe	2008	94
+AUS	Australia	Western Pacific	2008	94
+BRB	Barbados	Americas	2008	94
+BFA	Burkina Faso	Africa	2008	94
+SWZ	Eswatini	Africa	2008	94
+MCO	Monaco	Europe	2008	94
+UKR	Ukraine	Europe	2008	94
+BWA	Botswana	Africa	2008	95
+COK	Cook Islands	Western Pacific	2008	95
+SLV	El Salvador	Americas	2008	95
+EST	Estonia	Europe	2008	95
+FJI	Fiji	Western Pacific	2008	95
+GUY	Guyana	Americas	2008	95
+JPN	Japan	Western Pacific	2008	95
+JOR	Jordan	Eastern Mediterranean	2008	95
+MYS	Malaysia	Western Pacific	2008	95
+MDA	Republic of Moldova	Europe	2008	95
+SGP	Singapore	Western Pacific	2008	95
+URY	Uruguay	Americas	2008	95
+ARG	Argentina	Americas	2008	96
+BLZ	Belize	Americas	2008	96
+BGR	Bulgaria	Europe	2008	96
+CHL	Chile	Americas	2008	96
+HRV	Croatia	Europe	2008	96
+GTM	Guatemala	Americas	2008	96
+ISL	Iceland	Europe	2008	96
+LVA	Latvia	Europe	2008	96
+LUX	Luxembourg	Europe	2008	96
+MEX	Mexico	Americas	2008	96
+MAR	Morocco	Eastern Mediterranean	2008	96
+NLD	Netherlands (Kingdom of the)	Europe	2008	96
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2008	96
+PAN	Panama	Americas	2008	96
+QAT	Qatar	Eastern Mediterranean	2008	96
+ROU	Romania	Europe	2008	96
+SVN	Slovenia	Europe	2008	96
+SWE	Sweden	Europe	2008	96
+CPV	Cabo Verde	Africa	2008	97
+CHN	China	Western Pacific	2008	97
+CZE	Czechia	Europe	2008	97
+FIN	Finland	Europe	2008	97
+GEO	Georgia	Europe	2008	97
+DEU	Germany	Europe	2008	97
+LTU	Lithuania	Europe	2008	97
+MDV	Maldives	South-East Asia	2008	97
+MNG	Mongolia	Western Pacific	2008	97
+PLW	Palau	Western Pacific	2008	97
+PRT	Portugal	Europe	2008	97
+SAU	Saudi Arabia	Eastern Mediterranean	2008	97
+TUR	Türkiye	Europe	2008	97
+ALB	Albania	Europe	2008	98
+AND	Andorra	Europe	2008	98
+CUB	Cuba	Americas	2008	98
+PRK	Democratic People's Republic of Korea	South-East Asia	2008	98
+ECU	Ecuador	Americas	2008	98
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2008	98
+ISR	Israel	Europe	2008	98
+LBY	Libya	Eastern Mediterranean	2008	98
+MUS	Mauritius	Africa	2008	98
+MKD	North Macedonia	Europe	2008	98
+OMN	Oman	Eastern Mediterranean	2008	98
+POL	Poland	Europe	2008	98
+ESP	Spain	Europe	2008	98
+LKA	Sri Lanka	South-East Asia	2008	98
+THA	Thailand	South-East Asia	2008	98
+TUN	Tunisia	Eastern Mediterranean	2008	98
+UZB	Uzbekistan	Europe	2008	98
+ATG	Antigua and Barbuda	Americas	2008	99
+BHR	Bahrain	Eastern Mediterranean	2008	99
+BLR	Belarus	Europe	2008	99
+BTN	Bhutan	South-East Asia	2008	99
+BRA	Brazil	Americas	2008	99
+BRN	Brunei Darussalam	Western Pacific	2008	99
+DMA	Dominica	Americas	2008	99
+GRC	Greece	Europe	2008	99
+GRD	Grenada	Americas	2008	99
+HUN	Hungary	Europe	2008	99
+KAZ	Kazakhstan	Europe	2008	99
+KWT	Kuwait	Eastern Mediterranean	2008	99
+KGZ	Kyrgyzstan	Europe	2008	99
+NRU	Naoero	Western Pacific	2008	99
+NIC	Nicaragua	Americas	2008	99
+NIU	Niue	Western Pacific	2008	99
+RUS	Russian Federation	Europe	2008	99
+KNA	Saint Kitts and Nevis	Americas	2008	99
+LCA	Saint Lucia	Americas	2008	99
+VCT	Saint Vincent and the Grenadines	Americas	2008	99
+SYC	Seychelles	Africa	2008	99
+SVK	Slovakia	Europe	2008	99
+TON	Tonga	Western Pacific	2008	99
+TKM	Turkmenistan	Europe	2008	99
+TCD	Chad	Africa	2007	31
+SOM	Somalia	Eastern Mediterranean	2007	35
+LAO	Lao People's Democratic Republic	Western Pacific	2007	40
+NGA	Nigeria	Africa	2007	41
+GNQ	Equatorial Guinea	Africa	2007	46
+ETH	Ethiopia	Africa	2007	49
+AFG	Afghanistan	Eastern Mediterranean	2007	55
+VUT	Vanuatu	Western Pacific	2007	56
+GIN	Guinea	Africa	2007	57
+HTI	Haiti	Americas	2007	57
+PAK	Pakistan	Eastern Mediterranean	2007	57
+AGO	Angola	Africa	2007	58
+CAF	Central African Republic	Africa	2007	59
+COG	Congo	Africa	2007	59
+NER	Niger	Africa	2007	60
+SLE	Sierra Leone	Africa	2007	60
+GAB	Gabon	Africa	2007	62
+WSM	Samoa	Western Pacific	2007	63
+TLS	Timor-Leste	South-East Asia	2007	63
+COD	Democratic Republic of the Congo	Africa	2007	64
+IRQ	Iraq	Eastern Mediterranean	2007	64
+COM	Comoros	Africa	2007	65
+MLI	Mali	Africa	2007	66
+CIV	Cote d'Ivoire	Africa	2007	67
+MRT	Mauritania	Africa	2007	67
+ZAF	South Africa	Africa	2007	68
+NAM	Namibia	Africa	2007	69
+ZWE	Zimbabwe	Africa	2007	69
+BEN	Benin	Africa	2007	70
+IND	India	South-East Asia	2007	70
+LBR	Liberia	Africa	2007	71
+TGO	Togo	Africa	2007	71
+YEM	Yemen	Eastern Mediterranean	2007	71
+PNG	Papua New Guinea	Western Pacific	2007	72
+GNB	Guinea-Bissau	Africa	2007	73
+CMR	Cameroon	Africa	2007	74
+DJI	Djibouti	Eastern Mediterranean	2007	74
+AZE	Azerbaijan	Europe	2007	75
+BRB	Barbados	Americas	2007	75
+MOZ	Mozambique	Africa	2007	75
+UGA	Uganda	Africa	2007	75
+IDN	Indonesia	Western Pacific	2007	76
+JAM	Jamaica	Americas	2007	76
+AUT	Austria	Europe	2007	79
+KHM	Cambodia	Western Pacific	2007	79
+MLT	Malta	Europe	2007	79
+NZL	New Zealand	Western Pacific	2007	79
+SDN	Sudan	Eastern Mediterranean	2007	79
+KEN	Kenya	Africa	2007	80
+LSO	Lesotho	Africa	2007	81
+MDG	Madagascar	Africa	2007	81
+MMR	Myanmar	South-East Asia	2007	81
+NPL	Nepal	South-East Asia	2007	81
+SYR	Syrian Arab Republic	Eastern Mediterranean	2007	81
+DOM	Dominican Republic	Americas	2007	82
+LBN	Lebanon	Eastern Mediterranean	2007	82
+MWI	Malawi	Africa	2007	83
+VNM	Viet Nam	Western Pacific	2007	83
+SEN	Senegal	Africa	2007	84
+SUR	Suriname	Americas	2007	85
+TJK	Tajikistan	Europe	2007	85
+BOL	Bolivia (Plurinational State of)	Americas	2007	86
+GTM	Guatemala	Americas	2007	86
+STP	Sao Tome and Principe	Africa	2007	86
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2007	86
+CYP	Cyprus	Europe	2007	87
+IRL	Ireland	Europe	2007	87
+CHE	Switzerland	Europe	2007	87
+VEN	Venezuela (Bolivarian Republic of)	Americas	2007	87
+BDI	Burundi	Africa	2007	88
+GMB	Gambia	Africa	2007	88
+BGD	Bangladesh	South-East Asia	2007	89
+DNK	Denmark	Europe	2007	89
+CRI	Costa Rica	Americas	2007	90
+FRA	France	Europe	2007	90
+ITA	Italy	Europe	2007	90
+MNE	Montenegro	Europe	2007	90
+SMR	San Marino	Europe	2007	90
+SLB	Solomon Islands	Western Pacific	2007	90
+TZA	United Republic of Tanzania	Africa	2007	90
+PLW	Palau	Western Pacific	2007	91
+PRY	Paraguay	Americas	2007	91
+TTO	Trinidad and Tobago	Americas	2007	91
+DZA	Algeria	Africa	2007	92
+ARM	Armenia	Europe	2007	92
+BEL	Belgium	Europe	2007	92
+CHL	Chile	Americas	2007	92
+ERI	Eritrea	Africa	2007	92
+FSM	Micronesia (Federated States of)	Western Pacific	2007	92
+NOR	Norway	Europe	2007	92
+PER	Peru	Americas	2007	92
+PHL	Philippines	Western Pacific	2007	92
+QAT	Qatar	Eastern Mediterranean	2007	92
+KOR	Republic of Korea	Western Pacific	2007	92
+ARE	United Arab Emirates	Eastern Mediterranean	2007	92
+USA	United States of America	Americas	2007	92
+KIR	Kiribati	Western Pacific	2007	93
+ZMB	Zambia	Africa	2007	93
+AND	Andorra	Europe	2007	94
+ARG	Argentina	Americas	2007	94
+AUS	Australia	Western Pacific	2007	94
+BFA	Burkina Faso	Africa	2007	94
+CAN	Canada	Americas	2007	94
+CHN	China	Western Pacific	2007	94
+SWZ	Eswatini	Africa	2007	94
+FJI	Fiji	Western Pacific	2007	94
+HND	Honduras	Americas	2007	94
+MHL	Marshall Islands	Western Pacific	2007	94
+RWA	Rwanda	Africa	2007	94
+LCA	Saint Lucia	Americas	2007	94
+BTN	Bhutan	South-East Asia	2007	95
+BWA	Botswana	Africa	2007	95
+COL	Colombia	Americas	2007	95
+GHA	Ghana	Africa	2007	95
+ISL	Iceland	Europe	2007	95
+JOR	Jordan	Eastern Mediterranean	2007	95
+LVA	Latvia	Europe	2007	95
+MYS	Malaysia	Western Pacific	2007	95
+MCO	Monaco	Europe	2007	95
+MAR	Morocco	Eastern Mediterranean	2007	95
+PAN	Panama	Americas	2007	95
+PRT	Portugal	Europe	2007	95
+SRB	Serbia	Europe	2007	95
+SGP	Singapore	Western Pacific	2007	95
+TUV	Tuvalu	Western Pacific	2007	95
+BHS	Bahamas	Americas	2007	96
+BLZ	Belize	Americas	2007	96
+BIH	Bosnia and Herzegovina	Europe	2007	96
+BGR	Bulgaria	Europe	2007	96
+CPV	Cabo Verde	Africa	2007	96
+HRV	Croatia	Europe	2007	96
+DMA	Dominica	Americas	2007	96
+EST	Estonia	Europe	2007	96
+GUY	Guyana	Americas	2007	96
+JPN	Japan	Western Pacific	2007	96
+LUX	Luxembourg	Europe	2007	96
+MEX	Mexico	Americas	2007	96
+NLD	Netherlands (Kingdom of the)	Europe	2007	96
+MKD	North Macedonia	Europe	2007	96
+MDA	Republic of Moldova	Europe	2007	96
+SAU	Saudi Arabia	Eastern Mediterranean	2007	96
+SVN	Slovenia	Europe	2007	96
+SWE	Sweden	Europe	2007	96
+TUR	Türkiye	Europe	2007	96
+THA	Thailand	South-East Asia	2007	96
+URY	Uruguay	Americas	2007	96
+ALB	Albania	Europe	2007	97
+BRN	Brunei Darussalam	Western Pacific	2007	97
+CUB	Cuba	Americas	2007	97
+EGY	Egypt	Eastern Mediterranean	2007	97
+GEO	Georgia	Europe	2007	97
+DEU	Germany	Europe	2007	97
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2007	97
+ISR	Israel	Europe	2007	97
+LTU	Lithuania	Europe	2007	97
+MDV	Maldives	South-East Asia	2007	97
+OMN	Oman	Eastern Mediterranean	2007	97
+ROU	Romania	Europe	2007	97
+ESP	Spain	Europe	2007	97
+UKR	Ukraine	Europe	2007	97
+COK	Cook Islands	Western Pacific	2007	98
+CZE	Czechia	Europe	2007	98
+ECU	Ecuador	Americas	2007	98
+FIN	Finland	Europe	2007	98
+GRD	Grenada	Americas	2007	98
+LBY	Libya	Eastern Mediterranean	2007	98
+MUS	Mauritius	Africa	2007	98
+MNG	Mongolia	Western Pacific	2007	98
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2007	98
+POL	Poland	Europe	2007	98
+LKA	Sri Lanka	South-East Asia	2007	98
+TUN	Tunisia	Eastern Mediterranean	2007	98
+UZB	Uzbekistan	Europe	2007	98
+ATG	Antigua and Barbuda	Americas	2007	99
+BHR	Bahrain	Eastern Mediterranean	2007	99
+BLR	Belarus	Europe	2007	99
+BRA	Brazil	Americas	2007	99
+PRK	Democratic People's Republic of Korea	South-East Asia	2007	99
+SLV	El Salvador	Americas	2007	99
+GRC	Greece	Europe	2007	99
+HUN	Hungary	Europe	2007	99
+KAZ	Kazakhstan	Europe	2007	99
+KWT	Kuwait	Eastern Mediterranean	2007	99
+KGZ	Kyrgyzstan	Europe	2007	99
+NRU	Naoero	Western Pacific	2007	99
+NIC	Nicaragua	Americas	2007	99
+NIU	Niue	Western Pacific	2007	99
+RUS	Russian Federation	Europe	2007	99
+KNA	Saint Kitts and Nevis	Americas	2007	99
+VCT	Saint Vincent and the Grenadines	Americas	2007	99
+SYC	Seychelles	Africa	2007	99
+SVK	Slovakia	Europe	2007	99
+TON	Tonga	Western Pacific	2007	99
+TKM	Turkmenistan	Europe	2007	99
+SOM	Somalia	Eastern Mediterranean	2006	35
+TCD	Chad	Africa	2006	39
+ETH	Ethiopia	Africa	2006	44
+NGA	Nigeria	Africa	2006	44
+GNQ	Equatorial Guinea	Africa	2006	47
+AGO	Angola	Africa	2006	48
+LAO	Lao People's Democratic Republic	Western Pacific	2006	48
+GIN	Guinea	Africa	2006	51
+AFG	Afghanistan	Eastern Mediterranean	2006	53
+NER	Niger	Africa	2006	53
+VUT	Vanuatu	Western Pacific	2006	53
+WSM	Samoa	Western Pacific	2006	54
+GAB	Gabon	Africa	2006	55
+HTI	Haiti	Americas	2006	55
+PAK	Pakistan	Eastern Mediterranean	2006	59
+CAF	Central African Republic	Africa	2006	61
+COG	Congo	Africa	2006	61
+KIR	Kiribati	Western Pacific	2006	61
+TLS	Timor-Leste	South-East Asia	2006	61
+IRQ	Iraq	Eastern Mediterranean	2006	62
+MRT	Mauritania	Africa	2006	62
+COD	Democratic Republic of the Congo	Africa	2006	63
+LBR	Liberia	Africa	2006	63
+NAM	Namibia	Africa	2006	63
+SLE	Sierra Leone	Africa	2006	65
+YEM	Yemen	Eastern Mediterranean	2006	65
+BEN	Benin	Africa	2006	66
+COM	Comoros	Africa	2006	66
+DJI	Djibouti	Eastern Mediterranean	2006	67
+MLI	Mali	Africa	2006	68
+ZWE	Zimbabwe	Africa	2006	68
+AZE	Azerbaijan	Europe	2006	69
+IND	India	South-East Asia	2006	69
+ZAF	South Africa	Africa	2006	69
+MDG	Madagascar	Africa	2006	71
+CIV	Cote d'Ivoire	Africa	2006	73
+CMR	Cameroon	Africa	2006	73
+SDN	Sudan	Eastern Mediterranean	2006	73
+GNB	Guinea-Bissau	Africa	2006	74
+LBN	Lebanon	Eastern Mediterranean	2006	75
+UGA	Uganda	Africa	2006	75
+MOZ	Mozambique	Africa	2006	76
+KEN	Kenya	Africa	2006	77
+KHM	Cambodia	Western Pacific	2006	78
+MMR	Myanmar	South-East Asia	2006	78
+TGO	Togo	Africa	2006	78
+IDN	Indonesia	Western Pacific	2006	79
+AUT	Austria	Europe	2006	80
+SEN	Senegal	Africa	2006	80
+DOM	Dominican Republic	Americas	2006	81
+SYR	Syrian Arab Republic	Eastern Mediterranean	2006	81
+LSO	Lesotho	Africa	2006	82
+NZL	New Zealand	Western Pacific	2006	82
+PNG	Papua New Guinea	Western Pacific	2006	82
+TJK	Tajikistan	Europe	2006	82
+VEN	Venezuela (Bolivarian Republic of)	Americas	2006	82
+BGD	Bangladesh	South-East Asia	2006	83
+FSM	Micronesia (Federated States of)	Western Pacific	2006	83
+SUR	Suriname	Americas	2006	83
+TUV	Tuvalu	Western Pacific	2006	84
+BIH	Bosnia and Herzegovina	Europe	2006	85
+GHA	Ghana	Africa	2006	85
+MWI	Malawi	Africa	2006	85
+NPL	Nepal	South-East Asia	2006	85
+STP	Sao Tome and Principe	Africa	2006	85
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2006	85
+ZMB	Zambia	Africa	2006	85
+IRL	Ireland	Europe	2006	86
+CYP	Cyprus	Europe	2006	87
+JAM	Jamaica	Americas	2006	87
+CHE	Switzerland	Europe	2006	87
+BHS	Bahamas	Americas	2006	88
+BOL	Bolivia (Plurinational State of)	Americas	2006	88
+BFA	Burkina Faso	Africa	2006	88
+ITA	Italy	Europe	2006	88
+SRB	Serbia	Europe	2006	88
+FRA	France	Europe	2006	89
+GMB	Gambia	Africa	2006	89
+TTO	Trinidad and Tobago	Americas	2006	89
+BTN	Bhutan	South-East Asia	2006	90
+CRI	Costa Rica	Americas	2006	90
+DNK	Denmark	Europe	2006	90
+GUY	Guyana	Americas	2006	90
+MNE	Montenegro	Europe	2006	90
+SMR	San Marino	Europe	2006	90
+DZA	Algeria	Africa	2006	91
+AND	Andorra	Europe	2006	91
+CHL	Chile	Americas	2006	91
+PRY	Paraguay	Americas	2006	91
+ARM	Armenia	Europe	2006	92
+BRB	Barbados	Americas	2006	92
+BEL	Belgium	Europe	2006	92
+BDI	Burundi	Africa	2006	92
+FJI	Fiji	Western Pacific	2006	92
+NOR	Norway	Europe	2006	92
+PHL	Philippines	Western Pacific	2006	92
+ARE	United Arab Emirates	Eastern Mediterranean	2006	92
+USA	United States of America	Americas	2006	92
+CAN	Canada	Americas	2006	93
+CHN	China	Western Pacific	2006	93
+SWZ	Eswatini	Africa	2006	93
+PER	Peru	Americas	2006	93
+TZA	United Republic of Tanzania	Africa	2006	93
+VNM	Viet Nam	Western Pacific	2006	93
+AUS	Australia	Western Pacific	2006	94
+BWA	Botswana	Africa	2006	94
+CPV	Cabo Verde	Africa	2006	94
+ERI	Eritrea	Africa	2006	94
+MLT	Malta	Europe	2006	94
+MCO	Monaco	Europe	2006	94
+MKD	North Macedonia	Europe	2006	94
+LCA	Saint Lucia	Americas	2006	94
+URY	Uruguay	Americas	2006	94
+ALB	Albania	Europe	2006	95
+COL	Colombia	Americas	2006	95
+HRV	Croatia	Europe	2006	95
+GTM	Guatemala	Americas	2006	95
+HND	Honduras	Americas	2006	95
+ISL	Iceland	Europe	2006	95
+LUX	Luxembourg	Europe	2006	95
+MYS	Malaysia	Western Pacific	2006	95
+MAR	Morocco	Eastern Mediterranean	2006	95
+PAN	Panama	Americas	2006	95
+ROU	Romania	Europe	2006	95
+RWA	Rwanda	Africa	2006	95
+SAU	Saudi Arabia	Eastern Mediterranean	2006	95
+SGP	Singapore	Western Pacific	2006	95
+BGR	Bulgaria	Europe	2006	96
+CUB	Cuba	Americas	2006	96
+PRK	Democratic People's Republic of Korea	South-East Asia	2006	96
+EST	Estonia	Europe	2006	96
+GEO	Georgia	Europe	2006	96
+DEU	Germany	Europe	2006	96
+ISR	Israel	Europe	2006	96
+MHL	Marshall Islands	Western Pacific	2006	96
+MEX	Mexico	Americas	2006	96
+NLD	Netherlands (Kingdom of the)	Europe	2006	96
+OMN	Oman	Eastern Mediterranean	2006	96
+MDA	Republic of Moldova	Europe	2006	96
+SVN	Slovenia	Europe	2006	96
+THA	Thailand	South-East Asia	2006	96
+ARG	Argentina	Americas	2006	97
+BLR	Belarus	Europe	2006	97
+BRN	Brunei Darussalam	Western Pacific	2006	97
+CZE	Czechia	Europe	2006	97
+DMA	Dominica	Americas	2006	97
+ECU	Ecuador	Americas	2006	97
+FIN	Finland	Europe	2006	97
+JPN	Japan	Western Pacific	2006	97
+KGZ	Kyrgyzstan	Europe	2006	97
+LTU	Lithuania	Europe	2006	97
+MDV	Maldives	South-East Asia	2006	97
+PRT	Portugal	Europe	2006	97
+ESP	Spain	Europe	2006	97
+SWE	Sweden	Europe	2006	97
+EGY	Egypt	Eastern Mediterranean	2006	98
+SLV	El Salvador	Americas	2006	98
+GRC	Greece	Europe	2006	98
+GRD	Grenada	Americas	2006	98
+LVA	Latvia	Europe	2006	98
+LBY	Libya	Eastern Mediterranean	2006	98
+NIC	Nicaragua	Americas	2006	98
+PLW	Palau	Western Pacific	2006	98
+SVK	Slovakia	Europe	2006	98
+TUR	Türkiye	Europe	2006	98
+TUN	Tunisia	Eastern Mediterranean	2006	98
+UKR	Ukraine	Europe	2006	98
+UZB	Uzbekistan	Europe	2006	98
+ATG	Antigua and Barbuda	Americas	2006	99
+BHR	Bahrain	Eastern Mediterranean	2006	99
+BLZ	Belize	Americas	2006	99
+BRA	Brazil	Americas	2006	99
+COK	Cook Islands	Western Pacific	2006	99
+HUN	Hungary	Europe	2006	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2006	99
+JOR	Jordan	Eastern Mediterranean	2006	99
+KAZ	Kazakhstan	Europe	2006	99
+KWT	Kuwait	Eastern Mediterranean	2006	99
+MUS	Mauritius	Africa	2006	99
+MNG	Mongolia	Western Pacific	2006	99
+NRU	Naoero	Western Pacific	2006	99
+NIU	Niue	Western Pacific	2006	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2006	99
+POL	Poland	Europe	2006	99
+QAT	Qatar	Eastern Mediterranean	2006	99
+KOR	Republic of Korea	Western Pacific	2006	99
+RUS	Russian Federation	Europe	2006	99
+KNA	Saint Kitts and Nevis	Americas	2006	99
+VCT	Saint Vincent and the Grenadines	Americas	2006	99
+SYC	Seychelles	Africa	2006	99
+SLB	Solomon Islands	Western Pacific	2006	99
+LKA	Sri Lanka	South-East Asia	2006	99
+TON	Tonga	Western Pacific	2006	99
+TKM	Turkmenistan	Europe	2006	99
+TCD	Chad	Africa	2005	27
+SOM	Somalia	Eastern Mediterranean	2005	35
+ETH	Ethiopia	Africa	2005	40
+LAO	Lao People's Democratic Republic	Western Pacific	2005	41
+NGA	Nigeria	Africa	2005	41
+AGO	Angola	Africa	2005	45
+GNQ	Equatorial Guinea	Africa	2005	47
+NER	Niger	Africa	2005	47
+TLS	Timor-Leste	South-East Asia	2005	48
+AFG	Afghanistan	Eastern Mediterranean	2005	50
+GIN	Guinea	Africa	2005	51
+HTI	Haiti	Americas	2005	53
+COG	Congo	Africa	2005	54
+VUT	Vanuatu	Western Pacific	2005	54
+GAB	Gabon	Africa	2005	55
+WSM	Samoa	Western Pacific	2005	57
+BEN	Benin	Africa	2005	61
+COD	Democratic Republic of the Congo	Africa	2005	61
+PAK	Pakistan	Eastern Mediterranean	2005	61
+CAF	Central African Republic	Africa	2005	62
+LBR	Liberia	Africa	2005	62
+TUV	Tuvalu	Western Pacific	2005	62
+ZAF	South Africa	Africa	2005	64
+DJI	Djibouti	Eastern Mediterranean	2005	65
+MRT	Mauritania	Africa	2005	65
+AZE	Azerbaijan	Europe	2005	67
+COM	Comoros	Africa	2005	67
+LBN	Lebanon	Eastern Mediterranean	2005	67
+ZWE	Zimbabwe	Africa	2005	67
+CMR	Cameroon	Africa	2005	68
+IND	India	South-East Asia	2005	68
+UGA	Uganda	Africa	2005	68
+IRQ	Iraq	Eastern Mediterranean	2005	69
+KEN	Kenya	Africa	2005	69
+SDN	Sudan	Eastern Mediterranean	2005	69
+TGO	Togo	Africa	2005	70
+SLE	Sierra Leone	Africa	2005	71
+MLI	Mali	Africa	2005	73
+NAM	Namibia	Africa	2005	73
+YEM	Yemen	Eastern Mediterranean	2005	73
+MDG	Madagascar	Africa	2005	74
+NPL	Nepal	South-East Asia	2005	74
+SEN	Senegal	Africa	2005	74
+AUT	Austria	Europe	2005	75
+GNB	Guinea-Bissau	Africa	2005	76
+VEN	Venezuela (Bolivarian Republic of)	Americas	2005	76
+IDN	Indonesia	Western Pacific	2005	77
+PER	Peru	Americas	2005	77
+MOZ	Mozambique	Africa	2005	78
+KHM	Cambodia	Western Pacific	2005	79
+DOM	Dominican Republic	Americas	2005	79
+NRU	Naoero	Western Pacific	2005	80
+SYR	Syrian Arab Republic	Eastern Mediterranean	2005	81
+MWI	Malawi	Africa	2005	82
+NZL	New Zealand	Western Pacific	2005	82
+PNG	Papua New Guinea	Western Pacific	2005	82
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2005	82
+DZA	Algeria	Africa	2005	83
+GHA	Ghana	Africa	2005	83
+LSO	Lesotho	Africa	2005	83
+BFA	Burkina Faso	Africa	2005	84
+CIV	Cote d'Ivoire	Africa	2005	84
+IRL	Ireland	Europe	2005	84
+JAM	Jamaica	Americas	2005	84
+MMR	Myanmar	South-East Asia	2005	84
+BHS	Bahamas	Americas	2005	85
+KIR	Kiribati	Western Pacific	2005	85
+TJK	Tajikistan	Europe	2005	85
+ZMB	Zambia	Africa	2005	85
+CHN	China	Western Pacific	2005	86
+CYP	Cyprus	Europe	2005	86
+MLT	Malta	Europe	2005	86
+MHL	Marshall Islands	Western Pacific	2005	86
+BDI	Burundi	Africa	2005	87
+FRA	France	Europe	2005	87
+ITA	Italy	Europe	2005	87
+SLB	Solomon Islands	Western Pacific	2005	87
+CHE	Switzerland	Europe	2005	87
+BGD	Bangladesh	South-East Asia	2005	88
+BEL	Belgium	Europe	2005	88
+STP	Sao Tome and Principe	Africa	2005	88
+BOL	Bolivia (Plurinational State of)	Americas	2005	89
+CRI	Costa Rica	Americas	2005	89
+RWA	Rwanda	Africa	2005	89
+BIH	Bosnia and Herzegovina	Europe	2005	90
+CHL	Chile	Americas	2005	90
+FJI	Fiji	Western Pacific	2005	90
+GEO	Georgia	Europe	2005	90
+ISL	Iceland	Europe	2005	90
+NOR	Norway	Europe	2005	90
+GMB	Gambia	Africa	2005	91
+PRY	Paraguay	Americas	2005	91
+SUR	Suriname	Americas	2005	91
+TUR	Türkiye	Europe	2005	91
+TZA	United Republic of Tanzania	Africa	2005	91
+GUY	Guyana	Americas	2005	92
+PHL	Philippines	Western Pacific	2005	92
+ARE	United Arab Emirates	Eastern Mediterranean	2005	92
+USA	United States of America	Americas	2005	92
+BRB	Barbados	Americas	2005	93
+BTN	Bhutan	South-East Asia	2005	93
+BWA	Botswana	Africa	2005	93
+CPV	Cabo Verde	Africa	2005	93
+ECU	Ecuador	Americas	2005	93
+SWZ	Eswatini	Africa	2005	93
+GTM	Guatemala	Americas	2005	93
+PRT	Portugal	Europe	2005	93
+TTO	Trinidad and Tobago	Americas	2005	93
+AND	Andorra	Europe	2005	94
+ARM	Armenia	Europe	2005	94
+AUS	Australia	Western Pacific	2005	94
+CAN	Canada	Americas	2005	94
+COL	Colombia	Americas	2005	94
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2005	94
+ISR	Israel	Europe	2005	94
+LCA	Saint Lucia	Americas	2005	94
+SMR	San Marino	Europe	2005	94
+SVN	Slovenia	Europe	2005	94
+BLZ	Belize	Americas	2005	95
+DNK	Denmark	Europe	2005	95
+ERI	Eritrea	Africa	2005	95
+JOR	Jordan	Eastern Mediterranean	2005	95
+LUX	Luxembourg	Europe	2005	95
+NLD	Netherlands (Kingdom of the)	Europe	2005	95
+URY	Uruguay	Americas	2005	95
+VNM	Viet Nam	Western Pacific	2005	95
+BGR	Bulgaria	Europe	2005	96
+HRV	Croatia	Europe	2005	96
+PRK	Democratic People's Republic of Korea	South-East Asia	2005	96
+EST	Estonia	Europe	2005	96
+DEU	Germany	Europe	2005	96
+GRC	Greece	Europe	2005	96
+HND	Honduras	Americas	2005	96
+MYS	Malaysia	Western Pacific	2005	96
+MEX	Mexico	Americas	2005	96
+FSM	Micronesia (Federated States of)	Western Pacific	2005	96
+MCO	Monaco	Europe	2005	96
+NIC	Nicaragua	Americas	2005	96
+MKD	North Macedonia	Europe	2005	96
+SRB	Serbia	Europe	2005	96
+SGP	Singapore	Western Pacific	2005	96
+SWE	Sweden	Europe	2005	96
+THA	Thailand	South-East Asia	2005	96
+TUN	Tunisia	Eastern Mediterranean	2005	96
+UKR	Ukraine	Europe	2005	96
+ALB	Albania	Europe	2005	97
+CZE	Czechia	Europe	2005	97
+FIN	Finland	Europe	2005	97
+LBY	Libya	Eastern Mediterranean	2005	97
+LTU	Lithuania	Europe	2005	97
+MDV	Maldives	South-East Asia	2005	97
+MNG	Mongolia	Western Pacific	2005	97
+MAR	Morocco	Eastern Mediterranean	2005	97
+MDA	Republic of Moldova	Europe	2005	97
+ROU	Romania	Europe	2005	97
+VCT	Saint Vincent and the Grenadines	Americas	2005	97
+SAU	Saudi Arabia	Eastern Mediterranean	2005	97
+ESP	Spain	Europe	2005	97
+ARG	Argentina	Americas	2005	98
+BRA	Brazil	Americas	2005	98
+BRN	Brunei Darussalam	Western Pacific	2005	98
+CUB	Cuba	Americas	2005	98
+DMA	Dominica	Americas	2005	98
+EGY	Egypt	Eastern Mediterranean	2005	98
+JPN	Japan	Western Pacific	2005	98
+LVA	Latvia	Europe	2005	98
+MUS	Mauritius	Africa	2005	98
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2005	98
+OMN	Oman	Eastern Mediterranean	2005	98
+PLW	Palau	Western Pacific	2005	98
+POL	Poland	Europe	2005	98
+SVK	Slovakia	Europe	2005	98
+ATG	Antigua and Barbuda	Americas	2005	99
+BHR	Bahrain	Eastern Mediterranean	2005	99
+BLR	Belarus	Europe	2005	99
+COK	Cook Islands	Western Pacific	2005	99
+SLV	El Salvador	Americas	2005	99
+GRD	Grenada	Americas	2005	99
+HUN	Hungary	Europe	2005	99
+KAZ	Kazakhstan	Europe	2005	99
+KWT	Kuwait	Eastern Mediterranean	2005	99
+KGZ	Kyrgyzstan	Europe	2005	99
+NIU	Niue	Western Pacific	2005	99
+PAN	Panama	Americas	2005	99
+QAT	Qatar	Eastern Mediterranean	2005	99
+KOR	Republic of Korea	Western Pacific	2005	99
+RUS	Russian Federation	Europe	2005	99
+KNA	Saint Kitts and Nevis	Americas	2005	99
+SYC	Seychelles	Africa	2005	99
+LKA	Sri Lanka	South-East Asia	2005	99
+TON	Tonga	Western Pacific	2005	99
+TKM	Turkmenistan	Europe	2005	99
+UZB	Uzbekistan	Europe	2005	99
+TCD	Chad	Africa	2004	16
+WSM	Samoa	Western Pacific	2004	25
+ETH	Ethiopia	Africa	2004	35
+LAO	Lao People's Democratic Republic	Western Pacific	2004	36
+NGA	Nigeria	Africa	2004	37
+SOM	Somalia	Eastern Mediterranean	2004	40
+LBR	Liberia	Africa	2004	41
+NER	Niger	Africa	2004	45
+AFG	Afghanistan	Eastern Mediterranean	2004	48
+GNQ	Equatorial Guinea	Africa	2004	48
+GIN	Guinea	Africa	2004	50
+HTI	Haiti	Americas	2004	53
+CAF	Central African Republic	Africa	2004	55
+GAB	Gabon	Africa	2004	55
+TLS	Timor-Leste	South-East Asia	2004	55
+KIR	Kiribati	Western Pacific	2004	56
+VUT	Vanuatu	Western Pacific	2004	56
+COD	Democratic Republic of the Congo	Africa	2004	57
+SEN	Senegal	Africa	2004	57
+DJI	Djibouti	Eastern Mediterranean	2004	60
+LBN	Lebanon	Eastern Mediterranean	2004	60
+BEN	Benin	Africa	2004	63
+MLI	Mali	Africa	2004	63
+PAK	Pakistan	Eastern Mediterranean	2004	63
+ZAF	South Africa	Africa	2004	63
+AGO	Angola	Africa	2004	64
+CMR	Cameroon	Africa	2004	64
+IND	India	South-East Asia	2004	64
+COG	Congo	Africa	2004	65
+UGA	Uganda	Africa	2004	66
+ZWE	Zimbabwe	Africa	2004	66
+AZE	Azerbaijan	Europe	2004	67
+NRU	Naoero	Western Pacific	2004	67
+SDN	Sudan	Eastern Mediterranean	2004	67
+IRQ	Iraq	Eastern Mediterranean	2004	69
+MHL	Marshall Islands	Western Pacific	2004	70
+NAM	Namibia	Africa	2004	70
+TGO	Togo	Africa	2004	70
+KEN	Kenya	Africa	2004	73
+MRT	Mauritania	Africa	2004	73
+NPL	Nepal	South-East Asia	2004	73
+AUT	Austria	Europe	2004	74
+GRD	Grenada	Americas	2004	74
+YEM	Yemen	Eastern Mediterranean	2004	74
+GNB	Guinea-Bissau	Africa	2004	75
+COM	Comoros	Africa	2004	76
+IDN	Indonesia	Western Pacific	2004	76
+SLE	Sierra Leone	Africa	2004	76
+PNG	Papua New Guinea	Western Pacific	2004	77
+BFA	Burkina Faso	Africa	2004	78
+BDI	Burundi	Africa	2004	78
+CIV	Cote d'Ivoire	Africa	2004	78
+MDG	Madagascar	Africa	2004	79
+MOZ	Mozambique	Africa	2004	79
+KHM	Cambodia	Western Pacific	2004	80
+MWI	Malawi	Africa	2004	80
+VEN	Venezuela (Bolivarian Republic of)	Americas	2004	80
+DZA	Algeria	Africa	2004	81
+BGD	Bangladesh	South-East Asia	2004	81
+DOM	Dominican Republic	Americas	2004	81
+IRL	Ireland	Europe	2004	81
+TUR	Türkiye	Europe	2004	81
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2004	81
+BEL	Belgium	Europe	2004	82
+CHE	Switzerland	Europe	2004	82
+SYR	Syrian Arab Republic	Eastern Mediterranean	2004	82
+GHA	Ghana	Africa	2004	83
+NZL	New Zealand	Western Pacific	2004	83
+LSO	Lesotho	Africa	2004	84
+NIC	Nicaragua	Americas	2004	84
+RWA	Rwanda	Africa	2004	84
+FSM	Micronesia (Federated States of)	Western Pacific	2004	85
+PER	Peru	Americas	2004	85
+ZMB	Zambia	Africa	2004	85
+CHN	China	Western Pacific	2004	86
+CYP	Cyprus	Europe	2004	86
+GEO	Georgia	Europe	2004	86
+ITA	Italy	Europe	2004	86
+JAM	Jamaica	Americas	2004	86
+MMR	Myanmar	South-East Asia	2004	86
+SUR	Suriname	Americas	2004	86
+BTN	Bhutan	South-East Asia	2004	87
+SLB	Solomon Islands	Western Pacific	2004	87
+BIH	Bosnia and Herzegovina	Europe	2004	88
+CRI	Costa Rica	Americas	2004	88
+FJI	Fiji	Western Pacific	2004	88
+FRA	France	Europe	2004	88
+GUY	Guyana	Americas	2004	88
+BHS	Bahamas	Americas	2004	89
+NOR	Norway	Europe	2004	89
+SRB	Serbia	Europe	2004	89
+BOL	Bolivia (Plurinational State of)	Americas	2004	90
+CPV	Cabo Verde	Africa	2004	91
+PRY	Paraguay	Americas	2004	91
+STP	Sao Tome and Principe	Africa	2004	91
+ARM	Armenia	Europe	2004	92
+COL	Colombia	Americas	2004	92
+GMB	Gambia	Africa	2004	92
+HND	Honduras	Americas	2004	92
+PHL	Philippines	Western Pacific	2004	92
+TJK	Tajikistan	Europe	2004	92
+BWA	Botswana	Africa	2004	93
+SLV	El Salvador	Americas	2004	93
+SWZ	Eswatini	Africa	2004	93
+ISL	Iceland	Europe	2004	93
+USA	United States of America	Americas	2004	93
+AUS	Australia	Western Pacific	2004	94
+CAN	Canada	Americas	2004	94
+CHL	Chile	Americas	2004	94
+MLT	Malta	Europe	2004	94
+SMR	San Marino	Europe	2004	94
+SVN	Slovenia	Europe	2004	94
+ARE	United Arab Emirates	Eastern Mediterranean	2004	94
+TZA	United Republic of Tanzania	Africa	2004	94
+BGR	Bulgaria	Europe	2004	95
+PRK	Democratic People's Republic of Korea	South-East Asia	2004	95
+GRC	Greece	Europe	2004	95
+GTM	Guatemala	Americas	2004	95
+LUX	Luxembourg	Europe	2004	95
+MYS	Malaysia	Western Pacific	2004	95
+MAR	Morocco	Eastern Mediterranean	2004	95
+PRT	Portugal	Europe	2004	95
+LCA	Saint Lucia	Americas	2004	95
+SGP	Singapore	Western Pacific	2004	95
+TTO	Trinidad and Tobago	Americas	2004	95
+TUN	Tunisia	Eastern Mediterranean	2004	95
+URY	Uruguay	Americas	2004	95
+ALB	Albania	Europe	2004	96
+HRV	Croatia	Europe	2004	96
+DNK	Denmark	Europe	2004	96
+ERI	Eritrea	Africa	2004	96
+EST	Estonia	Europe	2004	96
+DEU	Germany	Europe	2004	96
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2004	96
+MEX	Mexico	Americas	2004	96
+MCO	Monaco	Europe	2004	96
+NLD	Netherlands (Kingdom of the)	Europe	2004	96
+MKD	North Macedonia	Europe	2004	96
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2004	96
+MDA	Republic of Moldova	Europe	2004	96
+LKA	Sri Lanka	South-East Asia	2004	96
+SWE	Sweden	Europe	2004	96
+THA	Thailand	South-East Asia	2004	96
+ATG	Antigua and Barbuda	Americas	2004	97
+BLZ	Belize	Americas	2004	97
+BRA	Brazil	Americas	2004	97
+CZE	Czechia	Europe	2004	97
+EGY	Egypt	Eastern Mediterranean	2004	97
+FIN	Finland	Europe	2004	97
+ISR	Israel	Europe	2004	97
+KWT	Kuwait	Eastern Mediterranean	2004	97
+MDV	Maldives	South-East Asia	2004	97
+PAN	Panama	Americas	2004	97
+POL	Poland	Europe	2004	97
+ROU	Romania	Europe	2004	97
+SAU	Saudi Arabia	Eastern Mediterranean	2004	97
+ESP	Spain	Europe	2004	97
+TKM	Turkmenistan	Europe	2004	97
+TUV	Tuvalu	Western Pacific	2004	97
+VNM	Viet Nam	Western Pacific	2004	97
+AND	Andorra	Europe	2004	98
+BRB	Barbados	Americas	2004	98
+JPN	Japan	Western Pacific	2004	98
+LVA	Latvia	Europe	2004	98
+LTU	Lithuania	Europe	2004	98
+MUS	Mauritius	Africa	2004	98
+OMN	Oman	Eastern Mediterranean	2004	98
+RUS	Russian Federation	Europe	2004	98
+KNA	Saint Kitts and Nevis	Americas	2004	98
+UZB	Uzbekistan	Europe	2004	98
+ARG	Argentina	Americas	2004	99
+BHR	Bahrain	Eastern Mediterranean	2004	99
+BLR	Belarus	Europe	2004	99
+BRN	Brunei Darussalam	Western Pacific	2004	99
+COK	Cook Islands	Western Pacific	2004	99
+CUB	Cuba	Americas	2004	99
+DMA	Dominica	Americas	2004	99
+ECU	Ecuador	Americas	2004	99
+HUN	Hungary	Europe	2004	99
+JOR	Jordan	Eastern Mediterranean	2004	99
+KAZ	Kazakhstan	Europe	2004	99
+KGZ	Kyrgyzstan	Europe	2004	99
+LBY	Libya	Eastern Mediterranean	2004	99
+MNG	Mongolia	Western Pacific	2004	99
+NIU	Niue	Western Pacific	2004	99
+PLW	Palau	Western Pacific	2004	99
+QAT	Qatar	Eastern Mediterranean	2004	99
+KOR	Republic of Korea	Western Pacific	2004	99
+VCT	Saint Vincent and the Grenadines	Americas	2004	99
+SYC	Seychelles	Africa	2004	99
+SVK	Slovakia	Europe	2004	99
+TON	Tonga	Western Pacific	2004	99
+UKR	Ukraine	Europe	2004	99
+TCD	Chad	Africa	2003	23
+ETH	Ethiopia	Africa	2003	33
+NGA	Nigeria	Africa	2003	34
+AFG	Afghanistan	Eastern Mediterranean	2003	39
+SOM	Somalia	Eastern Mediterranean	2003	40
+LAO	Lao People's Democratic Republic	Western Pacific	2003	42
+NER	Niger	Africa	2003	43
+LBR	Liberia	Africa	2003	47
+COD	Democratic Republic of the Congo	Africa	2003	48
+GNQ	Equatorial Guinea	Africa	2003	48
+GIN	Guinea	Africa	2003	48
+CAF	Central African Republic	Africa	2003	49
+COG	Congo	Africa	2003	50
+HTI	Haiti	Americas	2003	53
+LBN	Lebanon	Eastern Mediterranean	2003	53
+NRU	Naoero	Western Pacific	2003	53
+GAB	Gabon	Africa	2003	55
+TLS	Timor-Leste	South-East Asia	2003	55
+MLI	Mali	Africa	2003	57
+VUT	Vanuatu	Western Pacific	2003	57
+IND	India	South-East Asia	2003	60
+SEN	Senegal	Africa	2003	60
+CMR	Cameroon	Africa	2003	61
+AGO	Angola	Africa	2003	62
+PAK	Pakistan	Eastern Mediterranean	2003	62
+WSM	Samoa	Western Pacific	2003	62
+ZAF	South Africa	Africa	2003	62
+UGA	Uganda	Africa	2003	64
+YEM	Yemen	Eastern Mediterranean	2003	64
+BEN	Benin	Africa	2003	65
+KHM	Cambodia	Western Pacific	2003	65
+MDG	Madagascar	Africa	2003	65
+SDN	Sudan	Eastern Mediterranean	2003	65
+DJI	Djibouti	Eastern Mediterranean	2003	66
+AZE	Azerbaijan	Europe	2003	67
+COM	Comoros	Africa	2003	67
+TGO	Togo	Africa	2003	68
+ZWE	Zimbabwe	Africa	2003	68
+SUR	Suriname	Americas	2003	69
+CIV	Cote d'Ivoire	Africa	2003	70
+NAM	Namibia	Africa	2003	70
+KEN	Kenya	Africa	2003	72
+KIR	Kiribati	Western Pacific	2003	72
+IRQ	Iraq	Eastern Mediterranean	2003	73
+SLE	Sierra Leone	Africa	2003	73
+GNB	Guinea-Bissau	Africa	2003	74
+IDN	Indonesia	Western Pacific	2003	74
+NPL	Nepal	South-East Asia	2003	75
+TUR	Türkiye	Europe	2003	75
+BGD	Bangladesh	South-East Asia	2003	76
+BFA	Burkina Faso	Africa	2003	76
+BDI	Burundi	Africa	2003	76
+GEO	Georgia	Europe	2003	76
+MWI	Malawi	Africa	2003	77
+PNG	Papua New Guinea	Western Pacific	2003	77
+IRL	Ireland	Europe	2003	78
+JAM	Jamaica	Americas	2003	78
+AUT	Austria	Europe	2003	79
+GHA	Ghana	Africa	2003	80
+MOZ	Mozambique	Africa	2003	80
+MMR	Myanmar	South-East Asia	2003	80
+BEL	Belgium	Europe	2003	82
+SLB	Solomon Islands	Western Pacific	2003	82
+CHE	Switzerland	Europe	2003	82
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2003	82
+DOM	Dominican Republic	Americas	2003	83
+SYR	Syrian Arab Republic	Eastern Mediterranean	2003	83
+VEN	Venezuela (Bolivarian Republic of)	Americas	2003	83
+DZA	Algeria	Africa	2003	84
+BIH	Bosnia and Herzegovina	Europe	2003	84
+ITA	Italy	Europe	2003	84
+MRT	Mauritania	Africa	2003	84
+NZL	New Zealand	Western Pacific	2003	84
+ZMB	Zambia	Africa	2003	84
+CHN	China	Western Pacific	2003	85
+LSO	Lesotho	Africa	2003	85
+CYP	Cyprus	Europe	2003	86
+FJI	Fiji	Western Pacific	2003	86
+NIU	Niue	Western Pacific	2003	86
+NOR	Norway	Europe	2003	86
+FRA	France	Europe	2003	87
+PHL	Philippines	Western Pacific	2003	87
+STP	Sao Tome and Principe	Africa	2003	87
+SRB	Serbia	Europe	2003	87
+BTN	Bhutan	South-East Asia	2003	88
+TTO	Trinidad and Tobago	Americas	2003	88
+CRI	Costa Rica	Americas	2003	89
+GUY	Guyana	Americas	2003	89
+BHS	Bahamas	Americas	2003	90
+BRB	Barbados	Americas	2003	90
+CPV	Cabo Verde	Africa	2003	90
+SLV	El Salvador	Americas	2003	90
+GMB	Gambia	Africa	2003	90
+MLT	Malta	Europe	2003	90
+MHL	Marshall Islands	Western Pacific	2003	90
+MAR	Morocco	Eastern Mediterranean	2003	90
+RWA	Rwanda	Africa	2003	90
+LCA	Saint Lucia	Americas	2003	90
+TUN	Tunisia	Eastern Mediterranean	2003	90
+MUS	Mauritius	Africa	2003	91
+FSM	Micronesia (Federated States of)	Western Pacific	2003	91
+PRY	Paraguay	Americas	2003	91
+TJK	Tajikistan	Europe	2003	91
+BWA	Botswana	Africa	2003	92
+ERI	Eritrea	Africa	2003	92
+ALB	Albania	Europe	2003	93
+COL	Colombia	Americas	2003	93
+SWZ	Eswatini	Africa	2003	93
+ISL	Iceland	Europe	2003	93
+MYS	Malaysia	Western Pacific	2003	93
+NIC	Nicaragua	Americas	2003	93
+QAT	Qatar	Eastern Mediterranean	2003	93
+SGP	Singapore	Western Pacific	2003	93
+USA	United States of America	Americas	2003	93
+VNM	Viet Nam	Western Pacific	2003	93
+ARM	Armenia	Europe	2003	94
+AUS	Australia	Western Pacific	2003	94
+HRV	Croatia	Europe	2003	94
+GRC	Greece	Europe	2003	94
+GTM	Guatemala	Americas	2003	94
+VCT	Saint Vincent and the Grenadines	Americas	2003	94
+SMR	San Marino	Europe	2003	94
+SVN	Slovenia	Europe	2003	94
+ARE	United Arab Emirates	Eastern Mediterranean	2003	94
+CAN	Canada	Americas	2003	95
+PRK	Democratic People's Republic of Korea	South-East Asia	2003	95
+EST	Estonia	Europe	2003	95
+DEU	Germany	Europe	2003	95
+HND	Honduras	Americas	2003	95
+LUX	Luxembourg	Europe	2003	95
+PAN	Panama	Americas	2003	95
+PER	Peru	Americas	2003	95
+SWE	Sweden	Europe	2003	95
+TUV	Tuvalu	Western Pacific	2003	95
+URY	Uruguay	Americas	2003	95
+AND	Andorra	Europe	2003	96
+BLZ	Belize	Americas	2003	96
+BOL	Bolivia (Plurinational State of)	Americas	2003	96
+BGR	Bulgaria	Europe	2003	96
+CHL	Chile	Americas	2003	96
+DNK	Denmark	Europe	2003	96
+ISR	Israel	Europe	2003	96
+JOR	Jordan	Eastern Mediterranean	2003	96
+LBY	Libya	Eastern Mediterranean	2003	96
+MDV	Maldives	South-East Asia	2003	96
+MEX	Mexico	Americas	2003	96
+NLD	Netherlands (Kingdom of the)	Europe	2003	96
+MKD	North Macedonia	Europe	2003	96
+PRT	Portugal	Europe	2003	96
+KOR	Republic of Korea	Western Pacific	2003	96
+MDA	Republic of Moldova	Europe	2003	96
+SAU	Saudi Arabia	Eastern Mediterranean	2003	96
+THA	Thailand	South-East Asia	2003	96
+ARG	Argentina	Americas	2003	97
+BRA	Brazil	Americas	2003	97
+CZE	Czechia	Europe	2003	97
+FIN	Finland	Europe	2003	97
+KWT	Kuwait	Eastern Mediterranean	2003	97
+MCO	Monaco	Europe	2003	97
+POL	Poland	Europe	2003	97
+ROU	Romania	Europe	2003	97
+TKM	Turkmenistan	Europe	2003	97
+TZA	United Republic of Tanzania	Africa	2003	97
+BRN	Brunei Darussalam	Western Pacific	2003	98
+EGY	Egypt	Eastern Mediterranean	2003	98
+JPN	Japan	Western Pacific	2003	98
+LVA	Latvia	Europe	2003	98
+LTU	Lithuania	Europe	2003	98
+MNG	Mongolia	Western Pacific	2003	98
+OMN	Oman	Eastern Mediterranean	2003	98
+RUS	Russian Federation	Europe	2003	98
+KNA	Saint Kitts and Nevis	Americas	2003	98
+ESP	Spain	Europe	2003	98
+ATG	Antigua and Barbuda	Americas	2003	99
+BHR	Bahrain	Eastern Mediterranean	2003	99
+BLR	Belarus	Europe	2003	99
+COK	Cook Islands	Western Pacific	2003	99
+CUB	Cuba	Americas	2003	99
+DMA	Dominica	Americas	2003	99
+ECU	Ecuador	Americas	2003	99
+GRD	Grenada	Americas	2003	99
+HUN	Hungary	Europe	2003	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2003	99
+KAZ	Kazakhstan	Europe	2003	99
+KGZ	Kyrgyzstan	Europe	2003	99
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2003	99
+PLW	Palau	Western Pacific	2003	99
+SYC	Seychelles	Africa	2003	99
+SVK	Slovakia	Europe	2003	99
+LKA	Sri Lanka	South-East Asia	2003	99
+TON	Tonga	Western Pacific	2003	99
+UKR	Ukraine	Europe	2003	99
+UZB	Uzbekistan	Europe	2003	99
+TCD	Chad	Africa	2002	25
+NGA	Nigeria	Africa	2002	30
+ETH	Ethiopia	Africa	2002	32
+AFG	Afghanistan	Eastern Mediterranean	2002	35
+COG	Congo	Africa	2002	37
+NRU	Naoero	Western Pacific	2002	40
+COD	Democratic Republic of the Congo	Africa	2002	41
+NER	Niger	Africa	2002	41
+CAF	Central African Republic	Africa	2002	42
+SOM	Somalia	Eastern Mediterranean	2002	45
+GIN	Guinea	Africa	2002	46
+TGO	Togo	Africa	2002	48
+GNQ	Equatorial Guinea	Africa	2002	49
+KHM	Cambodia	Western Pacific	2002	52
+LBR	Liberia	Africa	2002	52
+CMR	Cameroon	Africa	2002	53
+HTI	Haiti	Americas	2002	53
+SEN	Senegal	Africa	2002	54
+GAB	Gabon	Africa	2002	55
+LAO	Lao People's Democratic Republic	Western Pacific	2002	55
+IND	India	South-East Asia	2002	56
+MLI	Mali	Africa	2002	56
+TLS	Timor-Leste	South-East Asia	2002	56
+SDN	Sudan	Eastern Mediterranean	2002	58
+VUT	Vanuatu	Western Pacific	2002	58
+LBN	Lebanon	Eastern Mediterranean	2002	59
+PAK	Pakistan	Eastern Mediterranean	2002	60
+MDG	Madagascar	Africa	2002	61
+DJI	Djibouti	Eastern Mediterranean	2002	62
+SLE	Sierra Leone	Africa	2002	62
+UGA	Uganda	Africa	2002	62
+YEM	Yemen	Eastern Mediterranean	2002	62
+BFA	Burkina Faso	Africa	2002	64
+MLT	Malta	Europe	2002	65
+ZAF	South Africa	Africa	2002	65
+AZE	Azerbaijan	Europe	2002	66
+BEN	Benin	Africa	2002	66
+NAM	Namibia	Africa	2002	68
+MWI	Malawi	Africa	2002	69
+RWA	Rwanda	Africa	2002	69
+ZWE	Zimbabwe	Africa	2002	70
+CIV	Cote d'Ivoire	Africa	2002	71
+COM	Comoros	Africa	2002	71
+NPL	Nepal	South-East Asia	2002	71
+IDN	Indonesia	Western Pacific	2002	72
+GNB	Guinea-Bissau	Africa	2002	73
+IRL	Ireland	Europe	2002	73
+PNG	Papua New Guinea	Western Pacific	2002	73
+SUR	Suriname	Americas	2002	73
+AGO	Angola	Africa	2002	74
+BGD	Bangladesh	South-East Asia	2002	75
+BDI	Burundi	Africa	2002	75
+GEO	Georgia	Europe	2002	75
+IRQ	Iraq	Eastern Mediterranean	2002	77
+MOZ	Mozambique	Africa	2002	77
+MMR	Myanmar	South-East Asia	2002	77
+AUT	Austria	Europe	2002	78
+BTN	Bhutan	South-East Asia	2002	78
+GHA	Ghana	Africa	2002	78
+KEN	Kenya	Africa	2002	78
+LSO	Lesotho	Africa	2002	78
+SLB	Solomon Islands	Western Pacific	2002	78
+MHL	Marshall Islands	Western Pacific	2002	80
+DZA	Algeria	Africa	2002	81
+ITA	Italy	Europe	2002	81
+BEL	Belgium	Europe	2002	82
+PHL	Philippines	Western Pacific	2002	82
+CHE	Switzerland	Europe	2002	82
+ERI	Eritrea	Africa	2002	83
+TUR	Türkiye	Europe	2002	83
+VEN	Venezuela (Bolivarian Republic of)	Americas	2002	83
+MUS	Mauritius	Africa	2002	84
+NZL	New Zealand	Western Pacific	2002	84
+SYR	Syrian Arab Republic	Eastern Mediterranean	2002	84
+ZMB	Zambia	Africa	2002	84
+CHN	China	Western Pacific	2002	85
+FJI	Fiji	Western Pacific	2002	85
+STP	Sao Tome and Principe	Africa	2002	85
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2002	85
+CYP	Cyprus	Europe	2002	86
+DOM	Dominican Republic	Americas	2002	86
+FRA	France	Europe	2002	86
+JAM	Jamaica	Americas	2002	86
+PRY	Paraguay	Americas	2002	86
+MRT	Mauritania	Africa	2002	87
+NOR	Norway	Europe	2002	87
+TTO	Trinidad and Tobago	Americas	2002	87
+BLZ	Belize	Americas	2002	88
+KIR	Kiribati	Western Pacific	2002	88
+FSM	Micronesia (Federated States of)	Western Pacific	2002	88
+TKM	Turkmenistan	Europe	2002	88
+BIH	Bosnia and Herzegovina	Europe	2002	89
+CPV	Cabo Verde	Africa	2002	89
+TJK	Tajikistan	Europe	2002	89
+TZA	United Republic of Tanzania	Africa	2002	89
+GMB	Gambia	Africa	2002	90
+TON	Tonga	Western Pacific	2002	90
+ARM	Armenia	Europe	2002	91
+BRB	Barbados	Americas	2002	91
+BOL	Bolivia (Plurinational State of)	Americas	2002	91
+ISL	Iceland	Europe	2002	91
+LBY	Libya	Eastern Mediterranean	2002	91
+USA	United States of America	Americas	2002	91
+BWA	Botswana	Africa	2002	92
+BGR	Bulgaria	Europe	2002	92
+GRC	Greece	Europe	2002	92
+GTM	Guatemala	Americas	2002	92
+SRB	Serbia	Europe	2002	92
+COL	Colombia	Americas	2002	93
+SLV	El Salvador	Americas	2002	93
+SWZ	Eswatini	Africa	2002	93
+GUY	Guyana	Americas	2002	93
+PRT	Portugal	Europe	2002	93
+SVN	Slovenia	Europe	2002	93
+AUS	Australia	Western Pacific	2002	94
+BHS	Bahamas	Americas	2002	94
+CRI	Costa Rica	Americas	2002	94
+DEU	Germany	Europe	2002	94
+LUX	Luxembourg	Europe	2002	94
+MYS	Malaysia	Western Pacific	2002	94
+MAR	Morocco	Eastern Mediterranean	2002	94
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2002	94
+MDA	Republic of Moldova	Europe	2002	94
+SGP	Singapore	Western Pacific	2002	94
+THA	Thailand	South-East Asia	2002	94
+TUN	Tunisia	Eastern Mediterranean	2002	94
+ARE	United Arab Emirates	Eastern Mediterranean	2002	94
+ARG	Argentina	Americas	2002	95
+CAN	Canada	Americas	2002	95
+CHL	Chile	Americas	2002	95
+COK	Cook Islands	Western Pacific	2002	95
+HRV	Croatia	Europe	2002	95
+DNK	Denmark	Europe	2002	95
+EST	Estonia	Europe	2002	95
+ISR	Israel	Europe	2002	95
+JOR	Jordan	Eastern Mediterranean	2002	95
+KAZ	Kazakhstan	Europe	2002	95
+NLD	Netherlands (Kingdom of the)	Europe	2002	95
+PAN	Panama	Americas	2002	95
+PER	Peru	Americas	2002	95
+SWE	Sweden	Europe	2002	95
+URY	Uruguay	Americas	2002	95
+ALB	Albania	Europe	2002	96
+BRA	Brazil	Americas	2002	96
+FIN	Finland	Europe	2002	96
+GRD	Grenada	Americas	2002	96
+MEX	Mexico	Americas	2002	96
+SMR	San Marino	Europe	2002	96
+VNM	Viet Nam	Western Pacific	2002	96
+EGY	Egypt	Eastern Mediterranean	2002	97
+HND	Honduras	Americas	2002	97
+KWT	Kuwait	Eastern Mediterranean	2002	97
+MDV	Maldives	South-East Asia	2002	97
+MCO	Monaco	Europe	2002	97
+KOR	Republic of Korea	Western Pacific	2002	97
+SAU	Saudi Arabia	Eastern Mediterranean	2002	97
+ESP	Spain	Europe	2002	97
+UZB	Uzbekistan	Europe	2002	97
+AND	Andorra	Europe	2002	98
+CUB	Cuba	Americas	2002	98
+CZE	Czechia	Europe	2002	98
+PRK	Democratic People's Republic of Korea	South-East Asia	2002	98
+JPN	Japan	Western Pacific	2002	98
+KGZ	Kyrgyzstan	Europe	2002	98
+LVA	Latvia	Europe	2002	98
+LTU	Lithuania	Europe	2002	98
+MNG	Mongolia	Western Pacific	2002	98
+NIC	Nicaragua	Americas	2002	98
+MKD	North Macedonia	Europe	2002	98
+POL	Poland	Europe	2002	98
+ROU	Romania	Europe	2002	98
+RUS	Russian Federation	Europe	2002	98
+LCA	Saint Lucia	Americas	2002	98
+SYC	Seychelles	Africa	2002	98
+ATG	Antigua and Barbuda	Americas	2002	99
+BHR	Bahrain	Eastern Mediterranean	2002	99
+BLR	Belarus	Europe	2002	99
+BRN	Brunei Darussalam	Western Pacific	2002	99
+DMA	Dominica	Americas	2002	99
+ECU	Ecuador	Americas	2002	99
+HUN	Hungary	Europe	2002	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2002	99
+NIU	Niue	Western Pacific	2002	99
+OMN	Oman	Eastern Mediterranean	2002	99
+PLW	Palau	Western Pacific	2002	99
+QAT	Qatar	Eastern Mediterranean	2002	99
+KNA	Saint Kitts and Nevis	Americas	2002	99
+VCT	Saint Vincent and the Grenadines	Americas	2002	99
+WSM	Samoa	Western Pacific	2002	99
+SVK	Slovakia	Europe	2002	99
+LKA	Sri Lanka	South-East Asia	2002	99
+TUV	Tuvalu	Western Pacific	2002	99
+UKR	Ukraine	Europe	2002	99
+SOM	Somalia	Eastern Mediterranean	2001	20
+TCD	Chad	Africa	2001	26
+ETH	Ethiopia	Africa	2001	29
+NGA	Nigeria	Africa	2001	32
+COD	Democratic Republic of the Congo	Africa	2001	34
+CAF	Central African Republic	Africa	2001	35
+COG	Congo	Africa	2001	35
+AFG	Afghanistan	Eastern Mediterranean	2001	37
+NER	Niger	Africa	2001	39
+TGO	Togo	Africa	2001	40
+GIN	Guinea	Africa	2001	44
+SEN	Senegal	Africa	2001	48
+DJI	Djibouti	Eastern Mediterranean	2001	49
+GNQ	Equatorial Guinea	Africa	2001	50
+LAO	Lao People's Democratic Republic	Western Pacific	2001	50
+SLE	Sierra Leone	Africa	2001	50
+CMR	Cameroon	Africa	2001	51
+HTI	Haiti	Americas	2001	54
+MLI	Mali	Africa	2001	54
+GAB	Gabon	Africa	2001	55
+IND	India	South-East Asia	2001	57
+LBR	Liberia	Africa	2001	58
+MRT	Mauritania	Africa	2001	58
+NAM	Namibia	Africa	2001	58
+SDN	Sudan	Eastern Mediterranean	2001	58
+KHM	Cambodia	Western Pacific	2001	59
+MDG	Madagascar	Africa	2001	59
+PAK	Pakistan	Eastern Mediterranean	2001	59
+UGA	Uganda	Africa	2001	59
+VUT	Vanuatu	Western Pacific	2001	60
+BFA	Burkina Faso	Africa	2001	63
+MHL	Marshall Islands	Western Pacific	2001	64
+LBN	Lebanon	Eastern Mediterranean	2001	65
+PNG	Papua New Guinea	Western Pacific	2001	65
+AZE	Azerbaijan	Europe	2001	68
+BEN	Benin	Africa	2001	68
+RWA	Rwanda	Africa	2001	69
+ZAF	South Africa	Africa	2001	69
+COM	Comoros	Africa	2001	70
+LSO	Lesotho	Africa	2001	70
+MLT	Malta	Europe	2001	70
+CIV	Cote d'Ivoire	Africa	2001	71
+NPL	Nepal	South-East Asia	2001	71
+AGO	Angola	Africa	2001	72
+GNB	Guinea-Bissau	Africa	2001	72
+YEM	Yemen	Eastern Mediterranean	2001	72
+BDI	Burundi	Africa	2001	73
+IRL	Ireland	Europe	2001	73
+MMR	Myanmar	South-East Asia	2001	73
+ZWE	Zimbabwe	Africa	2001	73
+GEO	Georgia	Europe	2001	74
+MOZ	Mozambique	Africa	2001	74
+STP	Sao Tome and Principe	Africa	2001	75
+IDN	Indonesia	Western Pacific	2001	76
+KIR	Kiribati	Western Pacific	2001	76
+BGD	Bangladesh	South-East Asia	2001	77
+ITA	Italy	Europe	2001	77
+KEN	Kenya	Africa	2001	77
+BTN	Bhutan	South-East Asia	2001	78
+GHA	Ghana	Africa	2001	78
+AUT	Austria	Europe	2001	79
+SYR	Syrian Arab Republic	Eastern Mediterranean	2001	80
+MWI	Malawi	Africa	2001	81
+PHL	Philippines	Western Pacific	2001	81
+BEL	Belgium	Europe	2001	82
+CRI	Costa Rica	Americas	2001	82
+IRQ	Iraq	Eastern Mediterranean	2001	82
+SUR	Suriname	Americas	2001	82
+CHE	Switzerland	Europe	2001	82
+DZA	Algeria	Africa	2001	83
+COK	Cook Islands	Western Pacific	2001	83
+FJI	Fiji	Western Pacific	2001	83
+SLB	Solomon Islands	Western Pacific	2001	83
+ERI	Eritrea	Africa	2001	84
+FSM	Micronesia (Federated States of)	Western Pacific	2001	84
+ZMB	Zambia	Africa	2001	84
+CHN	China	Western Pacific	2001	85
+FRA	France	Europe	2001	85
+JAM	Jamaica	Americas	2001	85
+NZL	New Zealand	Western Pacific	2001	85
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2001	85
+CYP	Cyprus	Europe	2001	86
+TZA	United Republic of Tanzania	Africa	2001	86
+BOL	Bolivia (Plurinational State of)	Americas	2001	88
+CPV	Cabo Verde	Africa	2001	88
+DOM	Dominican Republic	Americas	2001	88
+ISL	Iceland	Europe	2001	88
+TJK	Tajikistan	Europe	2001	88
+ARG	Argentina	Americas	2001	89
+GMB	Gambia	Africa	2001	89
+LCA	Saint Lucia	Americas	2001	89
+BGR	Bulgaria	Europe	2001	90
+MUS	Mauritius	Africa	2001	90
+NOR	Norway	Europe	2001	90
+PRY	Paraguay	Americas	2001	90
+PRT	Portugal	Europe	2001	90
+KNA	Saint Kitts and Nevis	Americas	2001	90
+SRB	Serbia	Europe	2001	90
+BWA	Botswana	Africa	2001	91
+GRC	Greece	Europe	2001	91
+GTM	Guatemala	Americas	2001	91
+PLW	Palau	Western Pacific	2001	91
+TUR	Türkiye	Europe	2001	91
+TTO	Trinidad and Tobago	Americas	2001	91
+USA	United States of America	Americas	2001	91
+AUS	Australia	Western Pacific	2001	92
+BIH	Bosnia and Herzegovina	Europe	2001	92
+PRK	Democratic People's Republic of Korea	South-East Asia	2001	92
+GUY	Guyana	Americas	2001	92
+MKD	North Macedonia	Europe	2001	92
+QAT	Qatar	Eastern Mediterranean	2001	92
+WSM	Samoa	Western Pacific	2001	92
+TUN	Tunisia	Eastern Mediterranean	2001	92
+ARM	Armenia	Europe	2001	93
+BRB	Barbados	Americas	2001	93
+COL	Colombia	Americas	2001	93
+SWZ	Eswatini	Africa	2001	93
+LBY	Libya	Eastern Mediterranean	2001	93
+TON	Tonga	Western Pacific	2001	93
+BHS	Bahamas	Americas	2001	94
+BLZ	Belize	Americas	2001	94
+HRV	Croatia	Europe	2001	94
+DNK	Denmark	Europe	2001	94
+DEU	Germany	Europe	2001	94
+LUX	Luxembourg	Europe	2001	94
+MDA	Republic of Moldova	Europe	2001	94
+SAU	Saudi Arabia	Eastern Mediterranean	2001	94
+SVN	Slovenia	Europe	2001	94
+SWE	Sweden	Europe	2001	94
+THA	Thailand	South-East Asia	2001	94
+ARE	United Arab Emirates	Eastern Mediterranean	2001	94
+URY	Uruguay	Americas	2001	94
+ALB	Albania	Europe	2001	95
+CAN	Canada	Americas	2001	95
+SLV	El Salvador	Americas	2001	95
+EST	Estonia	Europe	2001	95
+ISR	Israel	Europe	2001	95
+KAZ	Kazakhstan	Europe	2001	95
+MYS	Malaysia	Western Pacific	2001	95
+MEX	Mexico	Americas	2001	95
+MNG	Mongolia	Western Pacific	2001	95
+NRU	Naoero	Western Pacific	2001	95
+NLD	Netherlands (Kingdom of the)	Europe	2001	95
+PAN	Panama	Americas	2001	95
+SYC	Seychelles	Africa	2001	95
+SGP	Singapore	Western Pacific	2001	95
+CHL	Chile	Americas	2001	96
+CUB	Cuba	Americas	2001	96
+FIN	Finland	Europe	2001	96
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2001	96
+MAR	Morocco	Eastern Mediterranean	2001	96
+KOR	Republic of Korea	Western Pacific	2001	96
+ESP	Spain	Europe	2001	96
+AND	Andorra	Europe	2001	97
+ATG	Antigua and Barbuda	Americas	2001	97
+CZE	Czechia	Europe	2001	97
+EGY	Egypt	Eastern Mediterranean	2001	97
+LTU	Lithuania	Europe	2001	97
+PER	Peru	Americas	2001	97
+POL	Poland	Europe	2001	97
+RUS	Russian Federation	Europe	2001	97
+SMR	San Marino	Europe	2001	97
+BHR	Bahrain	Eastern Mediterranean	2001	98
+JPN	Japan	Western Pacific	2001	98
+LVA	Latvia	Europe	2001	98
+MDV	Maldives	South-East Asia	2001	98
+MCO	Monaco	Europe	2001	98
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2001	98
+ROU	Romania	Europe	2001	98
+VCT	Saint Vincent and the Grenadines	Americas	2001	98
+TKM	Turkmenistan	Europe	2001	98
+VEN	Venezuela (Bolivarian Republic of)	Americas	2001	98
+VNM	Viet Nam	Western Pacific	2001	98
+BLR	Belarus	Europe	2001	99
+BRA	Brazil	Americas	2001	99
+BRN	Brunei Darussalam	Western Pacific	2001	99
+DMA	Dominica	Americas	2001	99
+ECU	Ecuador	Americas	2001	99
+GRD	Grenada	Americas	2001	99
+HND	Honduras	Americas	2001	99
+HUN	Hungary	Europe	2001	99
+JOR	Jordan	Eastern Mediterranean	2001	99
+KWT	Kuwait	Eastern Mediterranean	2001	99
+KGZ	Kyrgyzstan	Europe	2001	99
+NIC	Nicaragua	Americas	2001	99
+NIU	Niue	Western Pacific	2001	99
+OMN	Oman	Eastern Mediterranean	2001	99
+SVK	Slovakia	Europe	2001	99
+LKA	Sri Lanka	South-East Asia	2001	99
+TUV	Tuvalu	Western Pacific	2001	99
+UKR	Ukraine	Europe	2001	99
+UZB	Uzbekistan	Europe	2001	99
+SOM	Somalia	Eastern Mediterranean	2000	24
+COD	Democratic Republic of the Congo	Africa	2000	26
+AFG	Afghanistan	Eastern Mediterranean	2000	27
+TCD	Chad	Africa	2000	28
+ETH	Ethiopia	Africa	2000	28
+NGA	Nigeria	Africa	2000	33
+COG	Congo	Africa	2000	34
+CAF	Central African Republic	Africa	2000	36
+NER	Niger	Africa	2000	37
+SLE	Sierra Leone	Africa	2000	37
+AGO	Angola	Africa	2000	41
+GIN	Guinea	Africa	2000	42
+LAO	Lao People's Democratic Republic	Western Pacific	2000	42
+MRT	Mauritania	Africa	2000	46
+BFA	Burkina Faso	Africa	2000	48
+SEN	Senegal	Africa	2000	48
+CMR	Cameroon	Africa	2000	49
+MLI	Mali	Africa	2000	49
+DJI	Djibouti	Eastern Mediterranean	2000	50
+GNQ	Equatorial Guinea	Africa	2000	50
+HTI	Haiti	Americas	2000	54
+GAB	Gabon	Africa	2000	55
+IND	India	South-East Asia	2000	56
+MDG	Madagascar	Africa	2000	57
+PAK	Pakistan	Eastern Mediterranean	2000	57
+UGA	Uganda	Africa	2000	57
+SDN	Sudan	Eastern Mediterranean	2000	58
+TGO	Togo	Africa	2000	58
+VUT	Vanuatu	Western Pacific	2000	61
+LBR	Liberia	Africa	2000	63
+KHM	Cambodia	Western Pacific	2000	65
+AZE	Azerbaijan	Europe	2000	67
+CIV	Cote d'Ivoire	Africa	2000	68
+NAM	Namibia	Africa	2000	69
+PNG	Papua New Guinea	Western Pacific	2000	69
+STP	Sao Tome and Principe	Africa	2000	69
+BEN	Benin	Africa	2000	70
+COM	Comoros	Africa	2000	70
+YEM	Yemen	Eastern Mediterranean	2000	70
+GNB	Guinea-Bissau	Africa	2000	71
+LBN	Lebanon	Eastern Mediterranean	2000	71
+MOZ	Mozambique	Africa	2000	71
+NPL	Nepal	South-East Asia	2000	71
+BDI	Burundi	Africa	2000	72
+ZAF	South Africa	Africa	2000	72
+GEO	Georgia	Europe	2000	73
+MWI	Malawi	Africa	2000	73
+BGD	Bangladesh	South-East Asia	2000	74
+ITA	Italy	Europe	2000	74
+LSO	Lesotho	Africa	2000	74
+MLT	Malta	Europe	2000	74
+RWA	Rwanda	Africa	2000	74
+AUT	Austria	Europe	2000	75
+ZWE	Zimbabwe	Africa	2000	75
+COK	Cook Islands	Western Pacific	2000	76
+ERI	Eritrea	Africa	2000	76
+IDN	Indonesia	Western Pacific	2000	76
+BTN	Bhutan	South-East Asia	2000	78
+PRK	Democratic People's Republic of Korea	South-East Asia	2000	78
+KEN	Kenya	Africa	2000	78
+PHL	Philippines	Western Pacific	2000	78
+TZA	United Republic of Tanzania	Africa	2000	78
+IRL	Ireland	Europe	2000	79
+NRU	Naoero	Western Pacific	2000	8
+DZA	Algeria	Africa	2000	80
+BIH	Bosnia and Herzegovina	Europe	2000	80
+KIR	Kiribati	Western Pacific	2000	80
+FJI	Fiji	Western Pacific	2000	81
+TUV	Tuvalu	Western Pacific	2000	81
+BEL	Belgium	Europe	2000	82
+CRI	Costa Rica	Americas	2000	82
+CHE	Switzerland	Europe	2000	82
+PLW	Palau	Western Pacific	2000	83
+BOL	Bolivia (Plurinational State of)	Americas	2000	84
+CHN	China	Western Pacific	2000	84
+FRA	France	Europe	2000	84
+MUS	Mauritius	Africa	2000	84
+MMR	Myanmar	South-East Asia	2000	84
+SUR	Suriname	Americas	2000	84
+SYR	Syrian Arab Republic	Eastern Mediterranean	2000	84
+VEN	Venezuela (Bolivarian Republic of)	Americas	2000	84
+DOM	Dominican Republic	Americas	2000	85
+FSM	Micronesia (Federated States of)	Western Pacific	2000	85
+NZL	New Zealand	Western Pacific	2000	85
+ZMB	Zambia	Africa	2000	85
+CPV	Cabo Verde	Africa	2000	86
+CYP	Cyprus	Europe	2000	86
+GTM	Guatemala	Americas	2000	86
+GUY	Guyana	Americas	2000	86
+IRQ	Iraq	Eastern Mediterranean	2000	86
+NIC	Nicaragua	Americas	2000	86
+PRT	Portugal	Europe	2000	87
+TUR	Türkiye	Europe	2000	87
+COL	Colombia	Americas	2000	88
+JAM	Jamaica	Americas	2000	88
+NOR	Norway	Europe	2000	88
+LCA	Saint Lucia	Americas	2000	88
+TJK	Tajikistan	Europe	2000	88
+GBR	United Kingdom of Great Britain and Northern Ireland	Europe	2000	88
+BGR	Bulgaria	Europe	2000	89
+GMB	Gambia	Africa	2000	89
+GRC	Greece	Europe	2000	89
+MDA	Republic of Moldova	Europe	2000	89
+SRB	Serbia	Europe	2000	89
+URY	Uruguay	Americas	2000	89
+GHA	Ghana	Africa	2000	90
+TTO	Trinidad and Tobago	Americas	2000	90
+ARG	Argentina	Americas	2000	91
+AUS	Australia	Western Pacific	2000	91
+BWA	Botswana	Africa	2000	91
+ISL	Iceland	Europe	2000	91
+QAT	Qatar	Eastern Mediterranean	2000	91
+SLB	Solomon Islands	Western Pacific	2000	91
+SWE	Sweden	Europe	2000	91
+USA	United States of America	Americas	2000	91
+ARM	Armenia	Europe	2000	92
+SWZ	Eswatini	Africa	2000	92
+DEU	Germany	Europe	2000	92
+GRD	Grenada	Americas	2000	92
+MNG	Mongolia	Western Pacific	2000	92
+PRY	Paraguay	Americas	2000	92
+BHS	Bahamas	Americas	2000	93
+HRV	Croatia	Europe	2000	93
+EST	Estonia	Europe	2000	93
+LBY	Libya	Eastern Mediterranean	2000	93
+LUX	Luxembourg	Europe	2000	93
+MAR	Morocco	Eastern Mediterranean	2000	93
+PSE	occupied Palestinian territory, including east Jerusalem	Eastern Mediterranean	2000	93
+WSM	Samoa	Western Pacific	2000	93
+BRB	Barbados	Americas	2000	94
+CUB	Cuba	Americas	2000	94
+JOR	Jordan	Eastern Mediterranean	2000	94
+MHL	Marshall Islands	Western Pacific	2000	94
+SAU	Saudi Arabia	Eastern Mediterranean	2000	94
+ESP	Spain	Europe	2000	94
+THA	Thailand	South-East Asia	2000	94
+ARE	United Arab Emirates	Eastern Mediterranean	2000	94
+ALB	Albania	Europe	2000	95
+ATG	Antigua and Barbuda	Americas	2000	95
+ISR	Israel	Europe	2000	95
+KOR	Republic of Korea	Western Pacific	2000	95
+SVN	Slovenia	Europe	2000	95
+TON	Tonga	Western Pacific	2000	95
+TUN	Tunisia	Eastern Mediterranean	2000	95
+BLZ	Belize	Americas	2000	96
+CAN	Canada	Americas	2000	96
+FIN	Finland	Europe	2000	96
+JPN	Japan	Western Pacific	2000	96
+MYS	Malaysia	Western Pacific	2000	96
+MEX	Mexico	Americas	2000	96
+NLD	Netherlands (Kingdom of the)	Europe	2000	96
+VCT	Saint Vincent and the Grenadines	Americas	2000	96
+SGP	Singapore	Western Pacific	2000	96
+TKM	Turkmenistan	Europe	2000	96
+AND	Andorra	Europe	2000	97
+CHL	Chile	Americas	2000	97
+CZE	Czechia	Europe	2000	97
+SLV	El Salvador	Americas	2000	97
+LVA	Latvia	Europe	2000	97
+LTU	Lithuania	Europe	2000	97
+MKD	North Macedonia	Europe	2000	97
+PAN	Panama	Americas	2000	97
+PER	Peru	Americas	2000	97
+POL	Poland	Europe	2000	97
+RUS	Russian Federation	Europe	2000	97
+SYC	Seychelles	Africa	2000	97
+VNM	Viet Nam	Western Pacific	2000	97
+BHR	Bahrain	Eastern Mediterranean	2000	98
+BLR	Belarus	Europe	2000	98
+EGY	Egypt	Eastern Mediterranean	2000	98
+HND	Honduras	Americas	2000	98
+KGZ	Kyrgyzstan	Europe	2000	98
+MCO	Monaco	Europe	2000	98
+ROU	Romania	Europe	2000	98
+SVK	Slovakia	Europe	2000	98
+BRA	Brazil	Americas	2000	99
+BRN	Brunei Darussalam	Western Pacific	2000	99
+DNK	Denmark	Europe	2000	99
+DMA	Dominica	Americas	2000	99
+ECU	Ecuador	Americas	2000	99
+HUN	Hungary	Europe	2000	99
+IRN	Iran (Islamic Republic of)	Eastern Mediterranean	2000	99
+KAZ	Kazakhstan	Europe	2000	99
+KWT	Kuwait	Eastern Mediterranean	2000	99
+MDV	Maldives	South-East Asia	2000	99
+NIU	Niue	Western Pacific	2000	99
+OMN	Oman	Eastern Mediterranean	2000	99
+KNA	Saint Kitts and Nevis	Americas	2000	99
+SMR	San Marino	Europe	2000	99
+LKA	Sri Lanka	South-East Asia	2000	99
+UKR	Ukraine	Europe	2000	99
+UZB	Uzbekistan	Europe	2000	99
