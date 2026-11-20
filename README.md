@@ -1,5 +1,5 @@
 # group08_final_project
-## Final project in R4BDS course: Child immunisation against measles vs Under 5-years old mortality across countries.
+## Final project in R4BDS course: Child immunisation against measles and stunting prevalence affecting child mortality for ages under-5.
 
 ### R for Bio Data Science - Group Project:
 > Biological question: does child immunisation against measles relate to under-five
