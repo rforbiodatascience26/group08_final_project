@@ -17,7 +17,7 @@ lm ( mortality rate ~ vaccination coverage + stunting prevalence )
 
 ### Considered datasets : 
 
-#### 1) Measles immunization dataset: 
+### 1) Measles immunization dataset: 
 per country, per year, tracks the percentage of 1-year
 olds that have received their first dose of the measles vaccine.
 4,856 rows x 34 columns
@@ -49,7 +49,7 @@ Data wrangling steps:
 actual percentage of interest and the CI (e.g. “1.3 [0.6 - 2.8]”). Using the stringr
 library we can extract just the first part as numeric.
 
-#### 2) Stunting prevalence dataset: 
+### 2) Stunting prevalence dataset: 
 per country, per survey year, what percentage of children under 5 are stunted (their height 
 is 2 standard deviations below the WHOgrowth reference median). This is a potential marker for chronic undernutrition.
 
