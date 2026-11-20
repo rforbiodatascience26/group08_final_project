@@ -51,8 +51,7 @@ library we can extract just the first part as numeric.
 
 #### 2) Stunting prevalence dataset: 
 per country, per survey year, what percentage of children under 5 are stunted (their height 
-is 2 standard deviations below the WHOgrowth reference median)
-~ This is a potential marker for chronic undernutrition.
+is 2 standard deviations below the WHOgrowth reference median). This is a potential marker for chronic undernutrition.
 
 967 rows x 34 columns
 Data from 1983 to 2023
@@ -69,27 +68,20 @@ Data wrangling steps:
 2. The Value variable has again a string format that combines the percentage
 with the CI in brackets, so we will only extract the first parts as numeric.
 
+### 3) Mortality under 5 years old dataset: 
+per country, per year, probability of dying by age 5, per 1000 live births.
 
-
-#### 3) (optional) Inequality based on income and wealth of bottom 50% vs top 1% 
-per country, per year, the income and wealth in share of national GDP of 
-the poorer "bottom" 50% and of the richer "top" 1%
-
-?? rows x ?? columns (free to build)
-Data from 1983 to 2025 (but free to choose, sometimes empty)
+13,095 rows x 34 columns
+Data from 1931 - 2023
 Variables of interest:
-1. Country
-2. Bottom 50% income
-3. Bottom 50% wealth
-4. Top 1% income
-5. Top 1% wealth 
-6. GDP
+1. SpatialDimValueCode: ISO3 country code
+2. Location / Parent Location: country name and WHO region
+3. Period: the year
+4. Value: the mortality rate (probability of dying by age 5), per 1,000 live births
 
-Data wrangling steps:
-1. Dropping the variables that we don’t need and empty cells
-2. Transform the 4 variables in 2 by taking the ratio of top / bottom
-3. Join on Country to match the other datasets
-
+Data wrangling steps: 
+1. Dropping the variables that we don’t need
+2. The Value variable comes in a string format, where in each cell we have the actual percentage of interest and the CI (e.g. “1.3 [0.6 - 2.8]”).
 
 Under 5 mortality rate: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-
@@ -101,5 +93,3 @@ among-1-year-olds-(-)
 
 Stunting prevalence: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/gho-jme-country-children-aged-5-years-stunted-(-height-for-age--2-sd)
-
-Wealth and income inequality: https://wid.world/data/
