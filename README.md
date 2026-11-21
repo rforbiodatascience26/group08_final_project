@@ -1,5 +1,5 @@
 # group08_final_project
-## Final project in R4BDS course: Child immunisation against measles and stunting prevalence affecting child mortality for ages under-5.
+## Final project in R4BDS course: Child immunisation against measles vs Under 5-years old mortality across countries.
 
 ### R for Bio Data Science - Group Project:
 > Biological question: does child immunisation against measles relate to under-five
@@ -17,7 +17,7 @@ lm ( mortality rate ~ vaccination coverage + stunting prevalence )
 
 ### Considered datasets : 
 
-### 1) Measles immunization dataset: 
+#### 1) Measles immunization dataset: 
 per country, per year, tracks the percentage of 1-year
 olds that have received their first dose of the measles vaccine.
 4,856 rows x 34 columns
@@ -49,9 +49,10 @@ Data wrangling steps:
 actual percentage of interest and the CI (e.g. “1.3 [0.6 - 2.8]”). Using the stringr
 library we can extract just the first part as numeric.
 
-### 2) Stunting prevalence dataset: 
+#### 2) Stunting prevalence dataset: 
 per country, per survey year, what percentage of children under 5 are stunted (their height 
-is 2 standard deviations below the WHOgrowth reference median). This is a potential marker for chronic undernutrition.
+is 2 standard deviations below the WHOgrowth reference median)
+~ This is a potential marker for chronic undernutrition.
 
 967 rows x 34 columns
 Data from 1983 to 2023
@@ -68,20 +69,6 @@ Data wrangling steps:
 2. The Value variable has again a string format that combines the percentage
 with the CI in brackets, so we will only extract the first parts as numeric.
 
-### 3) Mortality under 5 years old dataset: 
-per country, per year, probability of dying by age 5, per 1000 live births.
-
-13,095 rows x 34 columns
-Data from 1931 - 2023
-Variables of interest:
-1. SpatialDimValueCode: ISO3 country code
-2. Location / Parent Location: country name and WHO region
-3. Period: the year
-4. Value: the mortality rate (probability of dying by age 5), per 1,000 live births
-
-Data wrangling steps: 
-1. Dropping the variables that we don’t need
-2. The Value variable comes in a string format, where in each cell we have the actual percentage of interest and the CI (e.g. “1.3 [0.6 - 2.8]”).
 
 Under 5 mortality rate: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-
@@ -93,3 +80,4 @@ among-1-year-olds-(-)
 
 Stunting prevalence: https://www.who.int/data/gho/data/indicators/indicator-
 details/GHO/gho-jme-country-children-aged-5-years-stunted-(-height-for-age--2-sd)
+
