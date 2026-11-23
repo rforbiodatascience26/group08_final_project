@@ -2,11 +2,11 @@
 library("shiny")
 library("bslib")
 
-source("03_app_functions.R", local = TRUE)
+source("R/07_shiny_app_scripts/chloropleth_function.R", local = TRUE)
 
 
-source("03_app_ui.R", local = TRUE)
+source("R/07_shiny_app_scripts/ui_app.R", local = TRUE)
 
-source("03_app_server.R", local = TRUE)
+source("R/07_shiny_app_scripts/backend_app.R", local = TRUE)
 
 shinyApp(ui = ui, server = server)
