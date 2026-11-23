@@ -4,13 +4,24 @@ format: html
 ---
 
 ## Library Loading
+
 ```{r}
 library(tidyverse)
 library(here)
 ```
 
+## Raw Data Loading
 
-## Raw Data Loading 
+```{r}
+library(here)
+
+untar(
+  tarfile = here("_raw", "data.zip.tar.gz"), 
+  exdir = here("_raw")
+)
+
+```
+
 ```{r}
 mortality_raw <- read_csv(file = here("_raw/mortality_under5.csv"))
 measles_raw <- read_csv(file = here("_raw/measles_immunization_1yo.csv"))
@@ -18,19 +29,9 @@ stunting_raw <- read_csv(file = here("_raw/stunting_prevelance_under5.csv"))
 ```
 
 ## Storing data in dedicated folder.
+
 ```{r}
 write_tsv(x = mortality_raw, file = here("data/01_dat_mortality.tsv"))
 write_tsv(x = measles_raw, file = here("data/01_dat_measles.tsv"))
 write_tsv(x = stunting_raw, file = here("data/01_dat_stunting.tsv"))
 ```
-
-
-
-
-
-
-
-
-
-
-

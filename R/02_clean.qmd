@@ -3,14 +3,15 @@ title: "02 - Clean Data"
 format: html
 ---
 
-
 ## Library Loading
+
 ```{r}
 library(tidyverse)
 library(here)
 ```
 
 ## Load Data
+
 ```{r}
 mortality_raw <- read_tsv(file = here("data/01_dat_mortality.tsv"))
 measles_raw <- read_tsv(file = here("data/01_dat_measles.tsv"))
@@ -18,6 +19,7 @@ stunting_raw  <- read_tsv(file = here("data/01_dat_stunting.tsv"))
 ```
 
 ## Clean Mortality Data
+
 ```{r}
 mortality_clean <- mortality_raw |>
   mutate(
@@ -28,11 +30,25 @@ mortality_clean <- mortality_raw |>
     country = Location,
     region = ParentLocation,
     year = Period,
+    sex = Dim1,
     mortality_rate
+  ) %>%
+  filter(
+    sex == "Both sexes"
+  )
+
+
+unbalanced_entries <- mortality_clean %>%
+  group_by(country) %>% 
+  filter(sex != "Both sexes"
+  ) %>% 
+  select(
+    country, year
   )
 ```
 
 ## Clean Measles Data
+
 ```{r}
 measles_clean <- measles_raw |>
   mutate(
@@ -48,6 +64,7 @@ measles_clean <- measles_raw |>
 ```
 
 ## Clean Stunting Data
+
 ```{r}
 stunting_clean <- stunting_raw |>
   mutate(
@@ -64,6 +81,7 @@ stunting_clean <- stunting_raw |>
 ```
 
 ## Store Cleaned Data
+
 ```{r}
 write_tsv(x = mortality_clean, file = here("data/02_dat_mortality.tsv"))
 write_tsv(x = measles_clean,   file = here("data/02_dat_measles.tsv"))
