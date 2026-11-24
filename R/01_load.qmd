@@ -36,7 +36,7 @@ stunting_raw  <- read_csv(unz(zip_file, "stunting_prevalence.csv"))
 ## Store raw data in a dedicated folder
 
 ```{r}
-write_tsv(x = mortality_raw, file = here("data/01_mortality_load.tsv"))
-write_tsv(x = measles_raw, file = here("data/01_measles_load.tsv"))
-write_tsv(x = stunting_raw, file = here("data/01_stunting_load.tsv"))
+write_tsv(x = mortality_raw, file = here("data/_raw/01_mortality_load.tsv"))
+write_tsv(x = measles_raw, file = here("data/_raw/01_measles_load.tsv"))
+write_tsv(x = stunting_raw, file = here("data/_raw/01_stunting_load.tsv"))
 ```
