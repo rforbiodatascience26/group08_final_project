@@ -1,6 +1,8 @@
 ---
 title: "04_descriptive_stats"
 format: html
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## Library loading
@@ -66,7 +68,7 @@ ridge_data |>
   theme_ridges() +
   theme(plot.title = element_text(hjust = 0.5),
         axis.text = element_text(size = 8),
-        axis.title = element_text(size = 9))
+        axis.title = element_text(size = 10))
 
 ```
 
