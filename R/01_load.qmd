@@ -1,36 +1,42 @@
 ---
 title: "01 - Load Data"
 format: html
+editor: visual
 ---
 
-## Library Loading
+## Load libraries
+
 ```{r}
-library(tidyverse)
-library(here)
+#| message: false
+
+library("tidyverse")
+library("here")
 ```
 
+## Raw Data Loading
 
-## Raw Data Loading 
 ```{r}
-mortality_raw <- read_csv(file = here("_raw/mortality_under5.csv"))
-measles_raw <- read_csv(file = here("_raw/measles_immunization_1yo.csv"))
-stunting_raw <- read_csv(file = here("_raw/stunting_prevelance_under5.csv"))
+#| message: false
+#| warning: false
+
+data_url <- "https://drive.google.com/uc?export=download&id=1b7DHLNFZ94zUnACNLonrgjN9fYtrdmOV"
+zip_file <- here("data/_raw/data.zip")
+
+# download zipped folder
+download.file(url = data_url, 
+              destfile = zip_file, 
+              mode = "wb")
+
+# extract files from zipped folder
+measles_raw   <- read_csv(unz(zip_file, "measles_vaccine.csv"))
+mortality_raw <- read_csv(unz(zip_file, "under_5_mortality_rate.csv"))
+stunting_raw  <- read_csv(unz(zip_file, "stunting_prevalence.csv"))
 ```
 
-## Storing data in dedicated folder.
+## Store raw data in a dedicated folder
+
 ```{r}
-write_tsv(x = mortality_raw, file = here("data/01_dat_mortality.tsv"))
-write_tsv(x = measles_raw, file = here("data/01_dat_measles.tsv"))
-write_tsv(x = stunting_raw, file = here("data/01_dat_stunting.tsv"))
+write_tsv(x = mortality_raw, file = here("data/01_mortality_load.tsv"))
+write_tsv(x = measles_raw, file = here("data/01_measles_load.tsv"))
+write_tsv(x = stunting_raw, file = here("data/01_stunting_load.tsv"))
 ```
-
-
-
-
-
-
-
-
-
-
-

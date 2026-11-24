@@ -1,25 +1,32 @@
 ---
 title: "02 - Clean Data"
 format: html
+editor: visual
 ---
 
-
 ## Library Loading
+
 ```{r}
 library(tidyverse)
 library(here)
 ```
 
 ## Load Data
+
 ```{r}
-mortality_raw <- read_tsv(file = here("data/01_dat_mortality.tsv"))
-measles_raw <- read_tsv(file = here("data/01_dat_measles.tsv"))
-stunting_raw  <- read_tsv(file = here("data/01_dat_stunting.tsv"))
+#| message: false
+
+# gives Delimiter: "\t" message, mb worth resolving
+mortality_raw <- read_tsv(file = here("data/01_mortality_load.tsv"))
+measles_raw <- read_tsv(file = here("data/01_measles_load.tsv"))
+stunting_raw  <- read_tsv(file = here("data/01_stunting_load.tsv"))
 ```
 
 ## Clean Mortality Data
+
 ```{r}
 mortality_clean <- mortality_raw |>
+  filter(Dim1 == "Both sexes") |> 
   mutate(
     mortality_rate = as.numeric(str_extract(Value, "^[0-9.]+"))
   ) |>
@@ -33,6 +40,7 @@ mortality_clean <- mortality_raw |>
 ```
 
 ## Clean Measles Data
+
 ```{r}
 measles_clean <- measles_raw |>
   mutate(
@@ -48,6 +56,7 @@ measles_clean <- measles_raw |>
 ```
 
 ## Clean Stunting Data
+
 ```{r}
 stunting_clean <- stunting_raw |>
   mutate(
@@ -64,8 +73,9 @@ stunting_clean <- stunting_raw |>
 ```
 
 ## Store Cleaned Data
+
 ```{r}
-write_tsv(x = mortality_clean, file = here("data/02_dat_mortality.tsv"))
-write_tsv(x = measles_clean,   file = here("data/02_dat_measles.tsv"))
-write_tsv(x = stunting_clean,  file = here("data/02_dat_stunting.tsv"))
+write_tsv(mortality_clean, file = here("data/02_mortality_clean.tsv"))
+write_tsv(measles_clean, file = here("data/02_measles_clean.tsv"))
+write_tsv(stunting_clean, file = here("data/02_stunting_clean.tsv"))
 ```

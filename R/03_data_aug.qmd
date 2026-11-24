@@ -1,26 +1,29 @@
 ---
 title: "03 - Augment Data"
 format: html
+editor: visual
 ---
 
-## Library Loading
+## Load libraries
+
 ```{r}
 library(tidyverse)
 library(here)
 ```
 
+## Load Data
 
-## Data Loading
 ```{r}
 ## Load Data
-mortality_clean <- read_tsv(file = here("data/02_dat_mortality.tsv"))
-measles_clean <- read_tsv(file = here("data/02_dat_measles.tsv"))
-stunting_clean <- read_tsv(file = here("data/02_dat_stunting.tsv"))
+mortality_clean <- read_tsv(file = here("data/02_mortality_clean.tsv"))
+measles_clean <- read_tsv(file = here("data/02_measles_clean.tsv"))
+stunting_clean <- read_tsv(file = here("data/02_stunting_clean.tsv"))
 ```
 
-
 ## Inner Join
+
 ### The tables are joined together, keeping only the rows where the ISO3 code and the year variable match across all datasets.
+
 ```{r}
 ## Inner Join
 dat_joined_inner <- mortality_clean |>
@@ -34,9 +37,10 @@ dat_joined_inner <- mortality_clean |>
   )
 ```
 
-
 ## Left Join
+
 ### Every row from the measles table is kept; mortality and stunting data are attached where a matching ISO3 code / year pair exists.
+
 ```{r}
 dat_joined_left <- measles_clean |>
   left_join(
@@ -49,10 +53,9 @@ dat_joined_left <- measles_clean |>
   )
 ```
 
-
 ## Store Augment Data
+
 ```{r}
 write_tsv(x = dat_joined_inner, file = here("data/03_dat_aug_inner.tsv"))
 write_tsv(x = dat_joined_left, file = here("data/03_dat_aug_left.tsv"))
 ```
-
