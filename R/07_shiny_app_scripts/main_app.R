@@ -5,8 +5,8 @@ library("bslib")
 source("chloropleth_function.R", local = TRUE)
 
 
-source("ui_app.R", local = TRUE)
+source("app_ui.R", local = TRUE)
 
-source("backend_app.R", local = TRUE)
+source("app_server.R", local = TRUE)
 
-shinyApp(ui = ui, server = backend)
+shinyApp(ui = ui, server = server)
