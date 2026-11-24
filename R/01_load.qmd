@@ -19,6 +19,10 @@ library("here")
 #| message: false
 #| warning: false
 
+# Create the data directory programmatically
+dir.create(path = here("data"))
+dir.create(path = here("data/_raw"))
+
 data_url <- "https://drive.google.com/uc?export=download&id=1b7DHLNFZ94zUnACNLonrgjN9fYtrdmOV"
 zip_file <- here("data/_raw/data.zip")
 
