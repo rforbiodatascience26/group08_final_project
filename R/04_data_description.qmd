@@ -8,9 +8,10 @@ editor_options:
 ## Library loading
 
 ```{r}
-library(tidyverse)
+library("tidyverse")
 library("table1")
 library("ggridges")
+library("here")
 
 if (!requireNamespace("VennDiagram", quietly = TRUE)) {
   install.packages("VennDiagram")
@@ -27,9 +28,9 @@ inner_df <- read_tsv(file = here("data/03_dat_aug_inner.tsv"))
 left_df <- read_tsv(file = here("data/03_dat_aug_left.tsv"))
 ```
 
-## Medians by region in latest decade
+## Medians by region throughout the decades
 
-To describe the current situation across regions, each country's data was summarised over the last 2 decades (2000–2020). For every country, the median under-5 mortality rate, measles vaccine coverage, and stunting prevalence across the available years were calculated, giving one value per country.
+To describe the current situation across regions, each country's data was summarised over the years from 1950-2020. For every country, the median under-5 mortality rate, measles vaccine coverage, and stunting prevalence across the available years were calculated, giving one value per country.
 
 By using the median, the influence of single unusual years is reduced and sparse data, like stunting prevalence, is used to describe the decade. The country values were also summarised by region, including the number of countries with missing data for each variable.
 
@@ -45,9 +46,6 @@ left_df |>
   mutate(who_region = factor(region)) |>
   table1(x = formula(~ Mortality_rate + Measles_coverage + Stunting_prevalence | who_region),
          data = _)
-
-
-#| message: false
 
 # Median per country
 country_medians <- left_df |>
@@ -120,13 +118,6 @@ coverage_data <- bind_rows(mortality_clean |>
                              select(country_code, year) |> 
                              mutate(dataset = "Stunting"))
 
-# Number of data points in each combination of datasets
-combo_counts <- coverage_data |>
-  group_by(country_code, year) |>
-  summarise(combination = str_c(dataset, collapse = " + ")) |>
-  ungroup() |>
-  count(combination)
-
 # Region of each country
 region_info <- left_df |>
   count(country_code, region) |>
@@ -184,5 +175,6 @@ venn_plot <- venn.diagram(x = list(Mortality = mortality_venn,
                           cat.pos = c(-20, 20, 180),
                           cat.dist = c(0.05, 0.05, 0.05),
                           main = "Available data points in each dataset")
-venn_plot
+grid::grid.newpage()
+grid::grid.draw(venn_plot)
 ```
