@@ -37,14 +37,6 @@ mortality_clean <- mortality_raw |>
     sex == "Both sexes"
   )
 
-
-unbalanced_entries <- mortality_clean %>%
-  group_by(country) %>% 
-  filter(sex != "Both sexes"
-  ) %>% 
-  select(
-    country, year
-  )
 ```
 
 ## Clean Measles Data
