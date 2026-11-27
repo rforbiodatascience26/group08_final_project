@@ -25,10 +25,18 @@ format: beamer
 
 ## Cleaning challenges
 
--  str in chr
--  missing data
+-  data type : strings entered as chr
+-  inequal dataset size
+
+## selecting relevant entires : 
+-   country_code (SpatialDimValueCode)
+-   country (Location)
+-   location (ParentLocation)
+-   year (Period)
+-   variable of interest
 
 ## Augmenting 
 
--   Get in bed
--   Count sheep
+-   inner join -> "country_code", "year"
+-   left join (on mortality) -> "country_code", "year"
+
