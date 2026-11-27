@@ -1,0 +1,34 @@
+---
+title: "R for Bio Data Science"
+subtitle: "Investigating worldwide mortality in children under five"
+author: "Group 8"
+institute: |
+  Name 1 \
+  Name 2
+format: beamer
+---
+
+
+# Introduction
+
+## Child mortality worldwide
+
+-   
+-   
+
+## Choosing the data
+
+-   WHO
+
+
+# Data wrangling
+
+## Cleaning challenges
+
+-  str in chr
+-  missing data
+
+## Augmenting 
+
+-   Get in bed
+-   Count sheep
