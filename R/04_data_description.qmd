@@ -8,10 +8,9 @@ editor_options:
 ## Library loading
 
 ```{r}
-# install.packages("VennDiagram")
-library("tidyverse")
+library(tidyverse)
 library("table1")
-library("ggridges")
+library(ggridges)
 library("VennDiagram")
 ```
 
