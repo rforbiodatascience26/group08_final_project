@@ -1,0 +1,42 @@
+---
+title: "R for Bio Data Science"
+subtitle: "Investigating worldwide mortality in children under five"
+author: "Group 8"
+institute: |
+  Name 1 \
+  Name 2
+format: beamer
+---
+
+
+# Introduction
+
+## Child mortality worldwide
+
+-   
+-   
+
+## Choosing the data
+
+-   WHO
+
+
+# Data wrangling
+
+## Cleaning challenges
+
+-  data type : strings entered as chr
+-  inequal dataset size
+
+## selecting relevant entires : 
+-   country_code (SpatialDimValueCode)
+-   country (Location)
+-   location (ParentLocation)
+-   year (Period)
+-   variable of interest
+
+## Augmenting 
+
+-   inner join -> "country_code", "year"
+-   left join (on mortality) -> "country_code", "year"
+

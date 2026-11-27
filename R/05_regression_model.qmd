@@ -1,5 +1,92 @@
 ---
-title: "05_regression_model"
+title: "05 - Linear Regression"
 format: html
 ---
 
+## Library Loading
+
+```{r}
+library(tidyverse)
+library(here)
+library(broom)
+```
+
+## Load Data
+
+```{r}
+dat_aug <- read_tsv(file = here("data/03_dat_aug_inner.tsv"))
+```
+
+## Analysis
+
+```{r}
+mortality_model <- dat_aug |>
+  lm(formula = mortality_rate ~ measles_coverage + stunting_prevalence,
+     data = _)
+```
+
+## Coefficients
+
+```{r}
+mortality_model |>
+  pluck("coefficients")
+```
+
+## Tidy the model
+
+```{r}
+mortality_model_tidy <- mortality_model |>
+  tidy(conf.int = TRUE,
+       conf.level = 0.95)
+ 
+mortality_model_tidy
+```
+
+## Summary stats
+
+```{r}
+mortality_model_glance <- mortality_model |>
+  glance()
+ 
+mortality_model_glance
+```
+
+## Check significance
+
+```{r}
+mortality_model |>
+  summary()
+```
+
+## Visualise
+
+```{r}
+mortality_coef_plot <- mortality_model_tidy |>
+  filter(term != "(Intercept)") |>
+  ggplot(aes(x = estimate,
+             y = fct_reorder(term, estimate),
+             xmin = conf.low,
+             xmax = conf.high)) +
+  geom_vline(xintercept = 0) +
+  geom_errorbarh() +
+  geom_point() +
+  theme_minimal(base_size = 16) +
+  theme(plot.title = element_text(hjust = 1)) +
+  labs(x = "Estimates (95%CIs)",
+       y = "",
+       title = "Measles Vaccination Coverage and Stunting Prevalence\nAssociated with Under-Five Mortality",
+       caption = "Data from WHO Global Health Observatory (GHO)")
+
+mortality_coef_plot
+```
+
+## Store Results
+
+```{r}
+ggsave(filename = here("results/05_key_plot_1.png"),
+       plot = mortality_coef_plot,
+       width = 7,
+       height = 4,
+       dpi = 300,
+       bg = )
+```

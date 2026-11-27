@@ -179,4 +179,25 @@ venn_plot <- venn.diagram(x = list(Mortality = mortality_venn,
 venn_plot
 ```
 
+## Medians by region in latest decade
+
+To describe the current situation across regions, each country's data was summarised over the last 2 decades (2000–2020). For every country, the median under-5 mortality rate, measles vaccine coverage, and stunting prevalence across the available years were calculated, giving one value per country.
+
+By using the median, the influence of single unusual years is reduced and sparse data, like stunting prevalence, is used to describe the decade. The country values were also summarised by region, including the number of countries with missing data for each variable.
+
+```{r}
+#| message: false
+
+# Info presented in a tidy table
+left_df |>
+  filter(between(year, 2000, 2020)) |>
+  group_by(country_code, region) |>
+  summarise(Mortality_rate = median(mortality_rate, na.rm = TRUE),
+            Measles_coverage = median(measles_coverage, na.rm = TRUE),
+            Stunting_prevalence = median(stunting_prevalence, na.rm = TRUE)) |> 
+            ungroup() |>
+  mutate(who_region = factor(region)) |>
+  table1(x = formula(~ Mortality_rate + Measles_coverage + Stunting_prevalence | who_region),
+         data = _)
+```
 
