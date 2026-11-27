@@ -127,6 +127,11 @@ combo_counts <- coverage_data |>
   ungroup() |>
   count(combination)
 
+# Region of each country
+region_info <- left_df |>
+  count(country_code, region) |>
+  select(country_code, region)
+
 # Heatmap of data coverage per region and year
 region_sizes <- region_info |>
   count(region, name = "n_countries")
