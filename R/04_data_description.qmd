@@ -12,6 +12,7 @@ library(tidyverse)
 library("table1")
 library(ggridges)
 library("VennDiagram")
+library("here")
 ```
 
 ## Load data
@@ -44,36 +45,50 @@ left_df |>
   drop_na(value) |>
   count(variable)
 
-mortality_venn <- mortality_clean |> 
-  mutate(venn_name = str_c(country_code, year, sep = "_")) |> 
-  pull(venn_name)
+# Which country-year appears in which dataset
+coverage_data <- bind_rows(
+  mortality_clean |> select(country_code, year) |> mutate(dataset = "Mortality"),
+  measles_clean |> select(country_code, year) |> mutate(dataset = "Measles"),
+  stunting_clean |> select(country_code, year) |> mutate(dataset = "Stunting")
+) |>
+  distinct()
 
-measles_venn <- measles_clean |> 
-  mutate(venn_name = str_c(country_code, year, sep = "_")) |> 
-  pull(venn_name)
+# Number of data points in each combination of datasets
+combo_counts <- coverage_data |>
+  group_by(country_code, year) |>
+  summarise(combination = str_c(dataset, collapse = " + ")) |>
+  ungroup() |>
+  count(combination)
 
-stunting_venn <- stunting_clean |> 
-  mutate(venn_name = str_c(country_code, year, sep = "_")) |> 
-  pull(venn_name)
+# Bar plot of shared data points
+combo_counts |>
+  ggplot(aes(x = n,
+             y = fct_reorder(combination, n))) +
+  geom_col(fill = "#338530") +
+  geom_text(aes(label = n),
+            hjust = -0.2) +
+  labs(title = "Available data points in each combination of datasets",
+       x = "Number of country-year data points",
+       y = NULL) +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5))
 
-venn_plot <- venn.diagram(x = list(Mortality = mortality_venn,
-                                   Measles = measles_venn,
-                                   Stunting = stunting_venn),
-                          filename = NULL,
-                          fill = c("#440154", "#21908C", "#FDE725"),
-                          alpha = 0.3,
-                          main.fontfamily = "sans",
-                          main.fontface = "bold",
-                          fontfamily = "sans",
-                          cex = 1,
-                          cat.cex = 1,
-                          cat.fontfamily = "sans",
-                          cat.fontface = "bold",
-                          cat.pos = c(-20, 20, 180),
-                          cat.dist = c(0.05, 0.05, 0.05),
-                          main = "Available data points in each dataset")
-venn_plot
+# Line plot of countries with data per year
+coverage_data |>
+  count(year, dataset) |>
+  ggplot(aes(x = year,
+             y = n,
+             colour = dataset)) +
+  geom_line(linewidth = 1) +
+  scale_colour_viridis_d() +
+  labs(title = "Countries with data per year",
+       x = "Year",
+       y = "Number of countries",
+       colour = NULL) +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5))
 ```
+
 
 ## Medians by region in latest decade
 

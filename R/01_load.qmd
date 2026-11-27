@@ -1,46 +1,37 @@
 ---
 title: "01 - Load Data"
 format: html
-editor: visual
 ---
 
-## Load libraries
+## Library Loading
 
 ```{r}
-#| message: false
-
-library("tidyverse")
-library("here")
+library(tidyverse)
+library(here)
 ```
 
 ## Raw Data Loading
 
 ```{r}
-#| message: false
-#| warning: false
+library(here)
 
-# Create the data directory programmatically
-dir.create(path = here("data"))
-dir.create(path = here("data/_raw"))
+untar(
+  tarfile = here("_raw", "data.zip.tar.gz"), 
+  exdir = here("_raw")
+)
 
-data_url <- "https://drive.google.com/uc?export=download&id=1b7DHLNFZ94zUnACNLonrgjN9fYtrdmOV"
-zip_file <- here("data/_raw/data.zip")
-
-# download zipped folder
-download.file(url = data_url, 
-              destfile = zip_file, 
-              mode = "wb")
-
-# extract files from zipped folder
-measles_raw   <- read_csv(unz(zip_file, "measles_vaccine.csv"))
-mortality_raw <- read_csv(unz(zip_file, "under_5_mortality_rate.csv"))
-stunting_raw  <- read_csv(unz(zip_file, "stunting_prevalence.csv"))
 ```
 
-## Store raw data in a dedicated folder
+```{r}
+mortality_raw <- read_csv(file = here("_raw/mortality_under5.csv"))
+measles_raw <- read_csv(file = here("_raw/measles_immunization_1yo.csv"))
+stunting_raw <- read_csv(file = here("_raw/stunting_prevelance_under5.csv"))
+```
+
+## Storing data in dedicated folder.
 
 ```{r}
-write_tsv(x = mortality_raw, file = here("data/_raw/01_mortality_load.tsv"))
-write_tsv(x = measles_raw, file = here("data/_raw/01_measles_load.tsv"))
-write_tsv(x = stunting_raw, file = here("data/_raw/01_stunting_load.tsv"))
+write_tsv(x = mortality_raw, file = here("data/01_dat_mortality.tsv"))
+write_tsv(x = measles_raw, file = here("data/01_dat_measles.tsv"))
+write_tsv(x = stunting_raw, file = here("data/01_dat_stunting.tsv"))
 ```
