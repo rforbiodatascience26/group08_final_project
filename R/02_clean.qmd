@@ -13,9 +13,9 @@ library(here)
 ## Load Data
 
 ```{r}
-mortality_raw <- read_tsv(file = here("data/01_dat_mortality.tsv"))
-measles_raw <- read_tsv(file = here("data/01_dat_measles.tsv"))
-stunting_raw  <- read_tsv(file = here("data/01_dat_stunting.tsv"))
+mortality_raw <- read_tsv(file = here("data/_raw/01_mortality_load.tsv"))
+measles_raw <- read_tsv(file = here("data/_raw/01_measles_load.tsv"))
+stunting_raw  <- read_tsv(file = here("data/_raw/01_stunting_load.tsv"))
 ```
 
 ## Clean Mortality Data
