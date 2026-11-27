@@ -10,18 +10,12 @@ editor_options:
 ```{r}
 library(tidyverse)
 library("table1")
-<<<<<<< HEAD
 library("ggridges")
 
 if (!requireNamespace("VennDiagram", quietly = TRUE)) {
   install.packages("VennDiagram")
 }
 library("VennDiagram")
-=======
-library(ggridges)
-library("VennDiagram")
-library("here")
->>>>>>> 482ae321b3fd9e60d5843451dcea228716c77798
 ```
 
 ## Load data
@@ -117,7 +111,6 @@ coverage_data |>
 
 
 ```
-
 
 ## Medians by region in latest decade
 
