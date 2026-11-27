@@ -10,18 +10,12 @@ editor_options:
 ```{r}
 library(tidyverse)
 library("table1")
-<<<<<<< HEAD
 library("ggridges")
 
 if (!requireNamespace("VennDiagram", quietly = TRUE)) {
   install.packages("VennDiagram")
 }
 library("VennDiagram")
-=======
-library(ggridges)
-library("VennDiagram")
-library("here")
->>>>>>> 482ae321b3fd9e60d5843451dcea228716c77798
 ```
 
 ## Load data
@@ -33,9 +27,70 @@ inner_df <- read_tsv(file = here("data/03_dat_aug_inner.tsv"))
 left_df <- read_tsv(file = here("data/03_dat_aug_left.tsv"))
 ```
 
+## Medians by region in latest decade
+
+To describe the current situation across regions, each country's data was summarised over the last 2 decades (2000–2020). For every country, the median under-5 mortality rate, measles vaccine coverage, and stunting prevalence across the available years were calculated, giving one value per country.
+
+By using the median, the influence of single unusual years is reduced and sparse data, like stunting prevalence, is used to describe the decade. The country values were also summarised by region, including the number of countries with missing data for each variable.
+
+```{r}
+# Info presented in a tidy table
+left_df |>
+  filter(between(year, 1950, 2020)) |>
+  group_by(country_code, region) |>
+  summarise(Mortality_rate = median(mortality_rate, na.rm = TRUE),
+            Measles_coverage = median(measles_coverage, na.rm = TRUE),
+            Stunting_prevalence = median(stunting_prevalence, na.rm = TRUE)) |> 
+            ungroup() |>
+  mutate(who_region = factor(region)) |>
+  table1(x = formula(~ Mortality_rate + Measles_coverage + Stunting_prevalence | who_region),
+         data = _)
+
+
+#| message: false
+
+# Median per country
+country_medians <- left_df |>
+  filter(between(year, 1950, 2020)) |>
+  group_by(country_code, region) |>
+  summarise(Mortality_rate = median(mortality_rate, na.rm = TRUE),
+            Measles_coverage = median(measles_coverage, na.rm = TRUE),
+            Stunting_prevalence = median(stunting_prevalence, na.rm = TRUE)) |>
+  ungroup() |>
+  pivot_longer(cols = c(Mortality_rate,
+                        Measles_coverage,
+                        Stunting_prevalence),
+               names_to = "variable",
+               values_to = "value") |>
+  drop_na(value) |>
+  mutate(variable = str_replace(variable, "_", " "))
+
+# Boxplot of country medians per region
+country_medians |>
+  ggplot(aes(x = value,
+             y = fct_rev(region),
+             fill = region)) +
+  geom_boxplot(alpha = 0.5,
+               outlier.shape = NA) +
+  geom_jitter(height = 0.2,
+              size = 1,
+              alpha = 0.6) +
+  scale_fill_viridis_d(guide = "none") +
+  facet_wrap(~ variable, scales = "free_x") +
+  labs(title = "Country medians by WHO region",
+       x = "Median value per country",
+       y = NULL) +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
 ## Data coverage
 
-Data coverage was inspected through a simple count of the available data points throughout all 3 datasets. A Venn diagram was also made to better visualize how data is distributed.
+To get an overview of the data available for analysis, the number of countries, the range of years and the number of values for each variable were first counted.
+
+To see how the data points are shared between datasets, each data point was defined as a country-year, and a Venn diagram was made to show how many country-years are found in which datasets. The data points found in all three datasets are the ones being used for further analysis.
+
+Finally, a heatmap was made to show how coverage is distributed over time and across WHO regions. 
 
 ```{r}
 # Simple description of the data found
@@ -69,7 +124,30 @@ combo_counts <- coverage_data |>
   ungroup() |>
   count(combination)
 
-# Venn Diagram
+# Heatmap of data coverage per region and year
+region_sizes <- region_info |>
+  count(region, name = "n_countries")
+
+coverage_data |>
+  left_join(region_info, by = "country_code") |>
+  drop_na(region) |>
+  count(year, dataset, region) |>
+  left_join(region_sizes, by = "region") |>
+  mutate(share = n / n_countries * 100) |>
+  ggplot(aes(x = year,
+             y = region,
+             fill = share)) +
+  geom_tile() +
+  scale_fill_viridis_c(limits = c(0, 100)) +
+  facet_wrap(~ dataset, ncol = 1) +
+  labs(title = "Share of countries with data per year by WHO region",
+       x = "Year",
+       y = NULL,
+       fill = "% of countries") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+# Venn Diagram for shared data points
 mortality_venn <- mortality_clean |> 
   mutate(venn_name = str_c(country_code, year, sep = "_")) |> 
   pull(venn_name)
@@ -99,80 +177,6 @@ venn_plot <- venn.diagram(x = list(Mortality = mortality_venn,
                           cat.dist = c(0.05, 0.05, 0.05),
                           main = "Available data points in each dataset")
 venn_plot
-
-# Line plot of countries with data per year
-coverage_data |>
-  count(year, dataset) |>
-  ggplot(aes(x = year,
-             y = n,
-             colour = dataset)) +
-  geom_line(linewidth = 1) +
-  scale_colour_viridis_d() +
-  labs(title = "Countries with data per year",
-       x = "Year",
-       y = "Number of countries",
-       colour = NULL) +
-  theme_minimal() +
-  theme(plot.title = element_text(hjust = 0.5))
-
-
 ```
 
 
-## Medians by region in latest decade
-
-To describe the current situation across regions, each country's data was summarised over the last 2 decades (2000–2020). For every country, the median under-5 mortality rate, measles vaccine coverage, and stunting prevalence across the available years were calculated, giving one value per country.
-
-By using the median, the influence of single unusual years is reduced and sparse data, like stunting prevalence, is used to describe the decade. The country values were also summarised by region, including the number of countries with missing data for each variable.
-
-```{r}
-#| message: false
-
-# Info presented in a tidy table
-left_df |>
-  filter(between(year, 2000, 2020)) |>
-  group_by(country_code, region) |>
-  summarise(Mortality_rate = median(mortality_rate, na.rm = TRUE),
-            Measles_coverage = median(measles_coverage, na.rm = TRUE),
-            Stunting_prevalence = median(stunting_prevalence, na.rm = TRUE)) |> 
-            ungroup() |>
-  mutate(who_region = factor(region)) |>
-  table1(x = formula(~ Mortality_rate + Measles_coverage + Stunting_prevalence | who_region),
-         data = _)
-```
-
-## Visualize data by decades with ridgeline plot
-
-To visualize how under-5 mortality has changed over time, a ridgeline plot was created spanning from 1960 to 2020. Due to missing information in the intersections of the 3 datasets, only information from 2000 onwards is shown. Each ridge shows how countries in different regions were spread across mortality levels in that year, and the vertical line marks the median.
-
-```{r}
-# Prepare data for plot
-ridge_data <- left_df |>
-  mutate(decade = floor(year / 10) * 10) |>
-  filter(year == decade,
-         decade >= 1960) |>
-  drop_na(mortality_rate) |>
-  mutate(decade = as_factor(decade))
-
-# Ridgeline plot for under-5 mortality per region
-ridge_data |>
-  ggplot(aes(x = mortality_rate,
-             y = fct_rev(decade),
-             fill = decade)) +
-  geom_density_ridges(scale = 1.5,
-                      alpha = 0.8,
-                      quantile_lines = TRUE,
-                      quantiles = 2) +
-  scale_x_log10() +
-  scale_fill_viridis_d(guide = "none") +
-  facet_wrap(~ region) +
-  labs(title = "Under-5 mortality by decade and WHO region",
-       x = "Under-5 mortality (per 1,000 live births, log scale)",
-       y = NULL) +
-  theme_ridges() +
-  theme(plot.title = element_text(hjust = 0.5),
-        axis.text = element_text(size = 8),
-        axis.title = element_text(size = 9),
-        strip.text = element_text(size = 9))
-
-```
