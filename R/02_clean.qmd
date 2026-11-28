@@ -30,13 +30,8 @@ mortality_clean <- mortality_raw |>
     country = Location,
     region = ParentLocation,
     year = Period,
-    sex = Dim1,
     mortality_rate
-  ) %>%
-  filter(
-    sex == "Both sexes"
   )
-
 ```
 
 ## Clean Measles Data
